@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" rx="16" fill="#ffffff"/><svg x="12" y="8" width="76" height="84" viewBox="80 140 365 450">
+  <title>Canvas Studio — CS</title>
+  <!-- Parallel edges share the same isometric grid. -->
+  <path fill="#ff8b32" d="M93 245 270 146 434 239 391 264 270 197 138 271Z"/>
+  <path fill="#ff7824" d="M93 245 138 271 138 454 268 532 268 585 93 485Z"/>
+  <path fill="#e96b1a" d="M138 271 270 197 270 248 175 298 175 428 138 454Z"/>
+  <path fill="#ffae65" d="M270 197 391 264 391 314 270 248Z"/>
+  <path fill="#202b35" d="M391 264 434 239 434 290 391 314Z"/>
+  <path fill="#ffae65" d="M138 454 175 428 311 505 268 532Z"/>
+  <path fill="#313c46" d="M205 321 301 266 345 291 290 322 434 401 391 426Z"/>
+  <path fill="#ff8934" d="M205 321 391 426 391 490 205 385Z"/>
+  <path fill="#202b35" d="M391 426 434 401 434 495 268 585 268 532 391 464Z"/>
+</svg></svg>

@@ -1,0 +1,2051 @@
+{
+  "source": "Canvas-authored glyph geometry rendered as 3D metal/enamel using neutral procedural studio lighting",
+  "size": 128,
+  "rows": [
+    {
+      "name": "Tool_shell",
+      "theme": "light",
+      "file": "Tool_shell-light.png",
+      "bytes": 10568,
+      "sha256": "556836c9164ffbfd9012c68bb8def7f00fd1adcb868d19f4a5bd9cd5cace111d"
+    },
+    {
+      "name": "Tool_home",
+      "theme": "light",
+      "file": "Tool_home-light.png",
+      "bytes": 7358,
+      "sha256": "516a988da9b230dc4c3bb8fa78af6370fce37e2d1d84cd59b29b9b2f28513557"
+    },
+    {
+      "name": "Tool_copy",
+      "theme": "light",
+      "file": "Tool_copy-light.png",
+      "bytes": 6275,
+      "sha256": "473ea3be25841849811bbb357ef062be9c70f985678efee48b95c421bedd0039"
+    },
+    {
+      "name": "Tool_paste",
+      "theme": "light",
+      "file": "Tool_paste-light.png",
+      "bytes": 9319,
+      "sha256": "f1995ff24416f06ac69ba63f3f7bdf146a5b6dd6f1cd2301b1552066bac428cd"
+    },
+    {
+      "name": "Tool_duplicate",
+      "theme": "light",
+      "file": "Tool_duplicate-light.png",
+      "bytes": 10227,
+      "sha256": "f5a659d55e93a77edf2bdf88db265c35cf0cec05cce4d8dba84ff6fbad799331"
+    },
+    {
+      "name": "Tool_trash",
+      "theme": "light",
+      "file": "Tool_trash-light.png",
+      "bytes": 8027,
+      "sha256": "a6c872e7526ca3f19e2e46a47a7ff7b3c9ebf3e9be6e2f8376a4af5cd4e4b15d"
+    },
+    {
+      "name": "Tool_undo",
+      "theme": "light",
+      "file": "Tool_undo-light.png",
+      "bytes": 5509,
+      "sha256": "8d0a212c0f3ab24de0de06fe8574260f03097fd45218e5627026a2843f017596"
+    },
+    {
+      "name": "Tool_redo",
+      "theme": "light",
+      "file": "Tool_redo-light.png",
+      "bytes": 5504,
+      "sha256": "38460307e7328f17f25463bc3c829e056f6645717c177e45605579653cffc66d"
+    },
+    {
+      "name": "Tool_note",
+      "theme": "light",
+      "file": "Tool_note-light.png",
+      "bytes": 8492,
+      "sha256": "0e929adc15646a5dfdcca474ec03d2bb79579133f720f0882c8da177287b4aa0"
+    },
+    {
+      "name": "Tool_import",
+      "theme": "light",
+      "file": "Tool_import-light.png",
+      "bytes": 7550,
+      "sha256": "e3a0b7694c77408fd84fe1369997c1b4db3f99e9c5279d6ebfe204664d64c60a"
+    },
+    {
+      "name": "Tool_export",
+      "theme": "light",
+      "file": "Tool_export-light.png",
+      "bytes": 7631,
+      "sha256": "3e59cbe1dc85d40b8d5b288e69f73b5023ebfd1e4b7a3fd93d3d71666b3cca66"
+    },
+    {
+      "name": "Tool_settings",
+      "theme": "light",
+      "file": "Tool_settings-light.png",
+      "bytes": 8299,
+      "sha256": "70d56649eb81ab70bbd5b940ee6663d812e828f086bc1054913ed27a6a5b0d91"
+    },
+    {
+      "name": "Tool_keyboard",
+      "theme": "light",
+      "file": "Tool_keyboard-light.png",
+      "bytes": 10520,
+      "sha256": "7203a8bfc2ea823e2ac82c65008abab4577bce03a1ac59edbac7314d4a0dff57"
+    },
+    {
+      "name": "Tool_guide",
+      "theme": "light",
+      "file": "Tool_guide-light.png",
+      "bytes": 9920,
+      "sha256": "92f5bd0842478b0e6bdc3bfe39eb3a554dfa5c908e32ae8527007eb2f0d9446a"
+    },
+    {
+      "name": "Tool_group",
+      "theme": "light",
+      "file": "Tool_group-light.png",
+      "bytes": 10450,
+      "sha256": "7cbe833842ea5eaf9e540e88242c0d5c967a659953f0f17f3962cfb8e5c5b55d"
+    },
+    {
+      "name": "Tool_ungroup",
+      "theme": "light",
+      "file": "Tool_ungroup-light.png",
+      "bytes": 8917,
+      "sha256": "ad89ffb12bd213af495bc50cd70989043d066638a27ab709654ab528b0ecae7c"
+    },
+    {
+      "name": "Tool_mirror",
+      "theme": "light",
+      "file": "Tool_mirror-light.png",
+      "bytes": 6928,
+      "sha256": "1597d02124dfe3403b152b2d2ff48f7b2d489b3d55314039d2b39d8dc87e2b96"
+    },
+    {
+      "name": "Tool_chamfer",
+      "theme": "light",
+      "file": "Tool_chamfer-light.png",
+      "bytes": 8411,
+      "sha256": "d00459aa211d0f27fc6af7fd2c98ddaaf13efa000d3b2ae53904597311c49b15"
+    },
+    {
+      "name": "Tool_fillet",
+      "theme": "light",
+      "file": "Tool_fillet-light.png",
+      "bytes": 7394,
+      "sha256": "99083cbe16cec78303554a3b379c1f36de678305a2126a4b00bd2a29b9e1dc2a"
+    },
+    {
+      "name": "Tool_snap",
+      "theme": "light",
+      "file": "Tool_snap-light.png",
+      "bytes": 11632,
+      "sha256": "11448666840ad8fdc79505a8528a0e5430db7546b74c88c183235b2a00c6107d"
+    },
+    {
+      "name": "Tool_workplane",
+      "theme": "light",
+      "file": "Tool_workplane-light.png",
+      "bytes": 8102,
+      "sha256": "bb63cac1b7e701859b0aec808ca4121358e8701be7311eba1c758f842af5c626"
+    },
+    {
+      "name": "Tool_drop",
+      "theme": "light",
+      "file": "Tool_drop-light.png",
+      "bytes": 8249,
+      "sha256": "89ad0ef73cc2623a7361bcc53f3c297c22b1a1358175f9c9d76e5e6ed68b5168"
+    },
+    {
+      "name": "Tool_center",
+      "theme": "light",
+      "file": "Tool_center-light.png",
+      "bytes": 10617,
+      "sha256": "269cff444a32690c6be6d9b42e9408ea29db7a49717ca9ae59f730f58e85f6cd"
+    },
+    {
+      "name": "Tool_shapeAdd",
+      "theme": "light",
+      "file": "Tool_shapeAdd-light.png",
+      "bytes": 8062,
+      "sha256": "899df9f73e735de1e78bbe92c769d63ac7c22bae9c379b21ba793e1c0597782e"
+    },
+    {
+      "name": "Tool_hide",
+      "theme": "light",
+      "file": "Tool_hide-light.png",
+      "bytes": 11762,
+      "sha256": "bb5a88ca223d972404962209ac0669b24bb2807c89d157302c41d4b0c13ec3ed"
+    },
+    {
+      "name": "Tool_caret",
+      "theme": "light",
+      "file": "Tool_caret-light.png",
+      "bytes": 3293,
+      "sha256": "0f1a5a37fdc36d54de7938669dc781aafdaf0806e2cafdb15298a169afe93bf8"
+    },
+    {
+      "name": "Tool_intersect",
+      "theme": "light",
+      "file": "Tool_intersect-light.png",
+      "bytes": 9786,
+      "sha256": "b7871d78565966e94611c2ba925b5b6cdf24c1c1efb307aabdc5911a6b3aa3d6"
+    },
+    {
+      "name": "Tool_align",
+      "theme": "light",
+      "file": "Tool_align-light.png",
+      "bytes": 8111,
+      "sha256": "6eb40dd8d24831f2ccd6eb84204fb1563d18eb7c06effb0ba5c7fefee27522ac"
+    },
+    {
+      "name": "Tool_ellipse",
+      "theme": "light",
+      "file": "Tool_ellipse-light.png",
+      "bytes": 8486,
+      "sha256": "db0bec0815baa998dea2120244f44579efabbb757170a5164d3ed32c743a6976"
+    },
+    {
+      "name": "Tool_halfCircle",
+      "theme": "light",
+      "file": "Tool_halfCircle-light.png",
+      "bytes": 7463,
+      "sha256": "c3fcbdf3be2bc3a4f2ed33fa493c9d879e6cb6f1610ccddb9a0fe42b898e884d"
+    },
+    {
+      "name": "Tool_pie",
+      "theme": "light",
+      "file": "Tool_pie-light.png",
+      "bytes": 8468,
+      "sha256": "e17ed2107f71ec7924700e5b11cd23b1ccfb977f4d749bd27334cce7e1e53ee8"
+    },
+    {
+      "name": "Tool_sketchLine",
+      "theme": "light",
+      "file": "Tool_sketchLine-light.png",
+      "bytes": 5114,
+      "sha256": "75976ce521a14e6704cfb3ca99addbd16c9ea39b5d1759556dd9b3ca361f27d6"
+    },
+    {
+      "name": "Tool_sketchBezier",
+      "theme": "light",
+      "file": "Tool_sketchBezier-light.png",
+      "bytes": 6579,
+      "sha256": "f41564260a12adcfceb0b4d6564570efe8fbb5573c04cb1466456937671a0d71"
+    },
+    {
+      "name": "Tool_sketchSmooth",
+      "theme": "light",
+      "file": "Tool_sketchSmooth-light.png",
+      "bytes": 5442,
+      "sha256": "41d70749c18c2f04c1e625f57a645495823f3052607ea2014be87d7dcf374850"
+    },
+    {
+      "name": "Tool_sketchSelect",
+      "theme": "light",
+      "file": "Tool_sketchSelect-light.png",
+      "bytes": 6728,
+      "sha256": "5db1356c62b5d611a9d8b0f828b73785a95bcb2adb52b94f2d0dacfe1693cfe4"
+    },
+    {
+      "name": "Tool_sketchImage",
+      "theme": "light",
+      "file": "Tool_sketchImage-light.png",
+      "bytes": 9624,
+      "sha256": "26d56eec05546abc2075e483a39e3f67bc91bc544d805da7929269cb65b75f5f"
+    },
+    {
+      "name": "Tool_sketchRefine",
+      "theme": "light",
+      "file": "Tool_sketchRefine-light.png",
+      "bytes": 7167,
+      "sha256": "915f7f3e87c0e9e790b4af10f9cfd06e17fe80ebd7b2b5ea21d1cb845efba034"
+    },
+    {
+      "name": "Tool_sketchErase",
+      "theme": "light",
+      "file": "Tool_sketchErase-light.png",
+      "bytes": 8842,
+      "sha256": "9974d1c7a21e28792c37c0a0bdf458cb4dd9ba8014a869a1d6db4a140ecbaa9f"
+    },
+    {
+      "name": "Tool_sketchMeasure",
+      "theme": "light",
+      "file": "Tool_sketchMeasure-light.png",
+      "bytes": 8358,
+      "sha256": "8966780c44420dac540af6fa427c5086d9523f81ec6ed4082b5218ae00a28894"
+    },
+    {
+      "name": "Tool_sketchTo3d",
+      "theme": "light",
+      "file": "Tool_sketchTo3d-light.png",
+      "bytes": 8914,
+      "sha256": "8ddbac3ad4f3fd4af774674fa7a3c493e918020e9500b41d2790405b0e09ec77"
+    },
+    {
+      "name": "Tool_sketchEdit3d",
+      "theme": "light",
+      "file": "Tool_sketchEdit3d-light.png",
+      "bytes": 10823,
+      "sha256": "bc3474488eb705ce034c153296cdae6bd05308531857cbac7c49f1d1d27b1478"
+    },
+    {
+      "name": "Tool_boltCircle",
+      "theme": "light",
+      "file": "Tool_boltCircle-light.png",
+      "bytes": 10988,
+      "sha256": "897d8f9b23b49259bdcd36bb1ff4647fdb0c9c37152574aad4e1cbc20cee37b7"
+    },
+    {
+      "name": "Tool_threeSegmentBevel",
+      "theme": "light",
+      "file": "Tool_threeSegmentBevel-light.png",
+      "bytes": 7050,
+      "sha256": "72b4fba179bd8cb0a10abee5a64a8dc9313c0447b7ef829922b3c6fa2a0395e3"
+    },
+    {
+      "name": "Home",
+      "theme": "light",
+      "file": "Home-light.png",
+      "bytes": 7358,
+      "sha256": "516a988da9b230dc4c3bb8fa78af6370fce37e2d1d84cd59b29b9b2f28513557"
+    },
+    {
+      "name": "Copy",
+      "theme": "light",
+      "file": "Copy-light.png",
+      "bytes": 6275,
+      "sha256": "473ea3be25841849811bbb357ef062be9c70f985678efee48b95c421bedd0039"
+    },
+    {
+      "name": "Trash2",
+      "theme": "light",
+      "file": "Trash2-light.png",
+      "bytes": 8027,
+      "sha256": "a6c872e7526ca3f19e2e46a47a7ff7b3c9ebf3e9be6e2f8376a4af5cd4e4b15d"
+    },
+    {
+      "name": "History",
+      "theme": "light",
+      "file": "History-light.png",
+      "bytes": 5509,
+      "sha256": "8d0a212c0f3ab24de0de06fe8574260f03097fd45218e5627026a2843f017596"
+    },
+    {
+      "name": "RotateCcw",
+      "theme": "light",
+      "file": "RotateCcw-light.png",
+      "bytes": 5509,
+      "sha256": "8d0a212c0f3ab24de0de06fe8574260f03097fd45218e5627026a2843f017596"
+    },
+    {
+      "name": "RotateCw",
+      "theme": "light",
+      "file": "RotateCw-light.png",
+      "bytes": 5504,
+      "sha256": "38460307e7328f17f25463bc3c829e056f6645717c177e45605579653cffc66d"
+    },
+    {
+      "name": "ChevronDown",
+      "theme": "light",
+      "file": "ChevronDown-light.png",
+      "bytes": 3293,
+      "sha256": "0f1a5a37fdc36d54de7938669dc781aafdaf0806e2cafdb15298a169afe93bf8"
+    },
+    {
+      "name": "Brush",
+      "theme": "light",
+      "file": "Brush-light.png",
+      "bytes": 7218,
+      "sha256": "ffd85fa707affe7efddca9f32fdfd521031f8589ef39577a398f763d6bdcd5cc"
+    },
+    {
+      "name": "Box",
+      "theme": "light",
+      "file": "Box-light.png",
+      "bytes": 4604,
+      "sha256": "e0df815a47cdc7b7f8888eb8c8b5603461e4930c5911061fb4327ae361ee2a7b"
+    },
+    {
+      "name": "Cuboid",
+      "theme": "light",
+      "file": "Cuboid-light.png",
+      "bytes": 4864,
+      "sha256": "fc2424d1864b663bda79b92710a58516ab48372f6cd2d9912bb46d37522510c0"
+    },
+    {
+      "name": "Boxes",
+      "theme": "light",
+      "file": "Boxes-light.png",
+      "bytes": 10084,
+      "sha256": "d1aa443f37f5a11d2d3d00db1c10ae9b0f2320b3c0b13f98de03d81df8f28f4a"
+    },
+    {
+      "name": "Layers",
+      "theme": "light",
+      "file": "Layers-light.png",
+      "bytes": 10629,
+      "sha256": "99f5ed31f5089abbc7725ac7a493649dd7ae5ba4fd332258c23da20ae0926cd9"
+    },
+    {
+      "name": "Search",
+      "theme": "light",
+      "file": "Search-light.png",
+      "bytes": 9841,
+      "sha256": "b0074b922ddc6fca557f8c2a4fa67c761e848c6060e3a7dff4afbc445d809c06"
+    },
+    {
+      "name": "Clock3",
+      "theme": "light",
+      "file": "Clock3-light.png",
+      "bytes": 8685,
+      "sha256": "7dd382fe14cb0fefd1cc51a3112a0755475b67b39cb94110c113afe55922f759"
+    },
+    {
+      "name": "EllipsisVertical",
+      "theme": "light",
+      "file": "EllipsisVertical-light.png",
+      "bytes": 2269,
+      "sha256": "9395a7021c316d7c15b8e849207b08b8a98eb05316b31d13c8a433247b071685"
+    },
+    {
+      "name": "GripVertical",
+      "theme": "light",
+      "file": "GripVertical-light.png",
+      "bytes": 3368,
+      "sha256": "099d8eead6024899442ec4a71344fac4e15b2c5741b1fe06b07128860c27f071"
+    },
+    {
+      "name": "FileUp",
+      "theme": "light",
+      "file": "FileUp-light.png",
+      "bytes": 7996,
+      "sha256": "a1bb60dc83c4432e0c1d2cdb31a36153e0d553988bd85a039e683b89a6b2f0e5"
+    },
+    {
+      "name": "FolderOpen",
+      "theme": "light",
+      "file": "FolderOpen-light.png",
+      "bytes": 9863,
+      "sha256": "9b9a3752346d562e595c249fa2b2aa6450ee636877eda0e9d11517631640bfe6"
+    },
+    {
+      "name": "FolderInput",
+      "theme": "light",
+      "file": "FolderInput-light.png",
+      "bytes": 9574,
+      "sha256": "bde5a0d0fd2f497fb73c58d7da71ba17541fad4268bf91fc6f5d8f9c4ac55d41"
+    },
+    {
+      "name": "FolderUp",
+      "theme": "light",
+      "file": "FolderUp-light.png",
+      "bytes": 8546,
+      "sha256": "318b5f9ae8e8b11703e8c21faf5defc7139a7d6843409fef99704115a23b7591"
+    },
+    {
+      "name": "FolderPlus",
+      "theme": "light",
+      "file": "FolderPlus-light.png",
+      "bytes": 8030,
+      "sha256": "7a5f24798b77e4ac873d0afa290aea78c17a31c3f98f8f2cd7d1e6f98a0b963c"
+    },
+    {
+      "name": "FolderKanban",
+      "theme": "light",
+      "file": "FolderKanban-light.png",
+      "bytes": 7816,
+      "sha256": "1e1419423a459f9f4aa00af52e282ada901d8ce5d9880c9f2ef967c535d05a2f"
+    },
+    {
+      "name": "Download",
+      "theme": "light",
+      "file": "Download-light.png",
+      "bytes": 6729,
+      "sha256": "dc3447cbbe3b181eb7bd2ad66977d3bed89143eb6a5bb3e75986566e4c9c3175"
+    },
+    {
+      "name": "CloudUpload",
+      "theme": "light",
+      "file": "CloudUpload-light.png",
+      "bytes": 10264,
+      "sha256": "e336e41240841714f293cb59231a15d2f37f87270b82f84afbb6b7b0260f5a22"
+    },
+    {
+      "name": "ExternalLink",
+      "theme": "light",
+      "file": "ExternalLink-light.png",
+      "bytes": 8624,
+      "sha256": "5463e9c1197a9636282b9cd8510cce4b6aa4382bbbe0084595c7da1bb20a89d0"
+    },
+    {
+      "name": "Check",
+      "theme": "light",
+      "file": "Check-light.png",
+      "bytes": 2816,
+      "sha256": "6437070c164daf6e88c76985d130a67933ecdb143d8b3c913271c05b2ddfc8f0"
+    },
+    {
+      "name": "CircleCheck",
+      "theme": "light",
+      "file": "CircleCheck-light.png",
+      "bytes": 9884,
+      "sha256": "71ebd07343f79172d58d982d5c738fa2763514afbfa712ca41222cbd0d8e2cf7"
+    },
+    {
+      "name": "CheckCircle2",
+      "theme": "light",
+      "file": "CheckCircle2-light.png",
+      "bytes": 9884,
+      "sha256": "71ebd07343f79172d58d982d5c738fa2763514afbfa712ca41222cbd0d8e2cf7"
+    },
+    {
+      "name": "X",
+      "theme": "light",
+      "file": "X-light.png",
+      "bytes": 5747,
+      "sha256": "40909cb35a6a4c096457407373702e00089586d28ec8ea728cfa75cb8c6413df"
+    },
+    {
+      "name": "Plus",
+      "theme": "light",
+      "file": "Plus-light.png",
+      "bytes": 3691,
+      "sha256": "4b21e04689087c0c80530a7445953fee43a8abf8616c42ad805d4eff99b8dee3"
+    },
+    {
+      "name": "Minus",
+      "theme": "light",
+      "file": "Minus-light.png",
+      "bytes": 2623,
+      "sha256": "f75cb54900d4f814a4ca2d28a1aebcb8dd22067e800c88805e895e7ae2f467de"
+    },
+    {
+      "name": "ChevronUp",
+      "theme": "light",
+      "file": "ChevronUp-light.png",
+      "bytes": 3466,
+      "sha256": "156e83f4ffaa49a6071cdbd225533e13b2ca9b422e3e1971ca7ac841487e737c"
+    },
+    {
+      "name": "ChevronLeft",
+      "theme": "light",
+      "file": "ChevronLeft-light.png",
+      "bytes": 3561,
+      "sha256": "f0fb90180df204e00d9864e44f29949f89560365ffb3aa7a8f7b8b86c24af341"
+    },
+    {
+      "name": "ChevronRight",
+      "theme": "light",
+      "file": "ChevronRight-light.png",
+      "bytes": 3487,
+      "sha256": "f4284db401979305535777116bd1a65e713be96c860ba393058f41bb917cc20d"
+    },
+    {
+      "name": "Square",
+      "theme": "light",
+      "file": "Square-light.png",
+      "bytes": 5530,
+      "sha256": "eeeab005e0feb05854f9f44ead0517dfe00a93baca763a8964e5fe4369a740fc"
+    },
+    {
+      "name": "Circle",
+      "theme": "light",
+      "file": "Circle-light.png",
+      "bytes": 8655,
+      "sha256": "90981f81a1f4eb20bb9962c311a07ad7ae8c494af37eec84c480325015ff6b4b"
+    },
+    {
+      "name": "CircleDashed",
+      "theme": "light",
+      "file": "CircleDashed-light.png",
+      "bytes": 7607,
+      "sha256": "266701ef688f960067a1a010fc744172d21b5ffa52b498523145282f7885e135"
+    },
+    {
+      "name": "CircleDotDashed",
+      "theme": "light",
+      "file": "CircleDotDashed-light.png",
+      "bytes": 7871,
+      "sha256": "e3328861182b184bfdc6bffce336172068750cf66830091c86060f80aeb899e0"
+    },
+    {
+      "name": "Triangle",
+      "theme": "light",
+      "file": "Triangle-light.png",
+      "bytes": 7356,
+      "sha256": "fb6b18d97250cc2622d42d80509cf0c783ced61497857b3eb8f1066be37871b1"
+    },
+    {
+      "name": "Hexagon",
+      "theme": "light",
+      "file": "Hexagon-light.png",
+      "bytes": 8266,
+      "sha256": "19c9bd52b73cedc5c48eaeeba6d651a541324b56722e7c35816afecbf7ad4c9b"
+    },
+    {
+      "name": "TriangleAlert",
+      "theme": "light",
+      "file": "TriangleAlert-light.png",
+      "bytes": 8475,
+      "sha256": "25fd168f564d833f34236a40ecf92f6ac1cae6de593d183be0a4d5559dcec1c4"
+    },
+    {
+      "name": "CircleAlert",
+      "theme": "light",
+      "file": "CircleAlert-light.png",
+      "bytes": 8266,
+      "sha256": "cdee2a79e0b36f1b62064cff1ca662d24f258528a65498b913476e00c7878522"
+    },
+    {
+      "name": "CircleHelp",
+      "theme": "light",
+      "file": "CircleHelp-light.png",
+      "bytes": 10078,
+      "sha256": "36e2048ca7cd37a6c9436c1975b2e0e8c90ce358503db2a10c2d384c8a924b37"
+    },
+    {
+      "name": "LoaderCircle",
+      "theme": "light",
+      "file": "LoaderCircle-light.png",
+      "bytes": 7988,
+      "sha256": "52621d9e8fe7545983c11f56a999d0db004955c235f0c25047c8d3a483d19100"
+    },
+    {
+      "name": "Eye",
+      "theme": "light",
+      "file": "Eye-light.png",
+      "bytes": 11573,
+      "sha256": "82a49691305ab107dacf380054c11ab09e280e1d1b17cdc4be6c93e90d5d4095"
+    },
+    {
+      "name": "EyeOff",
+      "theme": "light",
+      "file": "EyeOff-light.png",
+      "bytes": 10737,
+      "sha256": "92e1360551f18945b9790d060f1dc00b265429d573ce617501319ae921c2b10d"
+    },
+    {
+      "name": "LockKeyhole",
+      "theme": "light",
+      "file": "LockKeyhole-light.png",
+      "bytes": 8617,
+      "sha256": "47b0d2448b38f5199af47eff292456508fe81735d625615ac263c4a6868b051f"
+    },
+    {
+      "name": "LockKeyholeOpen",
+      "theme": "light",
+      "file": "LockKeyholeOpen-light.png",
+      "bytes": 8335,
+      "sha256": "4c9f94c75e9bb6fe6b8f9f3e6cd8255da48a6b9410e43fb1f8672fd5d73c6f7c"
+    },
+    {
+      "name": "Link",
+      "theme": "light",
+      "file": "Link-light.png",
+      "bytes": 9473,
+      "sha256": "7f333dfee1ee935996ad353a21bc5590a62552f751e65d462d96288f68f489cf"
+    },
+    {
+      "name": "Link2",
+      "theme": "light",
+      "file": "Link2-light.png",
+      "bytes": 9473,
+      "sha256": "7f333dfee1ee935996ad353a21bc5590a62552f751e65d462d96288f68f489cf"
+    },
+    {
+      "name": "Link2Off",
+      "theme": "light",
+      "file": "Link2Off-light.png",
+      "bytes": 8994,
+      "sha256": "1be0cd6ffb16b8625670f2df4ac07c0360b169bf690db400d75527d03661facc"
+    },
+    {
+      "name": "Unlink2",
+      "theme": "light",
+      "file": "Unlink2-light.png",
+      "bytes": 8370,
+      "sha256": "ef02025d076ccf0bda090cb98e623876c8571cc925feb35424cecae9f1460977"
+    },
+    {
+      "name": "Grid3X3",
+      "theme": "light",
+      "file": "Grid3X3-light.png",
+      "bytes": 12075,
+      "sha256": "58400535ff0c46b523aa78c4b4d9ce91d803311dee0cc56d8e7e8a4c125572b4"
+    },
+    {
+      "name": "PanelTop",
+      "theme": "light",
+      "file": "PanelTop-light.png",
+      "bytes": 8566,
+      "sha256": "800ce5db3b0363d65b058e2ab996d20a48242d208d17ffd7fbc1d5a8c14f4ac7"
+    },
+    {
+      "name": "PanelsTopLeft",
+      "theme": "light",
+      "file": "PanelsTopLeft-light.png",
+      "bytes": 9071,
+      "sha256": "5113f2fabac4a3f95b1b9037b64f56220be6aa7b0d1f27d046b2b307fb273da3"
+    },
+    {
+      "name": "List",
+      "theme": "light",
+      "file": "List-light.png",
+      "bytes": 6440,
+      "sha256": "239b77f58d19306348a3b93a3392bfc3df2c1f11b232297fa95acb24f1793f08"
+    },
+    {
+      "name": "ListTree",
+      "theme": "light",
+      "file": "ListTree-light.png",
+      "bytes": 6156,
+      "sha256": "92159a30e4481a62c75f84608ef42d6e2a3a690efc463152fc80e64080e524f1"
+    },
+    {
+      "name": "SlidersHorizontal",
+      "theme": "light",
+      "file": "SlidersHorizontal-light.png",
+      "bytes": 9380,
+      "sha256": "cb32018a3533380c8cb2246053dc1d0e43133c43c479ff2d505a6eb0c8f6fbaf"
+    },
+    {
+      "name": "CornerDownRight",
+      "theme": "light",
+      "file": "CornerDownRight-light.png",
+      "bytes": 5355,
+      "sha256": "d5a9c0420ee804d8522e1655ce783309e6fca4aa7175dc88f84f39796fa595d2"
+    },
+    {
+      "name": "BetweenHorizontalStart",
+      "theme": "light",
+      "file": "BetweenHorizontalStart-light.png",
+      "bytes": 4921,
+      "sha256": "5793c104633e89fac5f5ddf1b39228e68c400abcf7c6e246c2b57a08eb757306"
+    },
+    {
+      "name": "Move3d",
+      "theme": "light",
+      "file": "Move3d-light.png",
+      "bytes": 7525,
+      "sha256": "26f1e41028634e013bf209b837b3c52566810cf4512403a50a9b2fa1501f5422"
+    },
+    {
+      "name": "Rotate3d",
+      "theme": "light",
+      "file": "Rotate3d-light.png",
+      "bytes": 8710,
+      "sha256": "4a5fa8b108385415d18bda0b964bd75fec0c95153e0bdd74274f9fb28456ce90"
+    },
+    {
+      "name": "RefreshCw",
+      "theme": "light",
+      "file": "RefreshCw-light.png",
+      "bytes": 10651,
+      "sha256": "631a3252f85ec8cc724a2473434049a23616a26e2d086b60473fd59bffc866c9"
+    },
+    {
+      "name": "Ruler",
+      "theme": "light",
+      "file": "Ruler-light.png",
+      "bytes": 5655,
+      "sha256": "5dd4001ca43f9bd8d9cbe9750e81a2fb9f66112a4476e907c44841fa183464fa"
+    },
+    {
+      "name": "RulerDimensionLine",
+      "theme": "light",
+      "file": "RulerDimensionLine-light.png",
+      "bytes": 7045,
+      "sha256": "f4048dfaa0a0da60c276c4e101abc96383338dae61edacc7cbc0f98f7d1b45ce"
+    },
+    {
+      "name": "Pencil",
+      "theme": "light",
+      "file": "Pencil-light.png",
+      "bytes": 2357,
+      "sha256": "cdd0b82188541b9c373ff9103d35526833066b0759a658738902aaba3cb72ed0"
+    },
+    {
+      "name": "Eraser",
+      "theme": "light",
+      "file": "Eraser-light.png",
+      "bytes": 9832,
+      "sha256": "2ad76af55d34ca0fc3d6757ab53e8a266fca1256fde4686335fb392fefd9ba86"
+    },
+    {
+      "name": "MousePointer2",
+      "theme": "light",
+      "file": "MousePointer2-light.png",
+      "bytes": 7494,
+      "sha256": "dffedb4458d61cc781b2979d4d8d0b319fbd19c84f0477740d70c31ce220702f"
+    },
+    {
+      "name": "Crosshair",
+      "theme": "light",
+      "file": "Crosshair-light.png",
+      "bytes": 8824,
+      "sha256": "f56c313d92596cc01b726b335a9804fe3f031240649d8b88052ae659b6c60422"
+    },
+    {
+      "name": "MapPin",
+      "theme": "light",
+      "file": "MapPin-light.png",
+      "bytes": 10096,
+      "sha256": "5f9d7a1b4d4151b03e7830461299c746f13cec8a8aae09d30bd3a520f5ee5c76"
+    },
+    {
+      "name": "Cable",
+      "theme": "light",
+      "file": "Cable-light.png",
+      "bytes": 7495,
+      "sha256": "db3b7ab0d4cfadecf931dbb9bc89ab1a497464c204888784249973ee906b4caf"
+    },
+    {
+      "name": "Plug",
+      "theme": "light",
+      "file": "Plug-light.png",
+      "bytes": 8453,
+      "sha256": "8ccca49be842c95cf15df7709ebdb3a43eb3f76b9fca762d68728f3feb427c1d"
+    },
+    {
+      "name": "Bolt",
+      "theme": "light",
+      "file": "Bolt-light.png",
+      "bytes": 7312,
+      "sha256": "a7097899960d612adc22c80cf524eb629cfc06fa35b8d79f32bbf4290116ea45"
+    },
+    {
+      "name": "Magnet",
+      "theme": "light",
+      "file": "Magnet-light.png",
+      "bytes": 10722,
+      "sha256": "0b4774a7f6982c8fd24cf68c48e0d0c646f339256be9fe8d46ab648c3e0de599"
+    },
+    {
+      "name": "Type",
+      "theme": "light",
+      "file": "Type-light.png",
+      "bytes": 5358,
+      "sha256": "ed884a3f7ab6695a341749894af3e1475ed141822c8cb4ec1786095371d3e1d9"
+    },
+    {
+      "name": "Braces",
+      "theme": "light",
+      "file": "Braces-light.png",
+      "bytes": 6765,
+      "sha256": "e4961141c24e1a415b8c09034e316f70dd27d5a48d1fceb4735ee1d584e74d1d"
+    },
+    {
+      "name": "Variable",
+      "theme": "light",
+      "file": "Variable-light.png",
+      "bytes": 8448,
+      "sha256": "59185274f0fb67695633a75a0846c178bd3ef6abb875c21ebab318dde06c5d68"
+    },
+    {
+      "name": "Split",
+      "theme": "light",
+      "file": "Split-light.png",
+      "bytes": 9083,
+      "sha256": "0c38e69cb775035f9ed3ba6b3395472cd9675cfae50bedee8eeed88650222262"
+    },
+    {
+      "name": "Send",
+      "theme": "light",
+      "file": "Send-light.png",
+      "bytes": 8943,
+      "sha256": "10b297a415aa3a79abe59f92d8605cf19b4e4ab0405f436ce189efbd96a27c1e"
+    },
+    {
+      "name": "Pause",
+      "theme": "light",
+      "file": "Pause-light.png",
+      "bytes": 5016,
+      "sha256": "8c21b2f516e8ba93f9553b0aa9c2526b12563068914da4c9e040d1f9a2e7f349"
+    },
+    {
+      "name": "Play",
+      "theme": "light",
+      "file": "Play-light.png",
+      "bytes": 5327,
+      "sha256": "4836db8dec1767758baac84638774a6df6c174c6eeb6fba000af1c7fb51b0a14"
+    },
+    {
+      "name": "ShieldCheck",
+      "theme": "light",
+      "file": "ShieldCheck-light.png",
+      "bytes": 9981,
+      "sha256": "afb02fcbec9bc2f87c0a9f844f6795fd4ce258fa3a8872fbd481b7e0008e8519"
+    },
+    {
+      "name": "User",
+      "theme": "light",
+      "file": "User-light.png",
+      "bytes": 8907,
+      "sha256": "8f9b9ce9f108a2bbdbea77a9d473e5867f76c4d89a440516bec1fdc8abb84049"
+    },
+    {
+      "name": "Bot",
+      "theme": "light",
+      "file": "Bot-light.png",
+      "bytes": 9229,
+      "sha256": "973090751066a84b63133bf6c47503ca6bbcbd66423da89fef0557660bd10533"
+    },
+    {
+      "name": "Wrench",
+      "theme": "light",
+      "file": "Wrench-light.png",
+      "bytes": 10275,
+      "sha256": "764b3fa43674480be08a9b074a1fe5673308293152009d12c0ff45c29eea6903"
+    },
+    {
+      "name": "Sparkles",
+      "theme": "light",
+      "file": "Sparkles-light.png",
+      "bytes": 9636,
+      "sha256": "5944bc4babc7ed0476a604783d6a76e62a534c3cd2b640458c75ed9140c216d4"
+    },
+    {
+      "name": "Film",
+      "theme": "light",
+      "file": "Film-light.png",
+      "bytes": 11291,
+      "sha256": "3f831568ff0013bc9603e37259f8927645391d41d53faa78258e0a9836b54e42"
+    },
+    {
+      "name": "Gamepad2",
+      "theme": "light",
+      "file": "Gamepad2-light.png",
+      "bytes": 11331,
+      "sha256": "79c4f64bcf5d4aa9dd4af37a115f5601887ec4b91371e3ab954d8feeb724853d"
+    },
+    {
+      "name": "Shapes",
+      "theme": "light",
+      "file": "Shapes-light.png",
+      "bytes": 11734,
+      "sha256": "edae42dcb97fe632fca87c9c6e9e3a871173d1a5c359a48eb6a9379253ba0e15"
+    },
+    {
+      "name": "PaintBucket",
+      "theme": "light",
+      "file": "PaintBucket-light.png",
+      "bytes": 11726,
+      "sha256": "a9ee5a879ff66b6ad5c9d9f73320992a7467a779116ee4c2971790210a4c9870"
+    },
+    {
+      "name": "Pipette",
+      "theme": "light",
+      "file": "Pipette-light.png",
+      "bytes": 8245,
+      "sha256": "6e833453178a7cce0ee0b57cf28abdc8f21c25941382828502cb5b145495a787"
+    },
+    {
+      "name": "SprayCan",
+      "theme": "light",
+      "file": "SprayCan-light.png",
+      "bytes": 7929,
+      "sha256": "555bfba6dc936e0c6666a4dc40fe618bac217fd19c66d7b0122a40c65f055f01"
+    },
+    {
+      "name": "Palette",
+      "theme": "light",
+      "file": "Palette-light.png",
+      "bytes": 11807,
+      "sha256": "b574480163144ae65b083e58ebbe94e3193971f7c74c9d431fad2374844e23a4"
+    },
+    {
+      "name": "Waves",
+      "theme": "light",
+      "file": "Waves-light.png",
+      "bytes": 12993,
+      "sha256": "e468e267e437ca299aa179dd2ea4e15bd73d85379e33ca8f6d8e6facfdb53eac"
+    },
+    {
+      "name": "Volume2",
+      "theme": "light",
+      "file": "Volume2-light.png",
+      "bytes": 10159,
+      "sha256": "dfa7a141bd187c7276ba174f3dc7325cba01cdf101e156eed3256ffc0c5b406f"
+    },
+    {
+      "name": "VolumeX",
+      "theme": "light",
+      "file": "VolumeX-light.png",
+      "bytes": 7900,
+      "sha256": "307ce3f95a9caeac447013316f9fbd4d48d13b5f87cc73003cbdc69c948a2f73"
+    },
+    {
+      "name": "Tool_shell",
+      "theme": "dark",
+      "file": "Tool_shell-dark.png",
+      "bytes": 10918,
+      "sha256": "3f036c7ae2ab598b76392d3f2ab92a6319b53498c984389b83d016f4d56a5f10"
+    },
+    {
+      "name": "Tool_home",
+      "theme": "dark",
+      "file": "Tool_home-dark.png",
+      "bytes": 7543,
+      "sha256": "e0cd1c5e513c676e0cb5d5447ad26ff980cdeee3032d4d198c31b72d2cf54fcf"
+    },
+    {
+      "name": "Tool_copy",
+      "theme": "dark",
+      "file": "Tool_copy-dark.png",
+      "bytes": 6426,
+      "sha256": "0c1af38f237aa25d9ee3e8e0b0aabb3eb1b29a8d643f71d17e6dfea37577eb30"
+    },
+    {
+      "name": "Tool_paste",
+      "theme": "dark",
+      "file": "Tool_paste-dark.png",
+      "bytes": 9601,
+      "sha256": "b5553aeb1d89d0e4b1ea686009cef91c926886c963fcb812cd16273428144e49"
+    },
+    {
+      "name": "Tool_duplicate",
+      "theme": "dark",
+      "file": "Tool_duplicate-dark.png",
+      "bytes": 10610,
+      "sha256": "ceb55f7b802ee8506f7a05acfa3c4c92b5a438484d8918bbda5a7c3b2e9bbf66"
+    },
+    {
+      "name": "Tool_trash",
+      "theme": "dark",
+      "file": "Tool_trash-dark.png",
+      "bytes": 8420,
+      "sha256": "313ab0e5e1a793a5075bfaa47d703c7ac01eea1a1bae64aab90f8df7e0b3be0a"
+    },
+    {
+      "name": "Tool_undo",
+      "theme": "dark",
+      "file": "Tool_undo-dark.png",
+      "bytes": 5582,
+      "sha256": "86e20e1f516231b92dec443dece2020742ef8bbf62f3a97b5d284b1fef899bb3"
+    },
+    {
+      "name": "Tool_redo",
+      "theme": "dark",
+      "file": "Tool_redo-dark.png",
+      "bytes": 5542,
+      "sha256": "7998b7e74d95b579aef8110a124a6c45727a26c1c17e9039271abd9ecc9f5466"
+    },
+    {
+      "name": "Tool_note",
+      "theme": "dark",
+      "file": "Tool_note-dark.png",
+      "bytes": 8674,
+      "sha256": "425bd004b2783ecb51bec002a5d6be218e4682cc3e060320a932d2139e2c9886"
+    },
+    {
+      "name": "Tool_import",
+      "theme": "dark",
+      "file": "Tool_import-dark.png",
+      "bytes": 7774,
+      "sha256": "2c1d71a5fde2e909c68b5ba463befcd20cfdad69e66985d36949fb91e5cd5cd5"
+    },
+    {
+      "name": "Tool_export",
+      "theme": "dark",
+      "file": "Tool_export-dark.png",
+      "bytes": 7911,
+      "sha256": "e194e59b579b54781ca1dcadc122011cc29cbcdf24a098ae6548534d42d60287"
+    },
+    {
+      "name": "Tool_settings",
+      "theme": "dark",
+      "file": "Tool_settings-dark.png",
+      "bytes": 8538,
+      "sha256": "3f3a6b9f5ca296532f45417e180bbd8d51eb684f4dcc1e1f902ba49961b1aa13"
+    },
+    {
+      "name": "Tool_keyboard",
+      "theme": "dark",
+      "file": "Tool_keyboard-dark.png",
+      "bytes": 10750,
+      "sha256": "5c1aecc527c26912f30799b29ab7bbf3a5cdd984fd8787c5de1c17f35d240014"
+    },
+    {
+      "name": "Tool_guide",
+      "theme": "dark",
+      "file": "Tool_guide-dark.png",
+      "bytes": 10109,
+      "sha256": "b107b70b97c681338d4c3645be67dcfa108a12dbe80a5fe9d8eec10c555d4c1c"
+    },
+    {
+      "name": "Tool_group",
+      "theme": "dark",
+      "file": "Tool_group-dark.png",
+      "bytes": 10638,
+      "sha256": "e109f6b8c17bf21d66ef488ecaf037796cc004e5707d251b7b53c09311960676"
+    },
+    {
+      "name": "Tool_ungroup",
+      "theme": "dark",
+      "file": "Tool_ungroup-dark.png",
+      "bytes": 9149,
+      "sha256": "6ba0c62d72ceab41400a2eefee176b71da2307530bbdda9637e7f1d18fae59bc"
+    },
+    {
+      "name": "Tool_mirror",
+      "theme": "dark",
+      "file": "Tool_mirror-dark.png",
+      "bytes": 6928,
+      "sha256": "cce483f71d1e0fe07d8c0e14f6024f4e8d79fa31b843c4ab8d309a9f83f9aa35"
+    },
+    {
+      "name": "Tool_chamfer",
+      "theme": "dark",
+      "file": "Tool_chamfer-dark.png",
+      "bytes": 8692,
+      "sha256": "f2a96c56860d0e7f65d92911b0b7d4d37d22d16b8cae7d67863c2816bd15d5f9"
+    },
+    {
+      "name": "Tool_fillet",
+      "theme": "dark",
+      "file": "Tool_fillet-dark.png",
+      "bytes": 7581,
+      "sha256": "5e78dfd69e157d883c71a36289eaa334ddc54456d1000f053209dbbc32ced24e"
+    },
+    {
+      "name": "Tool_snap",
+      "theme": "dark",
+      "file": "Tool_snap-dark.png",
+      "bytes": 11988,
+      "sha256": "1c1690d58a468ce893fe273b3d98549516b2216013a22a9f77e32e687a9feff6"
+    },
+    {
+      "name": "Tool_workplane",
+      "theme": "dark",
+      "file": "Tool_workplane-dark.png",
+      "bytes": 8228,
+      "sha256": "a4165fcdc93704520b035ba79b1d18a5cae864390cb077c19603f872d1919a3b"
+    },
+    {
+      "name": "Tool_drop",
+      "theme": "dark",
+      "file": "Tool_drop-dark.png",
+      "bytes": 8552,
+      "sha256": "fa5c3422a263793e4a697f9f211a66592c751d09d53703bf4225848a7ba8b665"
+    },
+    {
+      "name": "Tool_center",
+      "theme": "dark",
+      "file": "Tool_center-dark.png",
+      "bytes": 11083,
+      "sha256": "80b552c1ecc6a3fb005d1976db32ceef657098e53c3b7e9b0bbb74876839fcce"
+    },
+    {
+      "name": "Tool_shapeAdd",
+      "theme": "dark",
+      "file": "Tool_shapeAdd-dark.png",
+      "bytes": 8264,
+      "sha256": "eb77ad5f4f25ed7d1a96f673b7895948116017cf985a7d7438550ee07ad942e8"
+    },
+    {
+      "name": "Tool_hide",
+      "theme": "dark",
+      "file": "Tool_hide-dark.png",
+      "bytes": 11949,
+      "sha256": "edef64ac1fdd1357502b34e97ef51fac1925ce96661af247c6c8f6c8ae289d85"
+    },
+    {
+      "name": "Tool_caret",
+      "theme": "dark",
+      "file": "Tool_caret-dark.png",
+      "bytes": 3444,
+      "sha256": "fc566a11013325af82fa56fff8d9d99833619326bd64dae98312848ac67f686b"
+    },
+    {
+      "name": "Tool_intersect",
+      "theme": "dark",
+      "file": "Tool_intersect-dark.png",
+      "bytes": 10024,
+      "sha256": "b9393825dd5911636dfee91e431868367204936c0e644cd9bc92fb0d3fb71633"
+    },
+    {
+      "name": "Tool_align",
+      "theme": "dark",
+      "file": "Tool_align-dark.png",
+      "bytes": 8584,
+      "sha256": "ddafbb9e796879d1e976e27413a0e7426d6865ae0036a0bed5cfe632a0aa1511"
+    },
+    {
+      "name": "Tool_ellipse",
+      "theme": "dark",
+      "file": "Tool_ellipse-dark.png",
+      "bytes": 8752,
+      "sha256": "551f25251b1d12b1742c7af1cce78e0ec1b820ca549a9ed309241147d843e8c1"
+    },
+    {
+      "name": "Tool_halfCircle",
+      "theme": "dark",
+      "file": "Tool_halfCircle-dark.png",
+      "bytes": 7625,
+      "sha256": "88982d447452666e2c27856fed55f92a4623b3f334427814198ddc6f82abf1f8"
+    },
+    {
+      "name": "Tool_pie",
+      "theme": "dark",
+      "file": "Tool_pie-dark.png",
+      "bytes": 8627,
+      "sha256": "8700d578e306227dbef28fc92219d50d1de7a6f64e0ce093e7d1c2e20cd11bf7"
+    },
+    {
+      "name": "Tool_sketchLine",
+      "theme": "dark",
+      "file": "Tool_sketchLine-dark.png",
+      "bytes": 5319,
+      "sha256": "8b9d8c57aa6022b129f1e73aa579463b030fe36a0c9bfca5a745da9e97744ab0"
+    },
+    {
+      "name": "Tool_sketchBezier",
+      "theme": "dark",
+      "file": "Tool_sketchBezier-dark.png",
+      "bytes": 6627,
+      "sha256": "416cfde5c4647451895143eda205a07498834d16c5a36b77313e88b0a9ebe4f6"
+    },
+    {
+      "name": "Tool_sketchSmooth",
+      "theme": "dark",
+      "file": "Tool_sketchSmooth-dark.png",
+      "bytes": 5452,
+      "sha256": "31206f749f88c6414ac8a8721aff4c45ad08f1f1416bbfe600412f875f98e4b9"
+    },
+    {
+      "name": "Tool_sketchSelect",
+      "theme": "dark",
+      "file": "Tool_sketchSelect-dark.png",
+      "bytes": 7017,
+      "sha256": "a24f8da03c0ce8205f87913dbaec0085b3c74b622e2bc98b81be0c888ee60b49"
+    },
+    {
+      "name": "Tool_sketchImage",
+      "theme": "dark",
+      "file": "Tool_sketchImage-dark.png",
+      "bytes": 9717,
+      "sha256": "157ac75e31a84537c45c7dfe9d76ffbeb27951c8dd4db7dadf42f8e4c2b82268"
+    },
+    {
+      "name": "Tool_sketchRefine",
+      "theme": "dark",
+      "file": "Tool_sketchRefine-dark.png",
+      "bytes": 7283,
+      "sha256": "881b7f9e1daf4ce2f6c6dd9f58c43072c625acc3207e3c1404bacb7be5e52490"
+    },
+    {
+      "name": "Tool_sketchErase",
+      "theme": "dark",
+      "file": "Tool_sketchErase-dark.png",
+      "bytes": 9140,
+      "sha256": "29874647742c83bcf90cc41cabcea1d0bff99a7bd9490752a6f47635bb2eca31"
+    },
+    {
+      "name": "Tool_sketchMeasure",
+      "theme": "dark",
+      "file": "Tool_sketchMeasure-dark.png",
+      "bytes": 8549,
+      "sha256": "10243dae5a0a7ddd4960114480bf47e99ded426649bbf6a108df314400842970"
+    },
+    {
+      "name": "Tool_sketchTo3d",
+      "theme": "dark",
+      "file": "Tool_sketchTo3d-dark.png",
+      "bytes": 9399,
+      "sha256": "d0742401759d6e2bf46528e07c80d567fab166f14af3c84614370d5a88e19012"
+    },
+    {
+      "name": "Tool_sketchEdit3d",
+      "theme": "dark",
+      "file": "Tool_sketchEdit3d-dark.png",
+      "bytes": 11155,
+      "sha256": "3b14fae6840b21a4e82a89aae61e13f4da7a50cb4768fbb4219d81db8182a65c"
+    },
+    {
+      "name": "Tool_boltCircle",
+      "theme": "dark",
+      "file": "Tool_boltCircle-dark.png",
+      "bytes": 11154,
+      "sha256": "6abd77c8c2c11227ca63effbbf98dfe3975a6cbb74eda13acc226f789516abd4"
+    },
+    {
+      "name": "Tool_threeSegmentBevel",
+      "theme": "dark",
+      "file": "Tool_threeSegmentBevel-dark.png",
+      "bytes": 7027,
+      "sha256": "cd04ddca5ddcdc1f77363a61f289c9d244c9773a451f276a52ce03ccc07fe205"
+    },
+    {
+      "name": "Home",
+      "theme": "dark",
+      "file": "Home-dark.png",
+      "bytes": 7543,
+      "sha256": "e0cd1c5e513c676e0cb5d5447ad26ff980cdeee3032d4d198c31b72d2cf54fcf"
+    },
+    {
+      "name": "Copy",
+      "theme": "dark",
+      "file": "Copy-dark.png",
+      "bytes": 6426,
+      "sha256": "0c1af38f237aa25d9ee3e8e0b0aabb3eb1b29a8d643f71d17e6dfea37577eb30"
+    },
+    {
+      "name": "Trash2",
+      "theme": "dark",
+      "file": "Trash2-dark.png",
+      "bytes": 8420,
+      "sha256": "313ab0e5e1a793a5075bfaa47d703c7ac01eea1a1bae64aab90f8df7e0b3be0a"
+    },
+    {
+      "name": "History",
+      "theme": "dark",
+      "file": "History-dark.png",
+      "bytes": 5582,
+      "sha256": "86e20e1f516231b92dec443dece2020742ef8bbf62f3a97b5d284b1fef899bb3"
+    },
+    {
+      "name": "RotateCcw",
+      "theme": "dark",
+      "file": "RotateCcw-dark.png",
+      "bytes": 5582,
+      "sha256": "86e20e1f516231b92dec443dece2020742ef8bbf62f3a97b5d284b1fef899bb3"
+    },
+    {
+      "name": "RotateCw",
+      "theme": "dark",
+      "file": "RotateCw-dark.png",
+      "bytes": 5542,
+      "sha256": "7998b7e74d95b579aef8110a124a6c45727a26c1c17e9039271abd9ecc9f5466"
+    },
+    {
+      "name": "ChevronDown",
+      "theme": "dark",
+      "file": "ChevronDown-dark.png",
+      "bytes": 3444,
+      "sha256": "fc566a11013325af82fa56fff8d9d99833619326bd64dae98312848ac67f686b"
+    },
+    {
+      "name": "Brush",
+      "theme": "dark",
+      "file": "Brush-dark.png",
+      "bytes": 7461,
+      "sha256": "9f52ad66cb5700c216620989cc7307e701f7ed15de589efb5081b474224e1ec3"
+    },
+    {
+      "name": "Box",
+      "theme": "dark",
+      "file": "Box-dark.png",
+      "bytes": 4671,
+      "sha256": "6c9acbcb0a1f80fe112b7e1850a06a5592757163e2fed7ce26b6535a121b0e96"
+    },
+    {
+      "name": "Cuboid",
+      "theme": "dark",
+      "file": "Cuboid-dark.png",
+      "bytes": 4884,
+      "sha256": "53b49df165d3c1d07cfbe72b01a3c8fc157c583eb23cc15c727e850a344d303f"
+    },
+    {
+      "name": "Boxes",
+      "theme": "dark",
+      "file": "Boxes-dark.png",
+      "bytes": 10478,
+      "sha256": "8e1910066e2bb2b0c484a6f608f7d110a2745098de170ad24130677a28584916"
+    },
+    {
+      "name": "Layers",
+      "theme": "dark",
+      "file": "Layers-dark.png",
+      "bytes": 10736,
+      "sha256": "c2efbde430e5a6bd16c6383f5421aa5591d65c30838e1182fe9364a43756d23a"
+    },
+    {
+      "name": "Search",
+      "theme": "dark",
+      "file": "Search-dark.png",
+      "bytes": 9778,
+      "sha256": "a8a9ce2d5f3d5db5ff3ff7a14242bf294ecae96c795e097e1e756cec4b7c4668"
+    },
+    {
+      "name": "Clock3",
+      "theme": "dark",
+      "file": "Clock3-dark.png",
+      "bytes": 8594,
+      "sha256": "ba9ad53488a68d3ea4ebaff8d7082d4baf7930c08b2fb1208a2808ad495a9039"
+    },
+    {
+      "name": "EllipsisVertical",
+      "theme": "dark",
+      "file": "EllipsisVertical-dark.png",
+      "bytes": 2353,
+      "sha256": "c7761db5b5cfbf00aba35c9d4653e833ebe29f91b8fea3b8afbca19d6f8aa47b"
+    },
+    {
+      "name": "GripVertical",
+      "theme": "dark",
+      "file": "GripVertical-dark.png",
+      "bytes": 3520,
+      "sha256": "f655937b337d8b3f8dfe5250f47c2ccfd7528d7400e201e4f7d88d3546015a8f"
+    },
+    {
+      "name": "FileUp",
+      "theme": "dark",
+      "file": "FileUp-dark.png",
+      "bytes": 7732,
+      "sha256": "835efacc1d0bbe88c55adfa251f1496c7868654d32315692f4d624544b451930"
+    },
+    {
+      "name": "FolderOpen",
+      "theme": "dark",
+      "file": "FolderOpen-dark.png",
+      "bytes": 9868,
+      "sha256": "e3e532d294b00b056c6e50fd8509cc7e1ea041b888000be071dcc71e5b7c9893"
+    },
+    {
+      "name": "FolderInput",
+      "theme": "dark",
+      "file": "FolderInput-dark.png",
+      "bytes": 9690,
+      "sha256": "8bad6a6df0ec3b4538a78e78401f6e4a7a447fc19bd55166431e09782f0f0eaa"
+    },
+    {
+      "name": "FolderUp",
+      "theme": "dark",
+      "file": "FolderUp-dark.png",
+      "bytes": 8701,
+      "sha256": "456913b0af3440dff09c3ddd23517d4a3439d559332d38958f413fb19d2f4e74"
+    },
+    {
+      "name": "FolderPlus",
+      "theme": "dark",
+      "file": "FolderPlus-dark.png",
+      "bytes": 8199,
+      "sha256": "28e89446e2e54ab48e1b17472ddce00badd5863c3b7ceedb9b8818b0a3a990e2"
+    },
+    {
+      "name": "FolderKanban",
+      "theme": "dark",
+      "file": "FolderKanban-dark.png",
+      "bytes": 7994,
+      "sha256": "c36a1a9022994eeff815726fb325195a6d1d09140374395fd79e85410726c1ea"
+    },
+    {
+      "name": "Download",
+      "theme": "dark",
+      "file": "Download-dark.png",
+      "bytes": 6755,
+      "sha256": "0b3fb1e82de27416e37bb2d9dd277dedf0d8e1a5f84a10e173541f416754655e"
+    },
+    {
+      "name": "CloudUpload",
+      "theme": "dark",
+      "file": "CloudUpload-dark.png",
+      "bytes": 10390,
+      "sha256": "a8c9639cc599c2c616be1dcb6697e2a7c9bf2e745a799702d2dc71e616e422fb"
+    },
+    {
+      "name": "ExternalLink",
+      "theme": "dark",
+      "file": "ExternalLink-dark.png",
+      "bytes": 8737,
+      "sha256": "861d6e1e36d675a1357499d28f90203d412acebeface9af2d66db5606bd680fc"
+    },
+    {
+      "name": "Check",
+      "theme": "dark",
+      "file": "Check-dark.png",
+      "bytes": 3028,
+      "sha256": "0a05aab7b4184b734820cc1aed35d5c74fbfd056cf9aca4530f8678f92e0e7ea"
+    },
+    {
+      "name": "CircleCheck",
+      "theme": "dark",
+      "file": "CircleCheck-dark.png",
+      "bytes": 10145,
+      "sha256": "aaed24d400d2486e21574cfc0015b241cb73b6fced8090b5a78b02cc62b3c91f"
+    },
+    {
+      "name": "CheckCircle2",
+      "theme": "dark",
+      "file": "CheckCircle2-dark.png",
+      "bytes": 10145,
+      "sha256": "aaed24d400d2486e21574cfc0015b241cb73b6fced8090b5a78b02cc62b3c91f"
+    },
+    {
+      "name": "X",
+      "theme": "dark",
+      "file": "X-dark.png",
+      "bytes": 5744,
+      "sha256": "0a2b19edf359a9dda67faf3707e5065e84a89850580cb256434e16177c49529d"
+    },
+    {
+      "name": "Plus",
+      "theme": "dark",
+      "file": "Plus-dark.png",
+      "bytes": 3707,
+      "sha256": "b1a66c0da35f4c96b4370fe10fc44b9b824ee9cc567f74aa3347da929fbce116"
+    },
+    {
+      "name": "Minus",
+      "theme": "dark",
+      "file": "Minus-dark.png",
+      "bytes": 2693,
+      "sha256": "69f3451e911e8b1e62f55208ac8fa69efc23a472c8978c6118594309d7646772"
+    },
+    {
+      "name": "ChevronUp",
+      "theme": "dark",
+      "file": "ChevronUp-dark.png",
+      "bytes": 3582,
+      "sha256": "e1c432650bf5c1f2015c9b9de391583d7a0582cdbc5a9c835308f444d50cadc3"
+    },
+    {
+      "name": "ChevronLeft",
+      "theme": "dark",
+      "file": "ChevronLeft-dark.png",
+      "bytes": 3721,
+      "sha256": "8009ff761029712dbb1b73cab70694c8022b0f393135540f4d48db2fedd41e2d"
+    },
+    {
+      "name": "ChevronRight",
+      "theme": "dark",
+      "file": "ChevronRight-dark.png",
+      "bytes": 3641,
+      "sha256": "89f3fb17b88f8a6c7637a3d3da9bf667ea4cdea3ba543d9eb338a974595bc2ac"
+    },
+    {
+      "name": "Square",
+      "theme": "dark",
+      "file": "Square-dark.png",
+      "bytes": 5745,
+      "sha256": "09eaa47579fc4f794d3708d904da0dbf43b2126e7ee2b98ac4624e686187c61b"
+    },
+    {
+      "name": "Circle",
+      "theme": "dark",
+      "file": "Circle-dark.png",
+      "bytes": 8871,
+      "sha256": "439c3e03ced3625aa736cc3c228521398ac58d82cd538691d8fab55f47c27350"
+    },
+    {
+      "name": "CircleDashed",
+      "theme": "dark",
+      "file": "CircleDashed-dark.png",
+      "bytes": 7824,
+      "sha256": "f27aa9f8d6d62bd97f1931e4ba56e0dd30f2c4b267958f76f86ac749aeca61e9"
+    },
+    {
+      "name": "CircleDotDashed",
+      "theme": "dark",
+      "file": "CircleDotDashed-dark.png",
+      "bytes": 8202,
+      "sha256": "b27404deef77054751e36fd606d5e0ad713b4496cfbfd0eb9cf701f352b410a6"
+    },
+    {
+      "name": "Triangle",
+      "theme": "dark",
+      "file": "Triangle-dark.png",
+      "bytes": 7533,
+      "sha256": "f6ea43487276f47a76dbcc98ca3032e1bfc71a96ef2398e03c9d5a5ae2819735"
+    },
+    {
+      "name": "Hexagon",
+      "theme": "dark",
+      "file": "Hexagon-dark.png",
+      "bytes": 8582,
+      "sha256": "88ad2bff24b136818577a614550cea897133055cd70f6a447fd8d860a10cea20"
+    },
+    {
+      "name": "TriangleAlert",
+      "theme": "dark",
+      "file": "TriangleAlert-dark.png",
+      "bytes": 8850,
+      "sha256": "b66790098c116e5b054227ad95bb172169969538706db48008204e563d8f6f08"
+    },
+    {
+      "name": "CircleAlert",
+      "theme": "dark",
+      "file": "CircleAlert-dark.png",
+      "bytes": 8583,
+      "sha256": "4d359d871c0c19079bd776261e49830800741424afd107ae8807798186ae6ac7"
+    },
+    {
+      "name": "CircleHelp",
+      "theme": "dark",
+      "file": "CircleHelp-dark.png",
+      "bytes": 10492,
+      "sha256": "28d26df7316b62ff8d2f3bf311b9920641b87b9ce9e9c6f8e5c255682db19c9a"
+    },
+    {
+      "name": "LoaderCircle",
+      "theme": "dark",
+      "file": "LoaderCircle-dark.png",
+      "bytes": 8143,
+      "sha256": "5679e3a926c32614c73b9acd32c40749ccc45c86337eefccec51738c1fc2f61b"
+    },
+    {
+      "name": "Eye",
+      "theme": "dark",
+      "file": "Eye-dark.png",
+      "bytes": 11782,
+      "sha256": "0046e975922746d1e2eeb9f57472731e56b3ad825118f2fb0271e04d163cef1e"
+    },
+    {
+      "name": "EyeOff",
+      "theme": "dark",
+      "file": "EyeOff-dark.png",
+      "bytes": 10759,
+      "sha256": "d44ba93be723a08bab6ff2a9ab0024ed4182ffe46d6a3ea5ffcea7ac30d18c8a"
+    },
+    {
+      "name": "LockKeyhole",
+      "theme": "dark",
+      "file": "LockKeyhole-dark.png",
+      "bytes": 8948,
+      "sha256": "0e457c01475b81e609935d5d7e3137a753fc2ce262542684b46b8126a58f4528"
+    },
+    {
+      "name": "LockKeyholeOpen",
+      "theme": "dark",
+      "file": "LockKeyholeOpen-dark.png",
+      "bytes": 8703,
+      "sha256": "89dcf94124a7a59ce156ca76e39cf4ddfdca90fabe8d788fcb2dcfcaf3e292d9"
+    },
+    {
+      "name": "Link",
+      "theme": "dark",
+      "file": "Link-dark.png",
+      "bytes": 9769,
+      "sha256": "c175e7967cb01e6776345a010283a379e248a701393e0bd1846372d4ddb10cac"
+    },
+    {
+      "name": "Link2",
+      "theme": "dark",
+      "file": "Link2-dark.png",
+      "bytes": 9769,
+      "sha256": "c175e7967cb01e6776345a010283a379e248a701393e0bd1846372d4ddb10cac"
+    },
+    {
+      "name": "Link2Off",
+      "theme": "dark",
+      "file": "Link2Off-dark.png",
+      "bytes": 9113,
+      "sha256": "de3542314acaaa40707a6790275e0cec86ffc34bba928963a6ee643134ac6222"
+    },
+    {
+      "name": "Unlink2",
+      "theme": "dark",
+      "file": "Unlink2-dark.png",
+      "bytes": 8444,
+      "sha256": "21f2b7553cc2469bee3f54580fcaab00a59346d502052bd2d068cc92c74e454b"
+    },
+    {
+      "name": "Grid3X3",
+      "theme": "dark",
+      "file": "Grid3X3-dark.png",
+      "bytes": 12132,
+      "sha256": "33669eb0aec32e5f058f966e348b8014481ed5b7a0a033a2e6d5459c0fe9c865"
+    },
+    {
+      "name": "PanelTop",
+      "theme": "dark",
+      "file": "PanelTop-dark.png",
+      "bytes": 8663,
+      "sha256": "36748e9fef4bd2f2e0a93f164b4987f1622cd97ec97e1b36f13548aa0789401e"
+    },
+    {
+      "name": "PanelsTopLeft",
+      "theme": "dark",
+      "file": "PanelsTopLeft-dark.png",
+      "bytes": 9198,
+      "sha256": "ba7230f2b26343c4caae5c3ca582ea528436108d155059560a34ae6144d92bda"
+    },
+    {
+      "name": "List",
+      "theme": "dark",
+      "file": "List-dark.png",
+      "bytes": 6555,
+      "sha256": "816c2f327edf5fa2b378c4c12e94f3e1c489de94531891f6c94759b189735de5"
+    },
+    {
+      "name": "ListTree",
+      "theme": "dark",
+      "file": "ListTree-dark.png",
+      "bytes": 6217,
+      "sha256": "f3bbf18f9344a2b818692ff3d20ea3becbacf25198d175a66e82a2a62cbb0984"
+    },
+    {
+      "name": "SlidersHorizontal",
+      "theme": "dark",
+      "file": "SlidersHorizontal-dark.png",
+      "bytes": 9472,
+      "sha256": "fa140cedd15b4bebc29bfcab60dd02750937f998cb9ef91c92c06fa308c6b8d7"
+    },
+    {
+      "name": "CornerDownRight",
+      "theme": "dark",
+      "file": "CornerDownRight-dark.png",
+      "bytes": 5446,
+      "sha256": "327b050d84d35ec88f20265a2b7c6d03d9b8543e3263fef07eecfb853f7d50f3"
+    },
+    {
+      "name": "BetweenHorizontalStart",
+      "theme": "dark",
+      "file": "BetweenHorizontalStart-dark.png",
+      "bytes": 5260,
+      "sha256": "befd50e5360c9698645c4a6b69789b5d8b2e4c4168844977a06e2937f9f0ded1"
+    },
+    {
+      "name": "Move3d",
+      "theme": "dark",
+      "file": "Move3d-dark.png",
+      "bytes": 7710,
+      "sha256": "51bba7f9fafd3266e478be1b1914ea7b11572fcbcc9f504a5c9783e78a40ee82"
+    },
+    {
+      "name": "Rotate3d",
+      "theme": "dark",
+      "file": "Rotate3d-dark.png",
+      "bytes": 9091,
+      "sha256": "8d5a7e4b1887fca82e826d6c9d47d0d1507ee53622b3694868a7324628776a28"
+    },
+    {
+      "name": "RefreshCw",
+      "theme": "dark",
+      "file": "RefreshCw-dark.png",
+      "bytes": 10820,
+      "sha256": "dc191159a0f740d7043f4af775f2c5d25ac3ad38677c6fd4555237fe7b38ceb2"
+    },
+    {
+      "name": "Ruler",
+      "theme": "dark",
+      "file": "Ruler-dark.png",
+      "bytes": 5609,
+      "sha256": "62819be065a3f06baac7cb5101ea42b58521c1d670e3b845af9853c86d696927"
+    },
+    {
+      "name": "RulerDimensionLine",
+      "theme": "dark",
+      "file": "RulerDimensionLine-dark.png",
+      "bytes": 7074,
+      "sha256": "976ae32c0eecd7af638b2c8269d6b5a2a87fc7b152afb360253a17a348843871"
+    },
+    {
+      "name": "Pencil",
+      "theme": "dark",
+      "file": "Pencil-dark.png",
+      "bytes": 2333,
+      "sha256": "00bb9e43abcdc7ece29a3d07cee4910e10154614c9d869f281ed3e27d46e7650"
+    },
+    {
+      "name": "Eraser",
+      "theme": "dark",
+      "file": "Eraser-dark.png",
+      "bytes": 10115,
+      "sha256": "4c1b34602551aa87d7ee984ce52f9fb8f1b9d424cdbc33ddd9bbe30036e8f3f1"
+    },
+    {
+      "name": "MousePointer2",
+      "theme": "dark",
+      "file": "MousePointer2-dark.png",
+      "bytes": 7764,
+      "sha256": "5636f2f88adf99a275d596c3fc30ebc194ee159b4321cfcdae7f713d14a0b65f"
+    },
+    {
+      "name": "Crosshair",
+      "theme": "dark",
+      "file": "Crosshair-dark.png",
+      "bytes": 8879,
+      "sha256": "661ef8e5cbae6befea3ffc3f605ab9fec8c65541f3ed68b69602aab61d4793b6"
+    },
+    {
+      "name": "MapPin",
+      "theme": "dark",
+      "file": "MapPin-dark.png",
+      "bytes": 10356,
+      "sha256": "dc5f3714d3d5bd1734931c0d1a850aa70a68dfa4b906b6e474a514d5e45aef23"
+    },
+    {
+      "name": "Cable",
+      "theme": "dark",
+      "file": "Cable-dark.png",
+      "bytes": 7874,
+      "sha256": "504c2e0a5bc75ed70949db623250b33a2d47c39af71f2722ed6e2d4368c3b06d"
+    },
+    {
+      "name": "Plug",
+      "theme": "dark",
+      "file": "Plug-dark.png",
+      "bytes": 8397,
+      "sha256": "6f38e486eef088741e66a1d7057c8882dc7cf2e8a8aa35691210e451dc4bf52a"
+    },
+    {
+      "name": "Bolt",
+      "theme": "dark",
+      "file": "Bolt-dark.png",
+      "bytes": 7763,
+      "sha256": "ba35e6e1f4fbcef133558f489475f4884224a0370fb9bdf83ef3c515bb62ba0a"
+    },
+    {
+      "name": "Magnet",
+      "theme": "dark",
+      "file": "Magnet-dark.png",
+      "bytes": 10926,
+      "sha256": "ba58a08c1dd0b122c28d4c62396c89a41e838e7ba9a718cde58e46ebb6dcab79"
+    },
+    {
+      "name": "Type",
+      "theme": "dark",
+      "file": "Type-dark.png",
+      "bytes": 5435,
+      "sha256": "75e5ce41c8ed99164bd1f0fb41143b33493090442baa108a29a145355a70c2fc"
+    },
+    {
+      "name": "Braces",
+      "theme": "dark",
+      "file": "Braces-dark.png",
+      "bytes": 6891,
+      "sha256": "d977fb989415f38a5669bbc70ed43d6231173c2db579526fb12bfc8c8f816207"
+    },
+    {
+      "name": "Variable",
+      "theme": "dark",
+      "file": "Variable-dark.png",
+      "bytes": 8746,
+      "sha256": "e0afc3e0b1ee323fcfdc3bf45afa15ef4add6c0a61d8d0be67a46eb2218d737e"
+    },
+    {
+      "name": "Split",
+      "theme": "dark",
+      "file": "Split-dark.png",
+      "bytes": 9055,
+      "sha256": "8a9a854b498db4713c4fab5c8df4ab3d1961a422115f4ba4c958c22da5e47f07"
+    },
+    {
+      "name": "Send",
+      "theme": "dark",
+      "file": "Send-dark.png",
+      "bytes": 9134,
+      "sha256": "d2e0fc291b5974f755b5b3e006efaa6139850a1970ccc506b1ce0b302af81ed4"
+    },
+    {
+      "name": "Pause",
+      "theme": "dark",
+      "file": "Pause-dark.png",
+      "bytes": 5265,
+      "sha256": "fa62426245d48d86132c98184c3f948343c3fb41de6549f001286e0f8f8367c4"
+    },
+    {
+      "name": "Play",
+      "theme": "dark",
+      "file": "Play-dark.png",
+      "bytes": 5545,
+      "sha256": "57295e9d54b13a1402311fca1d2c990a9df5d38a91015b4dfb9e3b95792c8681"
+    },
+    {
+      "name": "ShieldCheck",
+      "theme": "dark",
+      "file": "ShieldCheck-dark.png",
+      "bytes": 10127,
+      "sha256": "b5ab95f5790ea4eff2ab88dd7cef1f79cb52777a1f75c4525a67e175347c78f1"
+    },
+    {
+      "name": "User",
+      "theme": "dark",
+      "file": "User-dark.png",
+      "bytes": 8973,
+      "sha256": "cac395e145528efa9e9d1fc179f866a01215cbc67151c3fd255530dd96124654"
+    },
+    {
+      "name": "Bot",
+      "theme": "dark",
+      "file": "Bot-dark.png",
+      "bytes": 8958,
+      "sha256": "ad4359a0ef07c669e15f61a7164174d0c827881b76a62e38bd960542b74a5099"
+    },
+    {
+      "name": "Wrench",
+      "theme": "dark",
+      "file": "Wrench-dark.png",
+      "bytes": 10851,
+      "sha256": "87621a0fc735fbae42867fb7798c6c09d2043e683c26e42ef22018b85fd4286c"
+    },
+    {
+      "name": "Sparkles",
+      "theme": "dark",
+      "file": "Sparkles-dark.png",
+      "bytes": 9866,
+      "sha256": "0ca5a4cfac273471c4adb05f861e7e1fa230b81f050e32695b7ccd01ea6e2c7a"
+    },
+    {
+      "name": "Film",
+      "theme": "dark",
+      "file": "Film-dark.png",
+      "bytes": 11611,
+      "sha256": "a8e9aad294804637605d1317b6bf88dd6d0a70aa4861369ae8781c50ac04cf19"
+    },
+    {
+      "name": "Gamepad2",
+      "theme": "dark",
+      "file": "Gamepad2-dark.png",
+      "bytes": 11614,
+      "sha256": "2dc7acd20f4db0258f6e93031d10e70c22e79c7d97a06684c5233157394a722e"
+    },
+    {
+      "name": "Shapes",
+      "theme": "dark",
+      "file": "Shapes-dark.png",
+      "bytes": 11814,
+      "sha256": "5365511189fb2366dc1b8d4cf021121e47169cf6818d6457beef585d379b8a1f"
+    },
+    {
+      "name": "PaintBucket",
+      "theme": "dark",
+      "file": "PaintBucket-dark.png",
+      "bytes": 11988,
+      "sha256": "f5b0564e6ffa57ff467d93439c7d57ec5d4dcd7df327beb2c826cf09fd5c0417"
+    },
+    {
+      "name": "Pipette",
+      "theme": "dark",
+      "file": "Pipette-dark.png",
+      "bytes": 8684,
+      "sha256": "3a381745998fd44e50fc0e12aa6ede7d8567f3df9bfe187bba89349be04d85a7"
+    },
+    {
+      "name": "SprayCan",
+      "theme": "dark",
+      "file": "SprayCan-dark.png",
+      "bytes": 8227,
+      "sha256": "5fba49d19a0b45182ba4a622ce8b73899a307e504f7d3a34213ac37098666c94"
+    },
+    {
+      "name": "Palette",
+      "theme": "dark",
+      "file": "Palette-dark.png",
+      "bytes": 12064,
+      "sha256": "1ed773f51248bac45d1d3a5727217867647f1f4a9d22267139e7b29f5b1bec43"
+    },
+    {
+      "name": "Waves",
+      "theme": "dark",
+      "file": "Waves-dark.png",
+      "bytes": 13130,
+      "sha256": "660c436e02aea13b9ab9fb4899890e810cb4bf9915d048a557988d5621eb609e"
+    },
+    {
+      "name": "Volume2",
+      "theme": "dark",
+      "file": "Volume2-dark.png",
+      "bytes": 10436,
+      "sha256": "9ce5274e6e47f9b60d5afe1b2f58f30269f0edc5e5c10c64fab265adf600f16a"
+    },
+    {
+      "name": "VolumeX",
+      "theme": "dark",
+      "file": "VolumeX-dark.png",
+      "bytes": 8108,
+      "sha256": "3d77ba6ae4a86a5c9ce449678ff77a96a31cd4a6ca26753c57fbd54393e96912"
+    },
+    {
+      "name": "ThreadRod",
+      "theme": "light",
+      "file": "ThreadRod-light.png",
+      "bytes": 9480,
+      "sha256": "3507bd1934549561298b6a57bc8c8fec333dafab80c795a26c7967781fa13016"
+    },
+    {
+      "name": "ThreadScrew",
+      "theme": "light",
+      "file": "ThreadScrew-light.png",
+      "bytes": 10161,
+      "sha256": "0675379092de2cf085b7d446c01c6e782f21d0a10b0e533ddd2175041531a15d"
+    },
+    {
+      "name": "ThreadNut",
+      "theme": "light",
+      "file": "ThreadNut-light.png",
+      "bytes": 4897,
+      "sha256": "aba8bb40f8f4599b613111a4a85ef79e3a03f3824d2fc1b432ed8037655b5d01"
+    },
+    {
+      "name": "ThreadBore",
+      "theme": "light",
+      "file": "ThreadBore-light.png",
+      "bytes": 5033,
+      "sha256": "3c9ab5ee4d1726ec6fa83530d57c99ceee2fa066916a0710cce76775c1210b7f"
+    },
+    {
+      "name": "ThreadHeadCylinder",
+      "theme": "light",
+      "file": "ThreadHeadCylinder-light.png",
+      "bytes": 10161,
+      "sha256": "0675379092de2cf085b7d446c01c6e782f21d0a10b0e533ddd2175041531a15d"
+    },
+    {
+      "name": "ThreadHeadCountersunk",
+      "theme": "light",
+      "file": "ThreadHeadCountersunk-light.png",
+      "bytes": 9489,
+      "sha256": "43ba7f9046d35f8cb0b5975b49a93c7da6b707e4a44e508137a6141349f8ca60"
+    },
+    {
+      "name": "ThreadHeadHex",
+      "theme": "light",
+      "file": "ThreadHeadHex-light.png",
+      "bytes": 9750,
+      "sha256": "c18e5aaab421422e9838fcd321164bacd10a162cfc43437b40d7604fa2222f8d"
+    },
+    {
+      "name": "ThreadRod",
+      "theme": "dark",
+      "file": "ThreadRod-dark.png",
+      "bytes": 9415,
+      "sha256": "05584e0193a0926f6bfa087615f1955a84ff986b989c92a273560ff15fbcfe4e"
+    },
+    {
+      "name": "ThreadScrew",
+      "theme": "dark",
+      "file": "ThreadScrew-dark.png",
+      "bytes": 10235,
+      "sha256": "985034950275adcb284d5fa720ffff487bb8e9ed912c13e7ef5ae29321dd4055"
+    },
+    {
+      "name": "ThreadNut",
+      "theme": "dark",
+      "file": "ThreadNut-dark.png",
+      "bytes": 5067,
+      "sha256": "c011d2468bea07c1e532faad5707d97d0c6764b26976dee7156b6f8996dc9226"
+    },
+    {
+      "name": "ThreadBore",
+      "theme": "dark",
+      "file": "ThreadBore-dark.png",
+      "bytes": 5292,
+      "sha256": "b58a32a4a579e25d6b29aa4f59835537a68cc98bfca6d9b83985298b7b7996d8"
+    },
+    {
+      "name": "ThreadHeadCylinder",
+      "theme": "dark",
+      "file": "ThreadHeadCylinder-dark.png",
+      "bytes": 10235,
+      "sha256": "985034950275adcb284d5fa720ffff487bb8e9ed912c13e7ef5ae29321dd4055"
+    },
+    {
+      "name": "ThreadHeadCountersunk",
+      "theme": "dark",
+      "file": "ThreadHeadCountersunk-dark.png",
+      "bytes": 9574,
+      "sha256": "935b4565c0d6b9d84fd64a19d814dd65281d604f91882923011982c567b3142b"
+    },
+    {
+      "name": "ThreadHeadHex",
+      "theme": "dark",
+      "file": "ThreadHeadHex-dark.png",
+      "bytes": 9877,
+      "sha256": "31f5dd88910bbc7778af75f202b11843e028de5d8b97be6a090019e15d346056"
+    }
+  ],
+  "review": "All139 silhouettes inspected at48/32/24px; own source, cool palette and theme variants. No previous icon raster or third-party glyph paths used as input. Seven additional physical fastener/thread option models reviewed separately in both themes; original 278 images preserved unchanged."
+}

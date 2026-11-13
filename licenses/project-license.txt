@@ -1,0 +1,49 @@
+Canvas Studio
+Copyright © 2026 Damian Borkowski
+
+PL — Licencja aplikacji
+
+Możesz instalować i używać legalnie otrzymanej kopii Canvas Studio oraz
+sporządzać kopie zapasowe na własny użytek. Pozostałe prawa do kodu i
+materiałów aplikacji należących do Damiana Borkowskiego są zastrzeżone.
+Dalsze rozpowszechnianie tego kodu i tych materiałów oraz udostępnianie
+zmodyfikowanych kopii wymaga zgody uprawnionego, z uwzględnieniem
+bezwzględnie obowiązujących przepisów.
+
+Komponenty osób trzecich podlegają licencjom wymienionym w dołączonych
+notach. Warunki Canvas Studio nie ograniczają praw z tych licencji,
+w tym praw do uzyskania źródeł, modyfikowania i podmieniania bibliotek
+LGPL oraz inżynierii wstecznej w celu debugowania takich modyfikacji.
+Niniejsza licencja dotyczy wydań, do których ją dołączono. Warunki
+wcześniejszych wydań określają ich własne licencje.
+
+EN — Application license
+
+You may install and use a lawfully obtained copy of Canvas Studio and
+make backup copies for your own use. All other rights in the application
+code and materials owned by Damian Borkowski are reserved. Further
+distribution of that code and those materials, including modified
+copies, requires the rights holder's permission, subject to mandatory law.
+
+Third-party components are governed by the licenses identified in the
+accompanying notices. The Canvas Studio terms do not restrict the rights
+granted by those licenses, including access to source code, modification
+and replacement of LGPL libraries, and reverse engineering to debug
+such modifications. This license applies to releases that include it.
+Earlier releases remain governed by their respective licenses.
+
+DE — Anwendungslizenz
+
+Eine rechtmäßig erhaltene Kopie von Canvas Studio darf installiert und
+genutzt werden. Sicherungskopien für den eigenen Gebrauch sind erlaubt.
+Alle weiteren Rechte am Programmcode und an den Materialien von Damian
+Borkowski bleiben vorbehalten. Die Weitergabe dieser Inhalte und
+geänderter Kopien bedarf der Zustimmung des Rechteinhabers, vorbehaltlich
+zwingender gesetzlicher Vorschriften.
+
+Für Komponenten Dritter gelten die in den beigefügten Hinweisen genannten
+Lizenzen. Diese Anwendungslizenz beschränkt deren Rechte nicht. Dazu
+gehören der Zugang zum Quellcode, das Ändern und Austauschen von
+LGPL-Bibliotheken sowie Reverse Engineering zur Fehlersuche bei solchen
+Änderungen. Diese Lizenz gilt für Ausgaben, denen sie beiliegt.
+Frühere Ausgaben unterliegen weiterhin ihren jeweiligen Lizenzen.

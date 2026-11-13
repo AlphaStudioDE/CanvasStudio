@@ -1,0 +1,44 @@
+{
+  "id": "/",
+  "name": "Canvas Studio - 3D CAD for 3D printing",
+  "short_name": "Canvas Studio",
+  "description": "Create precise 3D models, develop custom parts, and prepare your next build with Canvas Studio.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f0f2f5",
+  "theme_color": "#f47a39",
+  "categories": [
+    "graphics",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "assets/canvas-studio/cs-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/canvas-studio/cs-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/canvas-studio/cs-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/canvas-studio/cs-app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

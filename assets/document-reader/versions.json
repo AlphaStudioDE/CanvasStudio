@@ -1,0 +1,37 @@
+{
+  "localOnly": true,
+  "versions": {
+    "pdfjs-dist": {
+      "version": "6.5.438",
+      "license": "Apache-2.0",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mozilla/pdf.js.git"
+      }
+    },
+    "tesseract.js": {
+      "version": "7.0.0",
+      "license": "Apache-2.0",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/naptha/tesseract.js.git"
+      }
+    },
+    "tesseract.js-core": {
+      "version": "7.0.0",
+      "license": "Apache-2.0",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/naptha/tesseract.js-core.git"
+      }
+    },
+    "@tesseract.js-data/eng": {
+      "version": "1.0.0",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/naptha/tessdata.git"
+      }
+    }
+  }
+}

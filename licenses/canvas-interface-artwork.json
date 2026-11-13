@@ -1,0 +1,129 @@
+{
+  "description": "Canvas Studio interface illustration recipes and content inventory. Original source and dependency notices remain separately retained; this record does not infer authorship or legal clearance from file names or hashes.",
+  "models": {
+    "recipe": "scripts/canvas-artwork/models.browser.ts",
+    "pipeline": "Completed primitiveExportMesh geometry services, Three SVGRenderer, sharp rasterization; new camera, lighting, material and framing. Prior images were not read.",
+    "files": [
+      {
+        "file": "assets/canvas-studio/models/box.png",
+        "sha256": "06bd39d0f6ee669c977ddcfb6538b62bfb3ee0c9141ee247d2eade1258dec6cf",
+        "bytes": 3984
+      },
+      {
+        "file": "assets/canvas-studio/models/cylinder.png",
+        "sha256": "94bd63304cb6eb9ebdbc60ab6ddac69189e2e9a0988fad9b138306956ddfbb8d",
+        "bytes": 15668
+      },
+      {
+        "file": "assets/canvas-studio/models/ellipse.png",
+        "sha256": "230d85547cc3b6b5f756cf6aac0b80ea8a23fa426d4bcbc633e43cfa56dce47e",
+        "bytes": 12470
+      },
+      {
+        "file": "assets/canvas-studio/models/polygon.png",
+        "sha256": "bed3d0c52aba71f7a7addcfe19fd5d4f24d9b7e50e3fa63fe64d59a262e368ef",
+        "bytes": 4080
+      },
+      {
+        "file": "assets/canvas-studio/models/sphere.png",
+        "sha256": "6d6e85b9cd774a8014202a7ee519aa9b6fe89f558123bf638c5c707fcc72daf4",
+        "bytes": 13315
+      },
+      {
+        "file": "assets/canvas-studio/models/cone.png",
+        "sha256": "0fc2b323662fab74d95a9d985a786ca9d89bd74452fc213cac1342514c26b974",
+        "bytes": 15285
+      },
+      {
+        "file": "assets/canvas-studio/models/pyramid.png",
+        "sha256": "ee518034594b6a51ef406cea7af63dd801413ee7988a23146846d067b78a83ff",
+        "bytes": 4699
+      },
+      {
+        "file": "assets/canvas-studio/models/wedge.png",
+        "sha256": "a7bf965ef7d82cf8744898a7094a6fddb0ed8ebbbf7fb9b5a0fc04007a2a05e4",
+        "bytes": 3453
+      },
+      {
+        "file": "assets/canvas-studio/models/round-roof.png",
+        "sha256": "896cb1a00b2af5e87c7b04e47e131b39353edb0f50fc938e62946703621e9d68",
+        "bytes": 14988
+      },
+      {
+        "file": "assets/canvas-studio/models/half-sphere.png",
+        "sha256": "8828fce5562a4f4d713eaaf23e927a9f983ce6d39642eb15234919351409568b",
+        "bytes": 11728
+      },
+      {
+        "file": "assets/canvas-studio/models/torus.png",
+        "sha256": "983405b44faed3e9e981c27f3d7a262401d9b0ebcd6279fcb6d2837c94808044",
+        "bytes": 13312
+      },
+      {
+        "file": "assets/canvas-studio/models/tube.png",
+        "sha256": "55f6163fd77fe6b849631f41ec5a10e9ea754ccf22099b364b9c4524d114e71e",
+        "bytes": 15267
+      },
+      {
+        "file": "assets/canvas-studio/models/text.png",
+        "sha256": "a463f3cdca3c8a07a0f8819ff9c410afaf8e4363b7e2f7c694620c7224e31925",
+        "bytes": 9279
+      },
+      {
+        "file": "assets/canvas-studio/models/thread.png",
+        "sha256": "450643ba1567fa64705e13c5b09379d2cb4d08c48614f3856f9003284e4c63c3",
+        "bytes": 16497
+      },
+      {
+        "file": "assets/canvas-studio/models/spring.png",
+        "sha256": "f5c4d17d3890914bb5bf3faad83a8118e330eac10e4b3e6c29d00a6e172e069d",
+        "bytes": 20387
+      },
+      {
+        "file": "assets/canvas-studio/models/gear.png",
+        "sha256": "de463d593d4aae1b38fb057852ca81350b4de0d2bec29ff707b34b96d448b582",
+        "bytes": 7753
+      },
+      {
+        "file": "assets/canvas-studio/models/ruler.png",
+        "sha256": "5997465b7f2faa50822577b4c1a700eb58fda6bcca76a1b490c3795eb812b4c1",
+        "bytes": 3324
+      },
+      {
+        "file": "assets/canvas-studio/models/gear-spur.png",
+        "sha256": "56a411e548fd1ea7d4a013e84aae77797f6b6ae7d6c15f608d7ab60b264cfafc",
+        "bytes": 8070
+      },
+      {
+        "file": "assets/canvas-studio/models/gear-helical.png",
+        "sha256": "b7466947122178cacabbcd9a141fec1934306dfdd01f0fea51320c4c956f9e45",
+        "bytes": 12223
+      },
+      {
+        "file": "assets/canvas-studio/models/gear-bevel.png",
+        "sha256": "00a4e105e5cc60d42509b0bfee9a403ea8fccf58e0a718cd1f7f4800eb82a385",
+        "bytes": 9032
+      }
+    ]
+  },
+  "textModes": {
+    "recipe": "Hand-authored isometric plate and CS line paths; raised relief, engraved recess and flush orange inlay.",
+    "files": [
+      {
+        "file": "assets/canvas-studio/text-modes/raised.svg",
+        "sha256": "6f4832bea8dc5b028fdc64222279daac89d2d7a05aaeb5545b31524cd484acb2"
+      },
+      {
+        "file": "assets/canvas-studio/text-modes/engraved.svg",
+        "sha256": "660cb26c5bb6803017a19ef7f81210cf6c65ffdac1f7940fca922089577092c6"
+      },
+      {
+        "file": "assets/canvas-studio/text-modes/inlay.svg",
+        "sha256": "aa4bb6446f8d384761add26294685a8c228671ba1fac4210591ba4f80e8ea6a6"
+      }
+    ]
+  },
+  "retainedNotices": [
+    "../textures/materials/SOURCES.txt", "project-license.txt"
+  ]
+}

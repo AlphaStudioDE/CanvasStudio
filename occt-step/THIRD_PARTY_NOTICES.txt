@@ -1,0 +1,11 @@
+Canvas Studio OCCT runtime notice
+
+OCCT modeling and STEP exchange use occt-wasm 5.17.1 and OCCT 8.0.1.
+Wrapper source and build scripts:
+https://github.com/andymai/occt-wasm/tree/3376af4107385fea1ef33e026aea7ae487f6624f
+OCCT source:
+https://github.com/andymai/OCCT/tree/c7f60ffe85f28c67358d1771454044f0521f2fdd
+
+See the accompanying license texts and the License section of UPSTREAM_README.md.
+The wrapper tooling and the compiled OCCT library carry their respective licenses.
+Keep the JavaScript loader and WebAssembly file together when replacing the library.

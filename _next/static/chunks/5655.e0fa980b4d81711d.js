@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1606,5655],{49225:e=>{e.exports=JSON.parse('{"familyName":"Canvas font"}')},52904:(e,a,s)=>{s.d(a,{Lb:()=>n}),s(17114);let n=["Multilanguage","Sans","Serif","Script","Monospace","Rounded","Stencil"]},90775:(e,a,s)=>{s(66188),s(25353)}}]);

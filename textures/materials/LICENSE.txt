@@ -1,0 +1,14 @@
+Bundled displacement maps: Poly Haven, CC0 1.0 Universal.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Brown Leather — Rob Tuytel
+https://polyhaven.com/a/brown_leather
+Source: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/brown_leather/brown_leather_disp_1k.png
+
+Scuba Suede — Rico Cilliers (processing), colormass (photography)
+https://polyhaven.com/a/scuba_suede
+Source: https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/scuba_suede/scuba_suede_disp_1k.png
+
+Derived assets: downsampled height fields and previews for the Canvas Studio relief library.
+No source renders, website screenshots, logos or paid assets are redistributed.

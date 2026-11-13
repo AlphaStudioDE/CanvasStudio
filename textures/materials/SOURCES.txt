@@ -1,0 +1,59 @@
+brown_leather
+CC0 — Poly Haven
+https://polyhaven.com/a/brown_leather
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/brown_leather/brown_leather_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+scuba_suede
+CC0 — Poly Haven
+https://polyhaven.com/a/scuba_suede
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/scuba_suede/scuba_suede_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+denim_fabric
+CC0 — Poly Haven
+https://polyhaven.com/a/denim_fabric
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric/denim_fabric_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+denim_fabric_03
+CC0 — Poly Haven
+https://polyhaven.com/a/denim_fabric_03
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/denim_fabric_03/denim_fabric_03_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+dark_wood
+CC0 — Poly Haven
+https://polyhaven.com/a/dark_wood
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/dark_wood/dark_wood_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+wood_floor
+CC0 — Poly Haven
+https://polyhaven.com/a/wood_floor
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/wood_floor/wood_floor_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+rock_boulder_dry
+CC0 — Poly Haven
+https://polyhaven.com/a/rock_boulder_dry
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/rock_boulder_dry/rock_boulder_dry_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+marble_rock_01
+CC0 — Poly Haven
+https://polyhaven.com/a/marble_rock_01
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/marble_rock_01/marble_rock_01_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+metal_plate
+CC0 — Poly Haven
+https://polyhaven.com/a/metal_plate
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/metal_plate/metal_plate_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.
+
+metal_plate_02
+CC0 — Poly Haven
+https://polyhaven.com/a/metal_plate_02
+https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/metal_plate_02/metal_plate_02_disp_1k.png
+Derivative: 256px, 16-bit height data, 8px seam correction band.

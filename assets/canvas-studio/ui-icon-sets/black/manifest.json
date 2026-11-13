@@ -1,0 +1,6966 @@
+{
+  "family": "black",
+  "source": "Built-in ImageGen, approved Canvas A/B/C raster reference; no procedural replacement renderer",
+  "rows": [
+    {
+      "name": "FolderOpen",
+      "theme": "light",
+      "file": "FolderOpen-light.png",
+      "sha256": "079b940c14985a13440a58ad45c6201ad76fd8bb1784f509e0c2ed70d50b2c70",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 66,
+        "top": 51,
+        "width": 294,
+        "height": 322
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 362,
+        "height": 379
+      }
+    },
+    {
+      "name": "FileUp",
+      "theme": "light",
+      "file": "FileUp-light.png",
+      "sha256": "d391feb52a5d95afc6d97ec59259e830646aece5f915fbd97f2912b13ebe74dd",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 448,
+        "top": 43,
+        "width": 216,
+        "height": 327
+      },
+      "cell": {
+        "left": 362,
+        "top": 0,
+        "width": 362,
+        "height": 379
+      }
+    },
+    {
+      "name": "Box",
+      "theme": "light",
+      "file": "Box-light.png",
+      "sha256": "2ecbbce74c701ecbc6359587c210bbaae0a885b7566d49018b7a796d84e5bfba",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 771,
+        "top": 58,
+        "width": 289,
+        "height": 321
+      },
+      "cell": {
+        "left": 724,
+        "top": 0,
+        "width": 362,
+        "height": 379
+      }
+    },
+    {
+      "name": "Pencil",
+      "theme": "light",
+      "file": "Pencil-light.png",
+      "sha256": "91350e5b12a97999f8faf905b3ca272c996ec2c40363e47f647ea9b8e1f59d35",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 89,
+        "top": 398,
+        "width": 242,
+        "height": 336
+      },
+      "cell": {
+        "left": 0,
+        "top": 379,
+        "width": 362,
+        "height": 355
+      }
+    },
+    {
+      "name": "Tool_settings",
+      "theme": "light",
+      "file": "Tool_settings-light.png",
+      "sha256": "a690942c8ff9aadde10284fb0ada1b0bb67451020cd6c709d8cb1373f8d3e5c6",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 421,
+        "top": 418,
+        "width": 295,
+        "height": 299
+      },
+      "cell": {
+        "left": 362,
+        "top": 379,
+        "width": 362,
+        "height": 355
+      }
+    },
+    {
+      "name": "Trash2",
+      "theme": "light",
+      "file": "Trash2-light.png",
+      "sha256": "00cb2a67fedb9c92557bce916da58634e77a616cd0f26543b7beb14abab0754b",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 818,
+        "top": 411,
+        "width": 215,
+        "height": 311
+      },
+      "cell": {
+        "left": 724,
+        "top": 379,
+        "width": 362,
+        "height": 355
+      }
+    },
+    {
+      "name": "FolderOpen",
+      "theme": "dark",
+      "file": "FolderOpen-dark.png",
+      "sha256": "db5e6a68fdfb25a8fba259851df9e8ab322f7fc9536119883b18aea10cec618f",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 65,
+        "top": 771,
+        "width": 295,
+        "height": 320
+      },
+      "cell": {
+        "left": 0,
+        "top": 734,
+        "width": 362,
+        "height": 362
+      }
+    },
+    {
+      "name": "FileUp",
+      "theme": "dark",
+      "file": "FileUp-dark.png",
+      "sha256": "8fb1648a365676e06a60aa6ac10dc5ad6f0906d70ffdc5ea48b6595ce836e768",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 448,
+        "top": 763,
+        "width": 216,
+        "height": 326
+      },
+      "cell": {
+        "left": 362,
+        "top": 734,
+        "width": 362,
+        "height": 362
+      }
+    },
+    {
+      "name": "Box",
+      "theme": "dark",
+      "file": "Box-dark.png",
+      "sha256": "7da88a3fd33f7931d1b29f7ffc621c29c1e330798ace30ccb7c73aeef3a91110",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 770,
+        "top": 775,
+        "width": 290,
+        "height": 321
+      },
+      "cell": {
+        "left": 724,
+        "top": 734,
+        "width": 362,
+        "height": 362
+      }
+    },
+    {
+      "name": "Pencil",
+      "theme": "dark",
+      "file": "Pencil-dark.png",
+      "sha256": "905d3413eefe63243da18ea08ff2ec78209f705d100a342c4d28decbd0cdc154",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 91,
+        "top": 1114,
+        "width": 241,
+        "height": 334
+      },
+      "cell": {
+        "left": 0,
+        "top": 1096,
+        "width": 362,
+        "height": 352
+      }
+    },
+    {
+      "name": "Tool_settings",
+      "theme": "dark",
+      "file": "Tool_settings-dark.png",
+      "sha256": "4200d3079c251a0fd46082b3118883dd8ae5c35d4ca2b841502a2dddfb5fc096",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 422,
+        "top": 1132,
+        "width": 296,
+        "height": 301
+      },
+      "cell": {
+        "left": 362,
+        "top": 1096,
+        "width": 362,
+        "height": 352
+      }
+    },
+    {
+      "name": "Trash2",
+      "theme": "dark",
+      "file": "Trash2-dark.png",
+      "sha256": "34333e8646419d16709a91a57b9e8f711d23c7e6ecccefc1a5ff79dc40cd1179",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 818,
+        "top": 1126,
+        "width": 216,
+        "height": 311
+      },
+      "cell": {
+        "left": 724,
+        "top": 1096,
+        "width": 362,
+        "height": 352
+      }
+    },
+    {
+      "name": "Tool_shell",
+      "theme": "light",
+      "file": "Tool_shell-light.png",
+      "sha256": "8f97032e30dcfe6daf25058006f7839658c190e45527ae85be7e81ca9e00057b",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 53,
+        "top": 80,
+        "width": 200,
+        "height": 206
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 295
+      }
+    },
+    {
+      "name": "Tool_home",
+      "theme": "light",
+      "file": "Tool_home-light.png",
+      "sha256": "8f0f5baea89528eff1ed8c497e6018e29de2bbeb497fbced9e67c02848a616bb",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 291,
+        "top": 77,
+        "width": 206,
+        "height": 207
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 295
+      }
+    },
+    {
+      "name": "Tool_copy",
+      "theme": "light",
+      "file": "Tool_copy-light.png",
+      "sha256": "0df47ca95bc0f0e807eeb0102076159f3aa993804cde73c4afb97f7220ee0413",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 538,
+        "top": 70,
+        "width": 183,
+        "height": 225
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 295
+      }
+    },
+    {
+      "name": "Tool_paste",
+      "theme": "light",
+      "file": "Tool_paste-light.png",
+      "sha256": "a4a9600596d575ecfbc8d26f2ac7e50847fabe666eeeb592cf2dd33b8525c22d",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 801,
+        "top": 70,
+        "width": 169,
+        "height": 224
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 295
+      }
+    },
+    {
+      "name": "Tool_duplicate",
+      "theme": "light",
+      "file": "Tool_duplicate-light.png",
+      "sha256": "0fbafe68d47b4d36f3d68f5bbeaf2328a70e1c0b7832508b7e125a40ae0d1626",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 51,
+        "top": 329,
+        "width": 219,
+        "height": 201
+      },
+      "cell": {
+        "left": 0,
+        "top": 295,
+        "width": 270,
+        "height": 237
+      }
+    },
+    {
+      "name": "Tool_trash",
+      "theme": "light",
+      "file": "Tool_trash-light.png",
+      "sha256": "00cb2a67fedb9c92557bce916da58634e77a616cd0f26543b7beb14abab0754b",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 818,
+        "top": 411,
+        "width": 215,
+        "height": 311
+      },
+      "cell": {
+        "left": 724,
+        "top": 379,
+        "width": 362,
+        "height": 355
+      },
+      "aliasOf": "Trash2"
+    },
+    {
+      "name": "Tool_undo",
+      "theme": "light",
+      "file": "Tool_undo-light.png",
+      "sha256": "3aaa5d98c663066b3fbfcb24d5b4599b9ed73c410d24ad0c390251eda0df5365",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 530,
+        "top": 340,
+        "width": 194,
+        "height": 180
+      },
+      "cell": {
+        "left": 512,
+        "top": 295,
+        "width": 256,
+        "height": 237
+      }
+    },
+    {
+      "name": "Tool_redo",
+      "theme": "light",
+      "file": "Tool_redo-light.png",
+      "sha256": "d30751cf63e732b5cd6112dc80f35ac5fb4a6eb3cce22b1c4144784bce0478bf",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 790,
+        "top": 341,
+        "width": 188,
+        "height": 176
+      },
+      "cell": {
+        "left": 768,
+        "top": 295,
+        "width": 256,
+        "height": 237
+      }
+    },
+    {
+      "name": "Tool_note",
+      "theme": "light",
+      "file": "Tool_note-light.png",
+      "sha256": "141aed9b4903256f2d6f3ff7535140c35fd2202a3dcf905ee002a7937b1309d4",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 79,
+        "top": 577,
+        "width": 167,
+        "height": 197
+      },
+      "cell": {
+        "left": 0,
+        "top": 532,
+        "width": 256,
+        "height": 248
+      }
+    },
+    {
+      "name": "Tool_import",
+      "theme": "light",
+      "file": "Tool_import-light.png",
+      "sha256": "62ba68ae39c6e814f4dd6cd4727a34041ade1d331defb73d7d25c628af9c29db",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 321,
+        "top": 567,
+        "width": 157,
+        "height": 213
+      },
+      "cell": {
+        "left": 256,
+        "top": 532,
+        "width": 256,
+        "height": 248
+      }
+    },
+    {
+      "name": "Tool_export",
+      "theme": "light",
+      "file": "Tool_export-light.png",
+      "sha256": "bb77f13fa994599565f222d45bc5331887a0abd31cbfc73adf49735f76f8cac6",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 546,
+        "top": 565,
+        "width": 158,
+        "height": 215
+      },
+      "cell": {
+        "left": 512,
+        "top": 532,
+        "width": 228,
+        "height": 248
+      }
+    },
+    {
+      "name": "Tool_keyboard",
+      "theme": "light",
+      "file": "Tool_keyboard-light.png",
+      "sha256": "4b641630b84654592ebec1f275c032594af75a29a794c4e633ff14df71410a10",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 741,
+        "top": 602,
+        "width": 255,
+        "height": 175
+      },
+      "cell": {
+        "left": 740,
+        "top": 532,
+        "width": 284,
+        "height": 248
+      }
+    },
+    {
+      "name": "Tool_shell",
+      "theme": "dark",
+      "file": "Tool_shell-dark.png",
+      "sha256": "2216ed68c8b10d71f2a50d31700dffbcaec25d615c59d9073ca83c1c0acdd4ea",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 51,
+        "top": 817,
+        "width": 204,
+        "height": 211
+      },
+      "cell": {
+        "left": 0,
+        "top": 780,
+        "width": 256,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_home",
+      "theme": "dark",
+      "file": "Tool_home-dark.png",
+      "sha256": "34edd118c71fc65f575983411cc594d09e3b85030eab87defb2149743d93fd79",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 291,
+        "top": 816,
+        "width": 205,
+        "height": 211
+      },
+      "cell": {
+        "left": 256,
+        "top": 780,
+        "width": 256,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_copy",
+      "theme": "dark",
+      "file": "Tool_copy-dark.png",
+      "sha256": "2c5431660b9bae3612211a4579c7417e8a6cc81ecc249a3c0013ac00739fe504",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 538,
+        "top": 813,
+        "width": 184,
+        "height": 225
+      },
+      "cell": {
+        "left": 512,
+        "top": 780,
+        "width": 256,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_paste",
+      "theme": "dark",
+      "file": "Tool_paste-dark.png",
+      "sha256": "b35dada947693372febfdbf3a7087e7b7e43a15fd81a211431d890268077bcc3",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 801,
+        "top": 815,
+        "width": 169,
+        "height": 223
+      },
+      "cell": {
+        "left": 768,
+        "top": 780,
+        "width": 256,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_duplicate",
+      "theme": "dark",
+      "file": "Tool_duplicate-dark.png",
+      "sha256": "3f11d4a5f452dae7da4a12511538c184c29218e3b122718843e540f34738855e",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 51,
+        "top": 1064,
+        "width": 220,
+        "height": 206
+      },
+      "cell": {
+        "left": 0,
+        "top": 1038,
+        "width": 271,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_trash",
+      "theme": "dark",
+      "file": "Tool_trash-dark.png",
+      "sha256": "34333e8646419d16709a91a57b9e8f711d23c7e6ecccefc1a5ff79dc40cd1179",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 818,
+        "top": 1126,
+        "width": 216,
+        "height": 311
+      },
+      "cell": {
+        "left": 724,
+        "top": 1096,
+        "width": 362,
+        "height": 352
+      },
+      "aliasOf": "Trash2"
+    },
+    {
+      "name": "Tool_undo",
+      "theme": "dark",
+      "file": "Tool_undo-dark.png",
+      "sha256": "30a324a2574df4efc7d0934a916a7b93b0ab6978303507f934af0253c93f5118",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 529,
+        "top": 1073,
+        "width": 198,
+        "height": 179
+      },
+      "cell": {
+        "left": 512,
+        "top": 1038,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_redo",
+      "theme": "dark",
+      "file": "Tool_redo-dark.png",
+      "sha256": "34bdb6839cf563cef475a2b3d57ad1c1b5d8a12a2efd0f6ae449e21399b2935e",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 787,
+        "top": 1075,
+        "width": 191,
+        "height": 169
+      },
+      "cell": {
+        "left": 768,
+        "top": 1038,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_note",
+      "theme": "dark",
+      "file": "Tool_note-dark.png",
+      "sha256": "31a1956ff09d50f511b3ae1105276ca88eb5267219100911d27134c09098e30b",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 77,
+        "top": 1292,
+        "width": 169,
+        "height": 199
+      },
+      "cell": {
+        "left": 0,
+        "top": 1278,
+        "width": 256,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_import",
+      "theme": "dark",
+      "file": "Tool_import-dark.png",
+      "sha256": "f7c5dc2ba0be6e1e3c416832bdf6120fdc26a275667c24effd4861f780b4068f",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 320,
+        "top": 1286,
+        "width": 162,
+        "height": 213
+      },
+      "cell": {
+        "left": 256,
+        "top": 1278,
+        "width": 256,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_export",
+      "theme": "dark",
+      "file": "Tool_export-dark.png",
+      "sha256": "46fab919996e58c3b4e056dac0173b429a4f4ac5d216b95d198e82b10073d778",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 551,
+        "top": 1279,
+        "width": 155,
+        "height": 217
+      },
+      "cell": {
+        "left": 512,
+        "top": 1278,
+        "width": 227,
+        "height": 258
+      }
+    },
+    {
+      "name": "Tool_keyboard",
+      "theme": "dark",
+      "file": "Tool_keyboard-dark.png",
+      "sha256": "f77690a91493d5831e3441cf9da52c54e17410971a678e113f0ed5d94b3321af",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 740,
+        "top": 1319,
+        "width": 256,
+        "height": 177
+      },
+      "cell": {
+        "left": 739,
+        "top": 1278,
+        "width": 285,
+        "height": 258
+      }
+    },
+    {
+      "name": "Bolt",
+      "theme": "light",
+      "file": "Bolt-light.png",
+      "sha256": "6f4903cba92df1730a7b3e6b7f3830b5dfa6006535df33b30dd90c583a0d71a3",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 42,
+        "top": 57,
+        "width": 206,
+        "height": 207
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Magnet",
+      "theme": "light",
+      "file": "Magnet-light.png",
+      "sha256": "6956bb020afae4b5e81bee8b83a87fb5bc67be1cf41edda1893cf2bb5b8ff62d",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 287,
+        "top": 61,
+        "width": 200,
+        "height": 195
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Type",
+      "theme": "light",
+      "file": "Type-light.png",
+      "sha256": "b488649ba78ff70e14484580ee5e42707628d50f24d0c572c4ec0de025982897",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 547,
+        "top": 59,
+        "width": 184,
+        "height": 205
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Braces",
+      "theme": "light",
+      "file": "Braces-light.png",
+      "sha256": "84bc12dc32ddc01a58adc9a9eccf3fd9fb74e9f12a4a58d268f2308e204c7965",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 791,
+        "top": 68,
+        "width": 199,
+        "height": 189
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Variable",
+      "theme": "light",
+      "file": "Variable-light.png",
+      "sha256": "4adc8128004c8b36c651babaa1867e9ed890a13a5888685ce09bde75406477c5",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 42,
+        "top": 327,
+        "width": 198,
+        "height": 166
+      },
+      "cell": {
+        "left": 0,
+        "top": 264,
+        "width": 256,
+        "height": 248
+      }
+    },
+    {
+      "name": "Split",
+      "theme": "light",
+      "file": "Split-light.png",
+      "sha256": "da93f304f5a0d7f6130b23d941cbf84627fd461c750b622d400c87b91925e8e4",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 310,
+        "top": 300,
+        "width": 176,
+        "height": 195
+      },
+      "cell": {
+        "left": 256,
+        "top": 264,
+        "width": 256,
+        "height": 248
+      }
+    },
+    {
+      "name": "Send",
+      "theme": "light",
+      "file": "Send-light.png",
+      "sha256": "979c0371277bba922e00a0f312fd10b34ccd15d290d45fed8e56457cd5f18660",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 539,
+        "top": 300,
+        "width": 211,
+        "height": 193
+      },
+      "cell": {
+        "left": 512,
+        "top": 264,
+        "width": 256,
+        "height": 248
+      }
+    },
+    {
+      "name": "Pause",
+      "theme": "light",
+      "file": "Pause-light.png",
+      "sha256": "c87149c9b56236d9e936c415f2409dd126e397bf9a8906f63acfe4d9572b3f97",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 817,
+        "top": 309,
+        "width": 156,
+        "height": 183
+      },
+      "cell": {
+        "left": 768,
+        "top": 264,
+        "width": 256,
+        "height": 248
+      }
+    },
+    {
+      "name": "Play",
+      "theme": "light",
+      "file": "Play-light.png",
+      "sha256": "f0daadc7d79dc473a261cddb13ad56d10a4d6fe09dd25badf4f7babe3f84bfd8",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 65,
+        "top": 554,
+        "width": 165,
+        "height": 174
+      },
+      "cell": {
+        "left": 0,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ShieldCheck",
+      "theme": "light",
+      "file": "ShieldCheck-light.png",
+      "sha256": "0d8fb36f7e9b6db2217f4770c75ef00ddf74a23e2e79620becabd6ca0d24bc05",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 301,
+        "top": 529,
+        "width": 180,
+        "height": 209
+      },
+      "cell": {
+        "left": 256,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "User",
+      "theme": "light",
+      "file": "User-light.png",
+      "sha256": "fa37fd5d1b5662717ddd63cf689254ad293d8ee1a435bac1a845977bc9a5e998",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 549,
+        "top": 542,
+        "width": 178,
+        "height": 194
+      },
+      "cell": {
+        "left": 512,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Bot",
+      "theme": "light",
+      "file": "Bot-light.png",
+      "sha256": "1b0cc4d01084095ab792a64d8a964be73a8848dc7016a9c00e96edad3c2d2138",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 784,
+        "top": 531,
+        "width": 215,
+        "height": 197
+      },
+      "cell": {
+        "left": 768,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Bolt",
+      "theme": "dark",
+      "file": "Bolt-dark.png",
+      "sha256": "e932401412fefa1f0c7d9f0d357ea9cad751800daf3c1ec8165331a842bc4258",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 42,
+        "top": 792,
+        "width": 206,
+        "height": 208
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Magnet",
+      "theme": "dark",
+      "file": "Magnet-dark.png",
+      "sha256": "96d6d30dc70d9b0dc163464d18e8f4bfd78e57373506fed473c2a78d475c450a",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 287,
+        "top": 796,
+        "width": 200,
+        "height": 196
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Type",
+      "theme": "dark",
+      "file": "Type-dark.png",
+      "sha256": "0b334e20867a310fa217b6836411f5b8fb6d09d7916adaabff21f12cdd78c086",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 547,
+        "top": 794,
+        "width": 185,
+        "height": 206
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Braces",
+      "theme": "dark",
+      "file": "Braces-dark.png",
+      "sha256": "6bc23dfddc22c8cd6ae753f8a1dd5452909eceeb39ebc07758800e83a3b5dc25",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 791,
+        "top": 803,
+        "width": 199,
+        "height": 190
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Variable",
+      "theme": "dark",
+      "file": "Variable-dark.png",
+      "sha256": "a80104b1edfd0ab0a1000d6d9ccb5b61dcbd21f2107a668ef8f6157a845fec0b",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 42,
+        "top": 1063,
+        "width": 199,
+        "height": 166
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 238
+      }
+    },
+    {
+      "name": "Split",
+      "theme": "dark",
+      "file": "Split-dark.png",
+      "sha256": "a73b49f86ed78c89787d9cf79ae25e07151bb9282c7f0560cddcbebb469da970",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 309,
+        "top": 1036,
+        "width": 177,
+        "height": 195
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 238
+      }
+    },
+    {
+      "name": "Send",
+      "theme": "dark",
+      "file": "Send-dark.png",
+      "sha256": "ea2b86809eb17504659d9ea62ec0664f82a77d94c124583dac7d2cb41bff8dde",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 539,
+        "top": 1036,
+        "width": 211,
+        "height": 193
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 238
+      }
+    },
+    {
+      "name": "Pause",
+      "theme": "dark",
+      "file": "Pause-dark.png",
+      "sha256": "8957365bfa370314ccbc051fd685ddea837b7ff1578bcb35ea73cc5a713ccc22",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 816,
+        "top": 1045,
+        "width": 158,
+        "height": 183
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 238
+      }
+    },
+    {
+      "name": "Play",
+      "theme": "dark",
+      "file": "Play-dark.png",
+      "sha256": "bfea7ce1d31083e44d17ae27d2031e62969501e8e2a3e977b2a9d1088bf55008",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 65,
+        "top": 1287,
+        "width": 165,
+        "height": 176
+      },
+      "cell": {
+        "left": 0,
+        "top": 1262,
+        "width": 256,
+        "height": 274
+      }
+    },
+    {
+      "name": "ShieldCheck",
+      "theme": "dark",
+      "file": "ShieldCheck-dark.png",
+      "sha256": "14dd01ba2f6f0108f933c3661943b7e653d1fa45f006e29853a7192525b3122f",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 299,
+        "top": 1263,
+        "width": 183,
+        "height": 211
+      },
+      "cell": {
+        "left": 256,
+        "top": 1262,
+        "width": 256,
+        "height": 274
+      }
+    },
+    {
+      "name": "User",
+      "theme": "dark",
+      "file": "User-dark.png",
+      "sha256": "487e55e2a979251d7637f4273d7c9695a6bd7250fab47175c9e9031c60cad5fc",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 548,
+        "top": 1277,
+        "width": 179,
+        "height": 195
+      },
+      "cell": {
+        "left": 512,
+        "top": 1262,
+        "width": 256,
+        "height": 274
+      }
+    },
+    {
+      "name": "Bot",
+      "theme": "dark",
+      "file": "Bot-dark.png",
+      "sha256": "36fd30419d415a56cc9a7e1030cfb9b55d4f18868a7f23d4e7486f6807300ff9",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 785,
+        "top": 1264,
+        "width": 214,
+        "height": 199
+      },
+      "cell": {
+        "left": 768,
+        "top": 1262,
+        "width": 256,
+        "height": 274
+      }
+    },
+    {
+      "name": "Wrench",
+      "theme": "light",
+      "file": "Wrench-light.png",
+      "sha256": "d7f9eeb8aaa5355985eea1bb816f1d878051da1a657f8bbfdfc18bba13899c47",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 38,
+        "top": 49,
+        "width": 211,
+        "height": 229
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 278
+      }
+    },
+    {
+      "name": "Sparkles",
+      "theme": "light",
+      "file": "Sparkles-light.png",
+      "sha256": "116fe336532118e924aff95161a826e1895628eeddb68441cb0493134030fa78",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 282,
+        "top": 66,
+        "width": 184,
+        "height": 187
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 278
+      }
+    },
+    {
+      "name": "Film",
+      "theme": "light",
+      "file": "Film-light.png",
+      "sha256": "2eaf46c87750ac17855179a0b6a48634dae984d6186c675d87deb9ceea283bf1",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 516,
+        "top": 65,
+        "width": 204,
+        "height": 213
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 241,
+        "height": 278
+      }
+    },
+    {
+      "name": "Gamepad2",
+      "theme": "light",
+      "file": "Gamepad2-light.png",
+      "sha256": "d506ab587a04024ad6285b9148e4f2184a8081d788cf9edd29ada907d9da4ce7",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 754,
+        "top": 87,
+        "width": 245,
+        "height": 191
+      },
+      "cell": {
+        "left": 753,
+        "top": 0,
+        "width": 271,
+        "height": 278
+      }
+    },
+    {
+      "name": "Shapes",
+      "theme": "light",
+      "file": "Shapes-light.png",
+      "sha256": "e16b0a4de2fb4479f364fabedebcd5e3356e5252d696753846d136108768f648",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 36,
+        "top": 312,
+        "width": 212,
+        "height": 210
+      },
+      "cell": {
+        "left": 0,
+        "top": 278,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "PaintBucket",
+      "theme": "light",
+      "file": "PaintBucket-light.png",
+      "sha256": "2721521177a44b829a6044f0d0c21c601361ac669816086d87d024b7f528c0af",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 294,
+        "top": 311,
+        "width": 200,
+        "height": 205
+      },
+      "cell": {
+        "left": 256,
+        "top": 278,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "Pipette",
+      "theme": "light",
+      "file": "Pipette-light.png",
+      "sha256": "9d09c11c930c76acdaa497ca26b7ffa2cbcbe264cae76202f416400e9c19b222",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 552,
+        "top": 311,
+        "width": 182,
+        "height": 216
+      },
+      "cell": {
+        "left": 512,
+        "top": 278,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "SprayCan",
+      "theme": "light",
+      "file": "SprayCan-light.png",
+      "sha256": "5ab470e084b51c18b91d79d339f672e4c1421d8579e240a4665894e698cdedbc",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 843,
+        "top": 305,
+        "width": 118,
+        "height": 226
+      },
+      "cell": {
+        "left": 768,
+        "top": 278,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "Palette",
+      "theme": "light",
+      "file": "Palette-light.png",
+      "sha256": "2c4a5f5be8549cb22eb5ef4fce7d8b6a3969a49bb5977f247da21ab230637de0",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 41,
+        "top": 565,
+        "width": 201,
+        "height": 201
+      },
+      "cell": {
+        "left": 0,
+        "top": 531,
+        "width": 256,
+        "height": 237
+      }
+    },
+    {
+      "name": "Waves",
+      "theme": "light",
+      "file": "Waves-light.png",
+      "sha256": "cf5c8d2ef1afb61ff75beb2bd711ef2ed945ec79278a4738cc8c60d387543be4",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 289,
+        "top": 594,
+        "width": 200,
+        "height": 155
+      },
+      "cell": {
+        "left": 256,
+        "top": 531,
+        "width": 256,
+        "height": 237
+      }
+    },
+    {
+      "name": "Volume2",
+      "theme": "light",
+      "file": "Volume2-light.png",
+      "sha256": "2334dea430ffccfc046c70d37c2535260de06e217e33a489ad42566c4e95bffe",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 538,
+        "top": 570,
+        "width": 205,
+        "height": 194
+      },
+      "cell": {
+        "left": 512,
+        "top": 531,
+        "width": 256,
+        "height": 237
+      }
+    },
+    {
+      "name": "VolumeX",
+      "theme": "light",
+      "file": "VolumeX-light.png",
+      "sha256": "c0dc5439b9b26973123d7778b96926b8023ca6d108666125b17f1ab4a4735604",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 787,
+        "top": 575,
+        "width": 213,
+        "height": 188
+      },
+      "cell": {
+        "left": 768,
+        "top": 531,
+        "width": 256,
+        "height": 237
+      }
+    },
+    {
+      "name": "Wrench",
+      "theme": "dark",
+      "file": "Wrench-dark.png",
+      "sha256": "5717124d50e19ff89d6750ca83627c543075d78ba9b8d590c138ab50cee4a0e3",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 38,
+        "top": 784,
+        "width": 212,
+        "height": 231
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Sparkles",
+      "theme": "dark",
+      "file": "Sparkles-dark.png",
+      "sha256": "84c011291b0fee3edff13048711d7bb2640b58381d36c9d4645dae70508041a7",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 282,
+        "top": 802,
+        "width": 185,
+        "height": 189
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Film",
+      "theme": "dark",
+      "file": "Film-dark.png",
+      "sha256": "76ac7f111d4bf694298671fe5e600240fc2be59a04316ecdc7bd71e9cf55b841",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 515,
+        "top": 800,
+        "width": 206,
+        "height": 215
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 241,
+        "height": 256
+      }
+    },
+    {
+      "name": "Gamepad2",
+      "theme": "dark",
+      "file": "Gamepad2-dark.png",
+      "sha256": "a1aafe0a0f89379c86203f9011c5f1042a73145f59e0ecdb5aea197705a21e3b",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 754,
+        "top": 823,
+        "width": 245,
+        "height": 192
+      },
+      "cell": {
+        "left": 753,
+        "top": 768,
+        "width": 271,
+        "height": 256
+      }
+    },
+    {
+      "name": "Shapes",
+      "theme": "dark",
+      "file": "Shapes-dark.png",
+      "sha256": "ba4f516c880415d8f89d5154c22e55ca9c2159b091f7c24ddd0d196a6857d7bb",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 36,
+        "top": 1048,
+        "width": 213,
+        "height": 211
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "PaintBucket",
+      "theme": "dark",
+      "file": "PaintBucket-dark.png",
+      "sha256": "af5f27cd05019ee2b17421a3cef476d90d0b096622917de5bf15185a6cae6f6a",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 293,
+        "top": 1047,
+        "width": 201,
+        "height": 205
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Pipette",
+      "theme": "dark",
+      "file": "Pipette-dark.png",
+      "sha256": "ccfa1470b762a826f3763dd395278cff7bc2f7f05ac2c05f89253b609b0ff40e",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 552,
+        "top": 1047,
+        "width": 182,
+        "height": 217
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "SprayCan",
+      "theme": "dark",
+      "file": "SprayCan-dark.png",
+      "sha256": "09a1f7a0ce14892271bea17bcb1d41e9fbe83751b9d98ed250ce8375397b5737",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 842,
+        "top": 1040,
+        "width": 120,
+        "height": 227
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Palette",
+      "theme": "dark",
+      "file": "Palette-dark.png",
+      "sha256": "df3acf6961af4c4ab386ad337478843d72353e38fd8eed9582ed80cd907d353f",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 40,
+        "top": 1300,
+        "width": 206,
+        "height": 202
+      },
+      "cell": {
+        "left": 0,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Waves",
+      "theme": "dark",
+      "file": "Waves-dark.png",
+      "sha256": "9898b08a9dc99923ae2b7577034f690d46c2d528934d0fe2f862c4d9b69fa04a",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 289,
+        "top": 1329,
+        "width": 201,
+        "height": 157
+      },
+      "cell": {
+        "left": 256,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Volume2",
+      "theme": "dark",
+      "file": "Volume2-dark.png",
+      "sha256": "6e8bc038357663afb7c49ebfa45ceceb489a1e80e19fd1a52e6403df307d1b32",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 538,
+        "top": 1305,
+        "width": 205,
+        "height": 196
+      },
+      "cell": {
+        "left": 512,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "VolumeX",
+      "theme": "dark",
+      "file": "VolumeX-dark.png",
+      "sha256": "4bc26fda9761a855664de3da5b7a00b8b5d59df1604066ded409bc6754e3286a",
+      "source": "page-11-e2476b793a3e.png",
+      "origin": "page-11",
+      "sourceSha256": "e2476b793a3e688e2a4b37a27e2edf58c6dbcfcecf613688aa7adf0b884d261c",
+      "crop": {
+        "left": 786,
+        "top": 1311,
+        "width": 214,
+        "height": 189
+      },
+      "cell": {
+        "left": 768,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Shape_cylinder",
+      "theme": "light",
+      "file": "Shape_cylinder-light.png",
+      "sha256": "13077bb490c85cb05b79578b390fe1eb208e21eb1c830d8ff668278656a0fdb7",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 60,
+        "top": 57,
+        "width": 155,
+        "height": 180
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_ellipse",
+      "theme": "light",
+      "file": "Shape_ellipse-light.png",
+      "sha256": "5c086f3395a68ae3143c54d84271343201e0767a0dfb7fc7f453c242cc075e69",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 258,
+        "top": 81,
+        "width": 196,
+        "height": 153
+      },
+      "cell": {
+        "left": 237,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_polygon",
+      "theme": "light",
+      "file": "Shape_polygon-light.png",
+      "sha256": "15c85cc5629bce7ae280a1f3e916fd10c40706626e94638f805160fc41c2000c",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 496,
+        "top": 56,
+        "width": 157,
+        "height": 187
+      },
+      "cell": {
+        "left": 474,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_sphere",
+      "theme": "light",
+      "file": "Shape_sphere-light.png",
+      "sha256": "7416a65099ca3cb6a43212ce03442b549378a87331e4bf6638d25246ae2241ee",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 742,
+        "top": 65,
+        "width": 174,
+        "height": 174
+      },
+      "cell": {
+        "left": 711,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_cone",
+      "theme": "light",
+      "file": "Shape_cone-light.png",
+      "sha256": "c752def92d1b7b76b914bad8466f2acde5dee5732ca1250ceadfa9fc188c01eb",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 981,
+        "top": 66,
+        "width": 179,
+        "height": 180
+      },
+      "cell": {
+        "left": 948,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_pyramid",
+      "theme": "light",
+      "file": "Shape_pyramid-light.png",
+      "sha256": "ee0fbd04abbf6072013022d0ee78393f385a3769c622123cd2d284d51ccc444d",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1197,
+        "top": 73,
+        "width": 199,
+        "height": 172
+      },
+      "cell": {
+        "left": 1185,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_wedge",
+      "theme": "light",
+      "file": "Shape_wedge-light.png",
+      "sha256": "f0cb70a10f4ccbf54b6144d1c29700a8a6b241d24cde7e07c2c19dcfe2bac095",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1426,
+        "top": 75,
+        "width": 194,
+        "height": 162
+      },
+      "cell": {
+        "left": 1422,
+        "top": 0,
+        "width": 237,
+        "height": 246
+      }
+    },
+    {
+      "name": "Shape_round-roof",
+      "theme": "light",
+      "file": "Shape_round-roof-light.png",
+      "sha256": "5cfc59ce61a166538b0a04f61cad5980fb0d67c9be91a1692ff00ff50df846e9",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 46,
+        "top": 302,
+        "width": 227,
+        "height": 155
+      },
+      "cell": {
+        "left": 0,
+        "top": 246,
+        "width": 273,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_half-sphere",
+      "theme": "light",
+      "file": "Shape_half-sphere-light.png",
+      "sha256": "c9a4a8b7944d88894435daa3f900f7389bf4a505b70361dbc4cd98ffefaf9f43",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 305,
+        "top": 306,
+        "width": 192,
+        "height": 140
+      },
+      "cell": {
+        "left": 273,
+        "top": 246,
+        "width": 224,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_torus",
+      "theme": "light",
+      "file": "Shape_torus-light.png",
+      "sha256": "e5e441a0d351d1c83e663dbbb205ddb2b7a606bc2d7d5fd0273b3f2eed199a12",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 537,
+        "top": 293,
+        "width": 201,
+        "height": 154
+      },
+      "cell": {
+        "left": 497,
+        "top": 246,
+        "width": 241,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_tube",
+      "theme": "light",
+      "file": "Shape_tube-light.png",
+      "sha256": "47c20c03d8cd96611858e5295a475cc3ef61e14ee9b32b8424b625fe46bb2b1f",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 782,
+        "top": 284,
+        "width": 155,
+        "height": 169
+      },
+      "cell": {
+        "left": 738,
+        "top": 246,
+        "width": 210,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_spring",
+      "theme": "light",
+      "file": "Shape_spring-light.png",
+      "sha256": "385fdaa74a3f1bf7ffd5f7187009c1a07bc2a7f85d0baec25fc33e8305b0b148",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1014,
+        "top": 283,
+        "width": 127,
+        "height": 174
+      },
+      "cell": {
+        "left": 948,
+        "top": 246,
+        "width": 237,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_gear-helical",
+      "theme": "light",
+      "file": "Shape_gear-helical-light.png",
+      "sha256": "2ba8ba140c7b4e9b0bd9cb1aa4b2464dadfd108b1f6a85bb9e6a6d00ef395975",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1199,
+        "top": 280,
+        "width": 185,
+        "height": 182
+      },
+      "cell": {
+        "left": 1185,
+        "top": 246,
+        "width": 236,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_gear-bevel",
+      "theme": "light",
+      "file": "Shape_gear-bevel-light.png",
+      "sha256": "af50fc9821ca815b9241a4f43b0c9b3d5e48cac38f76e014c884810be9c3998e",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1422,
+        "top": 294,
+        "width": 201,
+        "height": 158
+      },
+      "cell": {
+        "left": 1421,
+        "top": 246,
+        "width": 238,
+        "height": 228
+      }
+    },
+    {
+      "name": "Shape_cylinder",
+      "theme": "dark",
+      "file": "Shape_cylinder-dark.png",
+      "sha256": "5cceadf1575d89eac116f56435052a6d878c8633c7387c51fb6ebe91e8c0b075",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 56,
+        "top": 497,
+        "width": 156,
+        "height": 182
+      },
+      "cell": {
+        "left": 0,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_ellipse",
+      "theme": "dark",
+      "file": "Shape_ellipse-dark.png",
+      "sha256": "9d5cf3f577cf6ff1ef12b5d23ab0c0230c86cc6b2326eb1066bd93d2c12c39f4",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 257,
+        "top": 522,
+        "width": 199,
+        "height": 152
+      },
+      "cell": {
+        "left": 237,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_polygon",
+      "theme": "dark",
+      "file": "Shape_polygon-dark.png",
+      "sha256": "f3213c4a104ccc8e5e1268d77fad00737526c7877826676fccbe6f97f235d4a6",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 497,
+        "top": 496,
+        "width": 157,
+        "height": 189
+      },
+      "cell": {
+        "left": 474,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_sphere",
+      "theme": "dark",
+      "file": "Shape_sphere-dark.png",
+      "sha256": "96e90baaaefb73f4d1fbfbe7f4c5d0b43a156e8ddd853a9ca36af479760dc0f8",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 744,
+        "top": 506,
+        "width": 173,
+        "height": 173
+      },
+      "cell": {
+        "left": 711,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_cone",
+      "theme": "dark",
+      "file": "Shape_cone-dark.png",
+      "sha256": "86fe5a7bcf18943c0b8ed25162221ba5ab2564b304fabddcb7cdd092aa4b533e",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 981,
+        "top": 507,
+        "width": 179,
+        "height": 179
+      },
+      "cell": {
+        "left": 948,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_pyramid",
+      "theme": "dark",
+      "file": "Shape_pyramid-dark.png",
+      "sha256": "2045bb38b9fd0dee330537f2b86454cf7f92ade49529a27d97b4c6f1e704b035",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1197,
+        "top": 514,
+        "width": 199,
+        "height": 171
+      },
+      "cell": {
+        "left": 1185,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_wedge",
+      "theme": "dark",
+      "file": "Shape_wedge-dark.png",
+      "sha256": "6b4693f27b5859a27f344ed614beb024ac65c1e5eaba0d007ab448e20118dd65",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1426,
+        "top": 516,
+        "width": 196,
+        "height": 163
+      },
+      "cell": {
+        "left": 1422,
+        "top": 474,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_round-roof",
+      "theme": "dark",
+      "file": "Shape_round-roof-dark.png",
+      "sha256": "c49ace6d43299e16a3d28453fc81a2f3f5c95c5c9e9e6db2d2a29dc2bc28bb9f",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 43,
+        "top": 733,
+        "width": 226,
+        "height": 160
+      },
+      "cell": {
+        "left": 0,
+        "top": 711,
+        "width": 269,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_half-sphere",
+      "theme": "dark",
+      "file": "Shape_half-sphere-dark.png",
+      "sha256": "d99abc571b39c15693283a52f80b6067369358294284d449fe2a20130aa27cfa",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 301,
+        "top": 742,
+        "width": 194,
+        "height": 140
+      },
+      "cell": {
+        "left": 269,
+        "top": 711,
+        "width": 226,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_torus",
+      "theme": "dark",
+      "file": "Shape_torus-dark.png",
+      "sha256": "b36fef08c4782e74a2030adb8ded9dbb87c9ab470dd9f8d8740ba97866088c69",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 539,
+        "top": 730,
+        "width": 202,
+        "height": 158
+      },
+      "cell": {
+        "left": 495,
+        "top": 711,
+        "width": 246,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_tube",
+      "theme": "dark",
+      "file": "Shape_tube-dark.png",
+      "sha256": "49cc4e0ff5ac50a6b5600cd181c2c7e080310f7d0d646ba15573f0da3ac28c70",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 780,
+        "top": 719,
+        "width": 156,
+        "height": 172
+      },
+      "cell": {
+        "left": 741,
+        "top": 711,
+        "width": 207,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_spring",
+      "theme": "dark",
+      "file": "Shape_spring-dark.png",
+      "sha256": "66ce78b8480395b4754e36c74ce88c7fc799f4b5fa09b2908d922eaeb7ab550a",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1012,
+        "top": 717,
+        "width": 125,
+        "height": 176
+      },
+      "cell": {
+        "left": 948,
+        "top": 711,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_gear-helical",
+      "theme": "dark",
+      "file": "Shape_gear-helical-dark.png",
+      "sha256": "cc2e4497fa9433aae36f53b270a144cbe4e9e136b9ce92c28b4dc0566b0627ea",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1196,
+        "top": 716,
+        "width": 188,
+        "height": 183
+      },
+      "cell": {
+        "left": 1185,
+        "top": 711,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Shape_gear-bevel",
+      "theme": "dark",
+      "file": "Shape_gear-bevel-dark.png",
+      "sha256": "0c2f2a22a6bb45aa98480fa9d64079f7565f31e499c374d9ae3a20deda017e1a",
+      "source": "page-12-b38c189e38d3.png",
+      "origin": "page-12",
+      "sourceSha256": "b38c189e38d3e55703835c49aaccf6b4d9aca0f918d13a096caea26a7e53b0ce",
+      "crop": {
+        "left": 1423,
+        "top": 728,
+        "width": 200,
+        "height": 158
+      },
+      "cell": {
+        "left": 1422,
+        "top": 711,
+        "width": 237,
+        "height": 237
+      }
+    },
+    {
+      "name": "Tool_guide",
+      "theme": "light",
+      "file": "Tool_guide-light.png",
+      "sha256": "386e13a4cd634fbc1f968a09d17f15bf0aae6e403a9ff56753dde79a8a16ee25",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 41,
+        "top": 90,
+        "width": 204,
+        "height": 167
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 265
+      }
+    },
+    {
+      "name": "Tool_group",
+      "theme": "light",
+      "file": "Tool_group-light.png",
+      "sha256": "809af65678a1233f3bd23cac64f4ed3bddf6373b765ad851ae0b438b211cefa5",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 305,
+        "top": 77,
+        "width": 182,
+        "height": 184
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 265
+      }
+    },
+    {
+      "name": "Tool_ungroup",
+      "theme": "light",
+      "file": "Tool_ungroup-light.png",
+      "sha256": "d82dc80f7b26a2cea9d0996cc1d8fac016bf49ce9e9e896b71b7e4b2b7def7fa",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 531,
+        "top": 92,
+        "width": 210,
+        "height": 164
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 265
+      }
+    },
+    {
+      "name": "Tool_mirror",
+      "theme": "light",
+      "file": "Tool_mirror-light.png",
+      "sha256": "8ce3d399941348e6ee77c375ba30414cfe5ab721ffd13c18ae4499737e3e0171",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 785,
+        "top": 70,
+        "width": 202,
+        "height": 195
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 265
+      }
+    },
+    {
+      "name": "Tool_chamfer",
+      "theme": "light",
+      "file": "Tool_chamfer-light.png",
+      "sha256": "d3e5464bea74577527ec8b3cc90b7b0c9cfaafdcd0c4fdf192a326153c338bfc",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 54,
+        "top": 314,
+        "width": 181,
+        "height": 198
+      },
+      "cell": {
+        "left": 0,
+        "top": 265,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Tool_fillet",
+      "theme": "light",
+      "file": "Tool_fillet-light.png",
+      "sha256": "a018f3f011797006fe388d25d64c40307e8a0544592a2e957f953aecd234a38e",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 298,
+        "top": 313,
+        "width": 183,
+        "height": 197
+      },
+      "cell": {
+        "left": 256,
+        "top": 265,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Tool_snap",
+      "theme": "light",
+      "file": "Tool_snap-light.png",
+      "sha256": "ff330e8b383c21756628cec1f786b6f2652695d58bba2126ed8dbe34a7ea47b4",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 526,
+        "top": 300,
+        "width": 206,
+        "height": 228
+      },
+      "cell": {
+        "left": 512,
+        "top": 265,
+        "width": 254,
+        "height": 263
+      }
+    },
+    {
+      "name": "Tool_workplane",
+      "theme": "light",
+      "file": "Tool_workplane-light.png",
+      "sha256": "3f886b8baad4f5343eae54bb8db7868248c3e5b9eb16289ea8f33898484e5600",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 767,
+        "top": 351,
+        "width": 238,
+        "height": 161
+      },
+      "cell": {
+        "left": 766,
+        "top": 265,
+        "width": 258,
+        "height": 263
+      }
+    },
+    {
+      "name": "Tool_drop",
+      "theme": "light",
+      "file": "Tool_drop-light.png",
+      "sha256": "9a5861e6be01a79df933066684dbfecccd41e9f0733373d1e28ba8857c8092ac",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 45,
+        "top": 551,
+        "width": 204,
+        "height": 201
+      },
+      "cell": {
+        "left": 0,
+        "top": 528,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_center",
+      "theme": "light",
+      "file": "Tool_center-light.png",
+      "sha256": "32c7de9364b42ffac3ad4487c3ae37bbd5796ad3305952b6513d9230578f7cb4",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 282,
+        "top": 586,
+        "width": 230,
+        "height": 163
+      },
+      "cell": {
+        "left": 256,
+        "top": 528,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_shapeAdd",
+      "theme": "light",
+      "file": "Tool_shapeAdd-light.png",
+      "sha256": "efdfa9ebf33e5b9e06382a485b5142f6c857bb3546007104a37aa76f3d054dcb",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 554,
+        "top": 572,
+        "width": 176,
+        "height": 174
+      },
+      "cell": {
+        "left": 512,
+        "top": 528,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_hide",
+      "theme": "light",
+      "file": "Tool_hide-light.png",
+      "sha256": "3912616c894fe5bcaebabf9ad2bef57178563dd9375d6179724651e1f3479fd3",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 775,
+        "top": 576,
+        "width": 221,
+        "height": 160
+      },
+      "cell": {
+        "left": 768,
+        "top": 528,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Tool_guide",
+      "theme": "dark",
+      "file": "Tool_guide-dark.png",
+      "sha256": "a41a91cc79ea406133984e47ab1d9d75c0e62e477ff6280eb2583d3a1f6a1a8a",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 41,
+        "top": 826,
+        "width": 205,
+        "height": 167
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_group",
+      "theme": "dark",
+      "file": "Tool_group-dark.png",
+      "sha256": "ad3b011ecdc88f2163a677fbe14846819c8904df85dcb140e8b49e87520fa2d9",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 304,
+        "top": 812,
+        "width": 183,
+        "height": 185
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_ungroup",
+      "theme": "dark",
+      "file": "Tool_ungroup-dark.png",
+      "sha256": "f7408ee48b26ec1b0bf4f8964a3bdf52a3b4754d8d484f3c4b3c6080f1c459ed",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 531,
+        "top": 828,
+        "width": 210,
+        "height": 164
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_mirror",
+      "theme": "dark",
+      "file": "Tool_mirror-dark.png",
+      "sha256": "56eff34d85d47e47667657c1d4dbedaf40cf931108d15751bc3e1f531b01a822",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 785,
+        "top": 806,
+        "width": 202,
+        "height": 195
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_chamfer",
+      "theme": "dark",
+      "file": "Tool_chamfer-dark.png",
+      "sha256": "9069f208db33516d6fd2d5ab9dd37199c50c941226ad6498f07be6707d48e0c2",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 53,
+        "top": 1049,
+        "width": 182,
+        "height": 199
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_fillet",
+      "theme": "dark",
+      "file": "Tool_fillet-dark.png",
+      "sha256": "b2213470470c9f78dbde66b8a5babdd97f18350ae06d2d031d9f5a3449eca6e3",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 298,
+        "top": 1049,
+        "width": 183,
+        "height": 197
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_snap",
+      "theme": "dark",
+      "file": "Tool_snap-dark.png",
+      "sha256": "ce456dc5c3e0386f08d91604b04212a233206f19350e8eb61750d10f2cbaca55",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 526,
+        "top": 1036,
+        "width": 206,
+        "height": 228
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 254,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_workplane",
+      "theme": "dark",
+      "file": "Tool_workplane-dark.png",
+      "sha256": "416425fce6323e9c7cbd0f61b4c2bc5b506da7fb1182a4855c00381f03a3bf84",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 767,
+        "top": 1087,
+        "width": 238,
+        "height": 161
+      },
+      "cell": {
+        "left": 766,
+        "top": 1024,
+        "width": 258,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_drop",
+      "theme": "dark",
+      "file": "Tool_drop-dark.png",
+      "sha256": "613dfee0fe7dd2e188fd3956636045143889423d9ad3e381a30810b70c3b1a34",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 45,
+        "top": 1284,
+        "width": 204,
+        "height": 203
+      },
+      "cell": {
+        "left": 0,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_center",
+      "theme": "dark",
+      "file": "Tool_center-dark.png",
+      "sha256": "85dfbfa9bda3800e59c0b00e82ad0877aca3428029c083223698745e6bc1e7ed",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 282,
+        "top": 1321,
+        "width": 229,
+        "height": 164
+      },
+      "cell": {
+        "left": 256,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_shapeAdd",
+      "theme": "dark",
+      "file": "Tool_shapeAdd-dark.png",
+      "sha256": "179108292df1fcc8880b7e88d12b71cd200b1e85ca7e85e04984b72faa194e76",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 553,
+        "top": 1306,
+        "width": 177,
+        "height": 177
+      },
+      "cell": {
+        "left": 512,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_hide",
+      "theme": "dark",
+      "file": "Tool_hide-dark.png",
+      "sha256": "7ed11de0bde3503defacbe19e8fbb67754faae6684d5b40731fadb0a66bb7390",
+      "source": "page-2-44ad6f3512a8.png",
+      "origin": "page-2",
+      "sourceSha256": "44ad6f3512a8de45891e055fe3866aa346ff7247364d0e07f26c327bf4686efe",
+      "crop": {
+        "left": 775,
+        "top": 1312,
+        "width": 221,
+        "height": 161
+      },
+      "cell": {
+        "left": 768,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_caret",
+      "theme": "light",
+      "file": "Tool_caret-light.png",
+      "sha256": "3ff1856eda3a5f37d3b2420f65471caa330e1c2b70b1e810b99432e29c9bf2ab",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 29,
+        "top": 97,
+        "width": 194,
+        "height": 144
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_intersect",
+      "theme": "light",
+      "file": "Tool_intersect-light.png",
+      "sha256": "58b6ec98e666f9e5ae00e162d59f66c3700430770ba2aca74b01626be73e3e1a",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 274,
+        "top": 56,
+        "width": 211,
+        "height": 199
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_align",
+      "theme": "light",
+      "file": "Tool_align-light.png",
+      "sha256": "37debc2d84e233fb6c727dee2518e9d061d8f9755483f6f8dc621270020ef876",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 529,
+        "top": 74,
+        "width": 215,
+        "height": 178
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_ellipse",
+      "theme": "light",
+      "file": "Tool_ellipse-light.png",
+      "sha256": "bc9615ad61c1d3be6e738346eb95de55baec17cd283b3f557a79b0340dcedb45",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 783,
+        "top": 78,
+        "width": 215,
+        "height": 169
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_halfCircle",
+      "theme": "light",
+      "file": "Tool_halfCircle-light.png",
+      "sha256": "b0615ea290e36631386ca9057fd385190fbc5e715affbe863394a1b48f1469cc",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 26,
+        "top": 351,
+        "width": 220,
+        "height": 142
+      },
+      "cell": {
+        "left": 0,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_pie",
+      "theme": "light",
+      "file": "Tool_pie-light.png",
+      "sha256": "1bfdbde93f61789c8eb27238a33c8e274328223fe20f5516bb9de9c36334a44a",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 334,
+        "top": 314,
+        "width": 144,
+        "height": 184
+      },
+      "cell": {
+        "left": 256,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchLine",
+      "theme": "light",
+      "file": "Tool_sketchLine-light.png",
+      "sha256": "82c14b7d32ebf72108b15ea263a6c8fcf3e5b15034ef8ccda026bace82dea593",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 527,
+        "top": 343,
+        "width": 223,
+        "height": 133
+      },
+      "cell": {
+        "left": 512,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchBezier",
+      "theme": "light",
+      "file": "Tool_sketchBezier-light.png",
+      "sha256": "40a5891f7dc49182aeefc9cf61f4909e9dcbd8fb8b543aca2811fd39469fcb37",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 796,
+        "top": 308,
+        "width": 198,
+        "height": 186
+      },
+      "cell": {
+        "left": 768,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchSmooth",
+      "theme": "light",
+      "file": "Tool_sketchSmooth-light.png",
+      "sha256": "16bfb9463e373bce20f7c33250260d8d1bf744aa586634ce14f424e020a27af6",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 30,
+        "top": 606,
+        "width": 232,
+        "height": 115
+      },
+      "cell": {
+        "left": 0,
+        "top": 512,
+        "width": 262,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchSelect",
+      "theme": "light",
+      "file": "Tool_sketchSelect-light.png",
+      "sha256": "5ba9da80769ed2e44c457ebb9edc1284410e54e54f01765cc086c45d3b2256a9",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 336,
+        "top": 559,
+        "width": 129,
+        "height": 188
+      },
+      "cell": {
+        "left": 262,
+        "top": 512,
+        "width": 250,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchImage",
+      "theme": "light",
+      "file": "Tool_sketchImage-light.png",
+      "sha256": "5c96c67d1838cf88b6a73a9fd4ddf52b82cae1822fdbb3399ecf23f7c0a6e7f3",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 541,
+        "top": 572,
+        "width": 194,
+        "height": 175
+      },
+      "cell": {
+        "left": 512,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchRefine",
+      "theme": "light",
+      "file": "Tool_sketchRefine-light.png",
+      "sha256": "b5d2e8b42b4663f5c8865635a45d07c48262cebb9bd5004f2fcd8cc18eac2431",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 802,
+        "top": 525,
+        "width": 174,
+        "height": 233
+      },
+      "cell": {
+        "left": 768,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_caret",
+      "theme": "dark",
+      "file": "Tool_caret-dark.png",
+      "sha256": "af4ba8c0bb77428dcd63904fa5cc6a6028b77b40890eeecd60b4a6cc45c95e43",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 29,
+        "top": 837,
+        "width": 194,
+        "height": 144
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_intersect",
+      "theme": "dark",
+      "file": "Tool_intersect-dark.png",
+      "sha256": "02e6dd5efac3ec51ee603b16dc2467cb532f72824b91e2d3d7d2460535b750f4",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 274,
+        "top": 796,
+        "width": 211,
+        "height": 200
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_align",
+      "theme": "dark",
+      "file": "Tool_align-dark.png",
+      "sha256": "6318f0d396adb3f9bb3a3b2170f683e77078ffc1c3438b18de0a9a4537eebb55",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 529,
+        "top": 815,
+        "width": 216,
+        "height": 179
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_ellipse",
+      "theme": "dark",
+      "file": "Tool_ellipse-dark.png",
+      "sha256": "d0920bfde804924fa7590e0aa34671e81f0e62a4f1371c156c8101d82fb9a3ca",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 783,
+        "top": 815,
+        "width": 215,
+        "height": 172
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_halfCircle",
+      "theme": "dark",
+      "file": "Tool_halfCircle-dark.png",
+      "sha256": "283311862ec8cdea761d2ba49df2b0e948a321e2214ee2dde7a3ce3e266efc69",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 26,
+        "top": 1090,
+        "width": 220,
+        "height": 142
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 234
+      }
+    },
+    {
+      "name": "Tool_pie",
+      "theme": "dark",
+      "file": "Tool_pie-dark.png",
+      "sha256": "9bcfdcda8dd4b8980ab4b489597fd631fdb40b221f7a9b5d4555afe4f9961a99",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 334,
+        "top": 1050,
+        "width": 145,
+        "height": 186
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 234
+      }
+    },
+    {
+      "name": "Tool_sketchLine",
+      "theme": "dark",
+      "file": "Tool_sketchLine-dark.png",
+      "sha256": "31b8ec60f74cdb2be74f86f433d59d77474df67cd9a2711a992552a505034d75",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 527,
+        "top": 1081,
+        "width": 224,
+        "height": 133
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 234
+      }
+    },
+    {
+      "name": "Tool_sketchBezier",
+      "theme": "dark",
+      "file": "Tool_sketchBezier-dark.png",
+      "sha256": "f0790aff11f240d5df026365cf181a2ef534d4fef734e0befdb909295cd03dc2",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 797,
+        "top": 1046,
+        "width": 197,
+        "height": 185
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 234
+      }
+    },
+    {
+      "name": "Tool_sketchSmooth",
+      "theme": "dark",
+      "file": "Tool_sketchSmooth-dark.png",
+      "sha256": "1534526ec437100c968f90c99adc8ef51b2161c0ce03a2c29a4f99e970235f20",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 30,
+        "top": 1342,
+        "width": 232,
+        "height": 116
+      },
+      "cell": {
+        "left": 0,
+        "top": 1258,
+        "width": 262,
+        "height": 278
+      }
+    },
+    {
+      "name": "Tool_sketchSelect",
+      "theme": "dark",
+      "file": "Tool_sketchSelect-dark.png",
+      "sha256": "a21f67e55e880347e44d7ffd7aa9c6756555bbcc4899315eee06e4ef15146e4a",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 336,
+        "top": 1295,
+        "width": 129,
+        "height": 190
+      },
+      "cell": {
+        "left": 262,
+        "top": 1258,
+        "width": 250,
+        "height": 278
+      }
+    },
+    {
+      "name": "Tool_sketchImage",
+      "theme": "dark",
+      "file": "Tool_sketchImage-dark.png",
+      "sha256": "ee1689d9086ab0c66de9cf69549c2375d14088223f4910481463f67febdbe8c3",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 541,
+        "top": 1308,
+        "width": 194,
+        "height": 177
+      },
+      "cell": {
+        "left": 512,
+        "top": 1258,
+        "width": 256,
+        "height": 278
+      }
+    },
+    {
+      "name": "Tool_sketchRefine",
+      "theme": "dark",
+      "file": "Tool_sketchRefine-dark.png",
+      "sha256": "6d650b2f2a7722b46e95512542f41034221fc423773e7d4f6fc17af7f832b0c4",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 804,
+        "top": 1259,
+        "width": 175,
+        "height": 236
+      },
+      "cell": {
+        "left": 768,
+        "top": 1258,
+        "width": 256,
+        "height": 278
+      }
+    },
+    {
+      "name": "Tool_sketchErase",
+      "theme": "light",
+      "file": "Tool_sketchErase-light.png",
+      "sha256": "79bebeeb95e8477ebf58a8232ba1726aeeeff6d381230ddf97e7cdbc6d52e304",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 34,
+        "top": 52,
+        "width": 208,
+        "height": 203
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "Tool_sketchMeasure",
+      "theme": "light",
+      "file": "Tool_sketchMeasure-light.png",
+      "sha256": "087f6a927e55c63683b2c2165a6433e26791651c55249825be013aab07be5601",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 283,
+        "top": 55,
+        "width": 205,
+        "height": 204
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "Tool_sketchTo3d",
+      "theme": "light",
+      "file": "Tool_sketchTo3d-light.png",
+      "sha256": "2018843b6725123a978c59b6b12befb2523c9d267ee38d0c1037dd8ec3fcd440",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 528,
+        "top": 53,
+        "width": 215,
+        "height": 196
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "Tool_sketchEdit3d",
+      "theme": "light",
+      "file": "Tool_sketchEdit3d-light.png",
+      "sha256": "b0f7389237f3f19246c09268e4c16b67e644571e3ce4685feeb0276f1d43e73c",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 786,
+        "top": 62,
+        "width": 207,
+        "height": 195
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "Tool_boltCircle",
+      "theme": "light",
+      "file": "Tool_boltCircle-light.png",
+      "sha256": "1dcd117a1103c4fa833a1f80aefce434d24ae9820913923186c6017270fa1192",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 38,
+        "top": 297,
+        "width": 202,
+        "height": 205
+      },
+      "cell": {
+        "left": 0,
+        "top": 259,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "ThreadRod",
+      "theme": "light",
+      "file": "ThreadRod-light.png",
+      "sha256": "b15db0fa13e6d22655960fed516b24dd057f2d984d7920d615da068fef679e24",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 288,
+        "top": 297,
+        "width": 198,
+        "height": 207
+      },
+      "cell": {
+        "left": 256,
+        "top": 259,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "ThreadScrew",
+      "theme": "light",
+      "file": "ThreadScrew-light.png",
+      "sha256": "4ce1b7e5a17d569cbe7884ea84d6db1df8761e0a4d5c5350f4cabd5876fff506",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 556,
+        "top": 291,
+        "width": 164,
+        "height": 210
+      },
+      "cell": {
+        "left": 512,
+        "top": 259,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "ThreadNut",
+      "theme": "light",
+      "file": "ThreadNut-light.png",
+      "sha256": "a8ad43bf606cbbfb78c36ead8f9463d928811bb1370d97695c600ae9aa0903ae",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 786,
+        "top": 300,
+        "width": 197,
+        "height": 196
+      },
+      "cell": {
+        "left": 768,
+        "top": 259,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "ThreadBore",
+      "theme": "light",
+      "file": "ThreadBore-light.png",
+      "sha256": "84b07e220ba41d87e6e4ef77698abb2eb878d63fca4a073035b7dc36ea39237b",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 40,
+        "top": 539,
+        "width": 192,
+        "height": 205
+      },
+      "cell": {
+        "left": 0,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadHeadCylinder",
+      "theme": "light",
+      "file": "ThreadHeadCylinder-light.png",
+      "sha256": "88d5c6e54850bacdcca0226daccef8974cc4d994b47bb5f4cd4492ac0ceb0713",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 305,
+        "top": 555,
+        "width": 169,
+        "height": 178
+      },
+      "cell": {
+        "left": 256,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadHeadCountersunk",
+      "theme": "light",
+      "file": "ThreadHeadCountersunk-light.png",
+      "sha256": "d9bd4327427d9c88b1bacd33d6e4710e503bd0d188a9b49f62a88b2b5b3e373d",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 532,
+        "top": 560,
+        "width": 203,
+        "height": 167
+      },
+      "cell": {
+        "left": 512,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadHeadHex",
+      "theme": "light",
+      "file": "ThreadHeadHex-light.png",
+      "sha256": "e81fd95d6e7adb2bc1e6804c56e67660dc733569a566ed191960f038c276267c",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 789,
+        "top": 551,
+        "width": 195,
+        "height": 182
+      },
+      "cell": {
+        "left": 768,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchErase",
+      "theme": "dark",
+      "file": "Tool_sketchErase-dark.png",
+      "sha256": "1ede4c40dd99ad9bed153b791ecf5139091fb605f61d3dce6eb37d50cf370210",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 33,
+        "top": 804,
+        "width": 209,
+        "height": 205
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchMeasure",
+      "theme": "dark",
+      "file": "Tool_sketchMeasure-dark.png",
+      "sha256": "123b3de1c4ed3707e4eaae53bb218c2cb3f3c453570c302141c872babb0c81f6",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 283,
+        "top": 807,
+        "width": 206,
+        "height": 206
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchTo3d",
+      "theme": "dark",
+      "file": "Tool_sketchTo3d-dark.png",
+      "sha256": "24d7111dec837eadd5a256754edaf9a2ee357d900e66fe29f11efb43f2395404",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 529,
+        "top": 804,
+        "width": 217,
+        "height": 199
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_sketchEdit3d",
+      "theme": "dark",
+      "file": "Tool_sketchEdit3d-dark.png",
+      "sha256": "03cd998a142934d846a04f8556f8ffdaa931d990d6d3e6688db567e78c562acb",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 785,
+        "top": 815,
+        "width": 208,
+        "height": 194
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_boltCircle",
+      "theme": "dark",
+      "file": "Tool_boltCircle-dark.png",
+      "sha256": "c18a4eeaa0122f5218cd3577c7afc230c89d0ddc55f3de686882db9cbdca727c",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 38,
+        "top": 1050,
+        "width": 201,
+        "height": 205
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadRod",
+      "theme": "dark",
+      "file": "ThreadRod-dark.png",
+      "sha256": "2e63054ede6692442acc2f11e55914d95a34e49b0de579ab6d8c8f7d4cb0f549",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 288,
+        "top": 1048,
+        "width": 198,
+        "height": 208
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadScrew",
+      "theme": "dark",
+      "file": "ThreadScrew-dark.png",
+      "sha256": "e17528fbdb0aa3ef32df3f017013d1f6140d4522d9ae05dc09723d5a5bdbc61b",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 560,
+        "top": 1048,
+        "width": 163,
+        "height": 207
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadNut",
+      "theme": "dark",
+      "file": "ThreadNut-dark.png",
+      "sha256": "bfc57b4a4c4384d20c050022a5c46dabbd8105bb1debf5e02b387e69da1b3a02",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 786,
+        "top": 1050,
+        "width": 201,
+        "height": 198
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadBore",
+      "theme": "dark",
+      "file": "ThreadBore-dark.png",
+      "sha256": "157a37c62a02a76bec2addc2fabca3d96d84d0cd6190a2171b5ad48eb23b2d81",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 39,
+        "top": 1291,
+        "width": 193,
+        "height": 206
+      },
+      "cell": {
+        "left": 0,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadHeadCylinder",
+      "theme": "dark",
+      "file": "ThreadHeadCylinder-dark.png",
+      "sha256": "7c32980afad9d4df7e0f3d542dc4b58181fa8c852af07a56dbd742e7ae7dd28b",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 305,
+        "top": 1302,
+        "width": 170,
+        "height": 186
+      },
+      "cell": {
+        "left": 256,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadHeadCountersunk",
+      "theme": "dark",
+      "file": "ThreadHeadCountersunk-dark.png",
+      "sha256": "4efb3c844f4532d54eab940c9f7cf5c96b8d37abbd1e4c8097a963453a0bc9d6",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 537,
+        "top": 1320,
+        "width": 198,
+        "height": 162
+      },
+      "cell": {
+        "left": 512,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ThreadHeadHex",
+      "theme": "dark",
+      "file": "ThreadHeadHex-dark.png",
+      "sha256": "18645615a882568c82aecce25d1381ce012afc353aa9ed6136fe387bf3524d49",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 789,
+        "top": 1304,
+        "width": 195,
+        "height": 185
+      },
+      "cell": {
+        "left": 768,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Tool_threeSegmentBevel",
+      "theme": "light",
+      "file": "Tool_threeSegmentBevel-light.png",
+      "sha256": "43e5f235049468b062fc973b6b2f2041885af40d764766017197daca8eda502d",
+      "source": "page-13-20bb0503fe27.png",
+      "origin": "page-13",
+      "sourceSha256": "20bb0503fe27fe6741c86f4ab04665c8f63f0fc3bb0454e241015d1b627a00ff",
+      "crop": {
+        "left": 607,
+        "top": 96,
+        "width": 348,
+        "height": 358
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "name": "Brush",
+      "theme": "light",
+      "file": "Brush-light.png",
+      "sha256": "42dea7be846f23a82d62c9e6e5560b4ca2f0f294fe57fe3efb20d027890e2195",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 295,
+        "top": 59,
+        "width": 185,
+        "height": 203
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Cuboid",
+      "theme": "light",
+      "file": "Cuboid-light.png",
+      "sha256": "79fd8096208815d24dd3fcc7d72048ca852c3a18238161793715b08887bf420d",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 541,
+        "top": 69,
+        "width": 196,
+        "height": 185
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Boxes",
+      "theme": "light",
+      "file": "Boxes-light.png",
+      "sha256": "6c6510556160cb8077bf5c272df92cccf68c9d8694053f5468abc0c0e01983c6",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 792,
+        "top": 59,
+        "width": 199,
+        "height": 191
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      }
+    },
+    {
+      "name": "Layers",
+      "theme": "light",
+      "file": "Layers-light.png",
+      "sha256": "2c669c6a8115f2991654dbbb53b2ed24689d588302e6af7fdd412628249dba79",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 51,
+        "top": 310,
+        "width": 184,
+        "height": 200
+      },
+      "cell": {
+        "left": 0,
+        "top": 264,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "Search",
+      "theme": "light",
+      "file": "Search-light.png",
+      "sha256": "04ec44c61a7212e5b44781284a276fcd37e457dd174950ab3d5ac6f3ad8c6bfe",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 287,
+        "top": 304,
+        "width": 192,
+        "height": 209
+      },
+      "cell": {
+        "left": 256,
+        "top": 264,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "Clock3",
+      "theme": "light",
+      "file": "Clock3-light.png",
+      "sha256": "377534d045c04fc908747e1fd6794154dc9f139a33a45f859d732198f36d4687",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 544,
+        "top": 300,
+        "width": 196,
+        "height": 211
+      },
+      "cell": {
+        "left": 512,
+        "top": 264,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "EllipsisVertical",
+      "theme": "light",
+      "file": "EllipsisVertical-light.png",
+      "sha256": "1bf0ebacf6402e638c01ee4c00fc0193036b8f74710731f74cd0d3e758a4e677",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 864,
+        "top": 310,
+        "width": 63,
+        "height": 192
+      },
+      "cell": {
+        "left": 768,
+        "top": 264,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "FolderInput",
+      "theme": "light",
+      "file": "FolderInput-light.png",
+      "sha256": "4575b1a209d62f44175695058a85ebd016b82e5562457cd54cf6403ebf8b4a11",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 290,
+        "top": 555,
+        "width": 197,
+        "height": 193
+      },
+      "cell": {
+        "left": 256,
+        "top": 513,
+        "width": 256,
+        "height": 255
+      }
+    },
+    {
+      "name": "FolderUp",
+      "theme": "light",
+      "file": "FolderUp-light.png",
+      "sha256": "6a0e28c43b8ce836fa9d3407a423338500b51b695a5a5378faf613a1ab382a03",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 543,
+        "top": 556,
+        "width": 195,
+        "height": 191
+      },
+      "cell": {
+        "left": 512,
+        "top": 513,
+        "width": 256,
+        "height": 255
+      }
+    },
+    {
+      "name": "FolderPlus",
+      "theme": "light",
+      "file": "FolderPlus-light.png",
+      "sha256": "aeda8585204c4e0e4c51a3c000e7c9667357c9850813576c4b00578c769e3f6b",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 794,
+        "top": 557,
+        "width": 197,
+        "height": 191
+      },
+      "cell": {
+        "left": 768,
+        "top": 513,
+        "width": 256,
+        "height": 255
+      }
+    },
+    {
+      "name": "Tool_threeSegmentBevel",
+      "theme": "dark",
+      "file": "Tool_threeSegmentBevel-dark.png",
+      "sha256": "b891c662a83c23a1c3caacf3e7803423e97da236fadd31be4fd7805d8976548e",
+      "source": "page-13-20bb0503fe27.png",
+      "origin": "page-13",
+      "sourceSha256": "20bb0503fe27fe6741c86f4ab04665c8f63f0fc3bb0454e241015d1b627a00ff",
+      "crop": {
+        "left": 606,
+        "top": 574,
+        "width": 349,
+        "height": 369
+      },
+      "cell": {
+        "left": 512,
+        "top": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "name": "Brush",
+      "theme": "dark",
+      "file": "Brush-dark.png",
+      "sha256": "399a5f865924a807291b47e33eb2e11a2dd741c7193bdaee2d46c6bed1bfcd56",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 294,
+        "top": 797,
+        "width": 183,
+        "height": 204
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Cuboid",
+      "theme": "dark",
+      "file": "Cuboid-dark.png",
+      "sha256": "4596f1c2e02da28756967b18741600507b801312c726ab310c3628cfca0a58ab",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 542,
+        "top": 808,
+        "width": 196,
+        "height": 184
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Boxes",
+      "theme": "dark",
+      "file": "Boxes-dark.png",
+      "sha256": "4a5a82ea70fa99901815d0e78db1b43f06f372648245963f31fb6f664cf5ddcd",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 792,
+        "top": 795,
+        "width": 199,
+        "height": 192
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Layers",
+      "theme": "dark",
+      "file": "Layers-dark.png",
+      "sha256": "6a7c98ce00d60b31099a6f0a38b5d4312097c6ea6e8cde65fb7617ece9118f11",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 50,
+        "top": 1040,
+        "width": 185,
+        "height": 198
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "Search",
+      "theme": "dark",
+      "file": "Search-dark.png",
+      "sha256": "6e6e2d32386bc26ae276ec02eaae74360a0d2c496fb7deedbea0e1fa6845a09b",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 287,
+        "top": 1033,
+        "width": 193,
+        "height": 210
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "Clock3",
+      "theme": "dark",
+      "file": "Clock3-dark.png",
+      "sha256": "f6b7b3e7b9be376de326c549b18d7efca1f66e29f9deb3b06da28bea4d5a7d62",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 543,
+        "top": 1032,
+        "width": 197,
+        "height": 209
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "EllipsisVertical",
+      "theme": "dark",
+      "file": "EllipsisVertical-dark.png",
+      "sha256": "552dbd665d5a1fbce16fd9a4dc2b2c671cfe13254925ffed296c40c89e4d103e",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 863,
+        "top": 1039,
+        "width": 64,
+        "height": 193
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 253
+      }
+    },
+    {
+      "name": "FolderInput",
+      "theme": "dark",
+      "file": "FolderInput-dark.png",
+      "sha256": "f7465a10e9eedb87cfb66fe5590491157d208efd4c916b1f88d198712bce13cd",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 289,
+        "top": 1279,
+        "width": 198,
+        "height": 197
+      },
+      "cell": {
+        "left": 256,
+        "top": 1277,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "FolderUp",
+      "theme": "dark",
+      "file": "FolderUp-dark.png",
+      "sha256": "012ba2f906a54c7c262f2dbdd3e94a76fb4775631becf9e619e8d8c15301c09d",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 543,
+        "top": 1282,
+        "width": 194,
+        "height": 192
+      },
+      "cell": {
+        "left": 512,
+        "top": 1277,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "FolderPlus",
+      "theme": "dark",
+      "file": "FolderPlus-dark.png",
+      "sha256": "88f7dffe079dd0108f30dddb3a7aa9d2286f2a0fdc27678c2d3652945a5d1e81",
+      "source": "page-5-c4c51c4cfbbe.png",
+      "origin": "page-5",
+      "sourceSha256": "c4c51c4cfbbefbb7fe21a333618213cde2eaa67b494fb8e9e75b233536727719",
+      "crop": {
+        "left": 794,
+        "top": 1281,
+        "width": 198,
+        "height": 194
+      },
+      "cell": {
+        "left": 768,
+        "top": 1277,
+        "width": 256,
+        "height": 259
+      }
+    },
+    {
+      "name": "FolderKanban",
+      "theme": "light",
+      "file": "FolderKanban-light.png",
+      "sha256": "74c6a5b1497b3ea89442a93aef03cde460a14158eccf3d3bc9e52966cb076bac",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 39,
+        "top": 81,
+        "width": 211,
+        "height": 212
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 294
+      }
+    },
+    {
+      "name": "Download",
+      "theme": "light",
+      "file": "Download-light.png",
+      "sha256": "f306b436c7080159d7f38ea6f3d974bb15b81692faebec0f664a76d2b55708fb",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 292,
+        "top": 80,
+        "width": 192,
+        "height": 214
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 294
+      }
+    },
+    {
+      "name": "CloudUpload",
+      "theme": "light",
+      "file": "CloudUpload-light.png",
+      "sha256": "ca29e36ddf34a5cd70a6ada0b5e7f90d8cd552111e273b090e7b6ca0bfba9595",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 531,
+        "top": 108,
+        "width": 223,
+        "height": 172
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 294
+      }
+    },
+    {
+      "name": "ExternalLink",
+      "theme": "light",
+      "file": "ExternalLink-light.png",
+      "sha256": "a1e6aab6e709efa03eaeacdb1198a56cb31869b547cf5146c85aa8e156f543bf",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 798,
+        "top": 83,
+        "width": 189,
+        "height": 207
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 294
+      }
+    },
+    {
+      "name": "Check",
+      "theme": "light",
+      "file": "Check-light.png",
+      "sha256": "f33ee3e5121de8b3b15f9dbf9cc7cc6e6e205ce9ebf6df649602924a2734bcbc",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 35,
+        "top": 339,
+        "width": 226,
+        "height": 187
+      },
+      "cell": {
+        "left": 0,
+        "top": 294,
+        "width": 261,
+        "height": 241
+      }
+    },
+    {
+      "name": "CircleCheck",
+      "theme": "light",
+      "file": "CircleCheck-light.png",
+      "sha256": "5ff3df364947e07a5429148cf34a00890edf83eff8afe738a7586a8548c26865",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 294,
+        "top": 333,
+        "width": 195,
+        "height": 200
+      },
+      "cell": {
+        "left": 261,
+        "top": 294,
+        "width": 251,
+        "height": 241
+      }
+    },
+    {
+      "name": "X",
+      "theme": "light",
+      "file": "X-light.png",
+      "sha256": "1bc6e2b1d642662e6734f7c4bc84388c8630ce2efce4c1ceed0ebc1cd7bd85c6",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 547,
+        "top": 338,
+        "width": 193,
+        "height": 197
+      },
+      "cell": {
+        "left": 512,
+        "top": 294,
+        "width": 256,
+        "height": 241
+      }
+    },
+    {
+      "name": "Plus",
+      "theme": "light",
+      "file": "Plus-light.png",
+      "sha256": "1f539e6902bb2c8edcd266d30afc5ee19f617544efc189a59420b297c1da0b4a",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 809,
+        "top": 337,
+        "width": 185,
+        "height": 197
+      },
+      "cell": {
+        "left": 768,
+        "top": 294,
+        "width": 256,
+        "height": 241
+      }
+    },
+    {
+      "name": "Minus",
+      "theme": "light",
+      "file": "Minus-light.png",
+      "sha256": "4070c2d9f69cd7ff2a488500813990f766304407ae0791a46b441b88ae1b5730",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 43,
+        "top": 620,
+        "width": 200,
+        "height": 104
+      },
+      "cell": {
+        "left": 0,
+        "top": 535,
+        "width": 256,
+        "height": 233
+      }
+    },
+    {
+      "name": "ChevronUp",
+      "theme": "light",
+      "file": "ChevronUp-light.png",
+      "sha256": "f3b9fa4e6567294433143b4b8fccdf3d4e13ac970150ee1d9c06b49485a537db",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 294,
+        "top": 591,
+        "width": 207,
+        "height": 149
+      },
+      "cell": {
+        "left": 256,
+        "top": 535,
+        "width": 256,
+        "height": 233
+      }
+    },
+    {
+      "name": "ChevronLeft",
+      "theme": "light",
+      "file": "ChevronLeft-light.png",
+      "sha256": "9c117c7e0c573031c74b355c8718c4407ef285d820aba845b8434e1f32b0f7af",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 575,
+        "top": 569,
+        "width": 143,
+        "height": 196
+      },
+      "cell": {
+        "left": 512,
+        "top": 535,
+        "width": 256,
+        "height": 233
+      }
+    },
+    {
+      "name": "ChevronRight",
+      "theme": "light",
+      "file": "ChevronRight-light.png",
+      "sha256": "5d88e63ab89df90f07ed6ca1cfe96f090bd259ff51bac0fb1bc74f62e4586ee9",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 835,
+        "top": 569,
+        "width": 140,
+        "height": 194
+      },
+      "cell": {
+        "left": 768,
+        "top": 535,
+        "width": 256,
+        "height": 233
+      }
+    },
+    {
+      "name": "FolderKanban",
+      "theme": "dark",
+      "file": "FolderKanban-dark.png",
+      "sha256": "d6a498afa18eafd015a7b3336e98c545f508a5aca19bb6d301dfa0f5d0befa10",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 39,
+        "top": 813,
+        "width": 211,
+        "height": 215
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 260
+      }
+    },
+    {
+      "name": "Download",
+      "theme": "dark",
+      "file": "Download-dark.png",
+      "sha256": "413afd5048ae3d6a84d2cbe55246bc01700ab548a3236977d9af76491039aad2",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 293,
+        "top": 811,
+        "width": 191,
+        "height": 216
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 260
+      }
+    },
+    {
+      "name": "CloudUpload",
+      "theme": "dark",
+      "file": "CloudUpload-dark.png",
+      "sha256": "9d5e08a71ba9511b35d0c26a6f95a7be445410560a872d3b230084e2f231ac85",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 531,
+        "top": 841,
+        "width": 224,
+        "height": 174
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 260
+      }
+    },
+    {
+      "name": "ExternalLink",
+      "theme": "dark",
+      "file": "ExternalLink-dark.png",
+      "sha256": "5032807033cd40e5b211144a5752438e82af1f6e6c20cac75ca74834b5b700fa",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 798,
+        "top": 819,
+        "width": 189,
+        "height": 204
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 260
+      }
+    },
+    {
+      "name": "Check",
+      "theme": "dark",
+      "file": "Check-dark.png",
+      "sha256": "63a33e8560a82ab825f26e9f7499816471030ead3c5df7c4b8faf5b4427234a7",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 34,
+        "top": 1074,
+        "width": 227,
+        "height": 188
+      },
+      "cell": {
+        "left": 0,
+        "top": 1028,
+        "width": 261,
+        "height": 252
+      }
+    },
+    {
+      "name": "CircleCheck",
+      "theme": "dark",
+      "file": "CircleCheck-dark.png",
+      "sha256": "60e8832a4b92b42c6ff5c60b361d87340c064e21934025df9a95ec42c3ff883d",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 294,
+        "top": 1068,
+        "width": 195,
+        "height": 200
+      },
+      "cell": {
+        "left": 261,
+        "top": 1028,
+        "width": 251,
+        "height": 252
+      }
+    },
+    {
+      "name": "X",
+      "theme": "dark",
+      "file": "X-dark.png",
+      "sha256": "51f71dc0e05b3d9e5c776d28dc7bac42e3c242abd167013566abebd89ba7dc22",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 547,
+        "top": 1072,
+        "width": 193,
+        "height": 197
+      },
+      "cell": {
+        "left": 512,
+        "top": 1028,
+        "width": 256,
+        "height": 252
+      }
+    },
+    {
+      "name": "Plus",
+      "theme": "dark",
+      "file": "Plus-dark.png",
+      "sha256": "2b5fe3b97e56dfbaefa1a64fc83faf3bd507a5eb4fe5950e1e7d53bae728dd72",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 809,
+        "top": 1071,
+        "width": 185,
+        "height": 197
+      },
+      "cell": {
+        "left": 768,
+        "top": 1028,
+        "width": 256,
+        "height": 252
+      }
+    },
+    {
+      "name": "Minus",
+      "theme": "dark",
+      "file": "Minus-dark.png",
+      "sha256": "ed5004145be77211ee81ba89033b7ccb76241017373008a71b5b13e69431f247",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 42,
+        "top": 1358,
+        "width": 203,
+        "height": 104
+      },
+      "cell": {
+        "left": 0,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ChevronUp",
+      "theme": "dark",
+      "file": "ChevronUp-dark.png",
+      "sha256": "51e628f1d1abd7de3432ec268ea9e2dd74ba6f51dd8fd25aaa3271f5283a5bcd",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 293,
+        "top": 1328,
+        "width": 209,
+        "height": 149
+      },
+      "cell": {
+        "left": 256,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ChevronLeft",
+      "theme": "dark",
+      "file": "ChevronLeft-dark.png",
+      "sha256": "43ba88e29e419481e7f2b2839173d0e43bea86e6cf3a2bfd0bb4d4daddba9b37",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 574,
+        "top": 1306,
+        "width": 142,
+        "height": 196
+      },
+      "cell": {
+        "left": 512,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ChevronRight",
+      "theme": "dark",
+      "file": "ChevronRight-dark.png",
+      "sha256": "62432161286c0d57936bfa0d397172d1434192bab48d2bebdb82f35221c835d8",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 835,
+        "top": 1307,
+        "width": 140,
+        "height": 192
+      },
+      "cell": {
+        "left": 768,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Square",
+      "theme": "light",
+      "file": "Square-light.png",
+      "sha256": "2715126554bb04104bcfeb0b1dde93fba26502d00bfc6788718634dc27158889",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 53,
+        "top": 71,
+        "width": 182,
+        "height": 174
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Circle",
+      "theme": "light",
+      "file": "Circle-light.png",
+      "sha256": "19d80e3719000fed4d56bf1049f1aadb9783e550a2761d02f29c9669cb11482d",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 291,
+        "top": 58,
+        "width": 194,
+        "height": 197
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleDashed",
+      "theme": "light",
+      "file": "CircleDashed-light.png",
+      "sha256": "9b1d11baa1083584ec2d3c02436bdd3d636c13a622c466847db243e2311f0820",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 537,
+        "top": 59,
+        "width": 199,
+        "height": 197
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleDotDashed",
+      "theme": "light",
+      "file": "CircleDotDashed-light.png",
+      "sha256": "49653f02e7cad7784627d490ff962f28b54e16b865f5d7d26485820bd1775f9c",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 781,
+        "top": 61,
+        "width": 201,
+        "height": 193
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Triangle",
+      "theme": "light",
+      "file": "Triangle-light.png",
+      "sha256": "d1ca9d8158b4b2b70c7059a0fa46323d8500c95992432078b82189686d2169fe",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 39,
+        "top": 304,
+        "width": 213,
+        "height": 185
+      },
+      "cell": {
+        "left": 0,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Hexagon",
+      "theme": "light",
+      "file": "Hexagon-light.png",
+      "sha256": "571952608fc686e1f0a24af44a5a0d472c70c17e3aca396f9442383b164f66af",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 295,
+        "top": 297,
+        "width": 190,
+        "height": 208
+      },
+      "cell": {
+        "left": 256,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "TriangleAlert",
+      "theme": "light",
+      "file": "TriangleAlert-light.png",
+      "sha256": "16fd882a6e38f521f4f2b3535d7ddbad3b4e65c329f9a4b41da68e745ddc5726",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 539,
+        "top": 314,
+        "width": 204,
+        "height": 177
+      },
+      "cell": {
+        "left": 512,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleAlert",
+      "theme": "light",
+      "file": "CircleAlert-light.png",
+      "sha256": "90bb817da7dc85ede60bd36620f5a85bd136c2b56b9c3753616fe18ba8c8cd04",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 792,
+        "top": 304,
+        "width": 189,
+        "height": 192
+      },
+      "cell": {
+        "left": 768,
+        "top": 256,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleHelp",
+      "theme": "light",
+      "file": "CircleHelp-light.png",
+      "sha256": "16b5446000355ccec1159d0d2da610b87f05784d34f68ae0bb040975f3bd6255",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 40,
+        "top": 547,
+        "width": 194,
+        "height": 196
+      },
+      "cell": {
+        "left": 0,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "LoaderCircle",
+      "theme": "light",
+      "file": "LoaderCircle-light.png",
+      "sha256": "b3cc25a51ad4b6f1e632a9913d58e4da0cea4005a3583fe88218c29259769384",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 296,
+        "top": 550,
+        "width": 188,
+        "height": 191
+      },
+      "cell": {
+        "left": 256,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Eye",
+      "theme": "light",
+      "file": "Eye-light.png",
+      "sha256": "8c3c8705ee72616be96c31ce6f03e2b63bb0f08e2b520aef31eb5947b84b7c4b",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 522,
+        "top": 578,
+        "width": 229,
+        "height": 138
+      },
+      "cell": {
+        "left": 512,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "EyeOff",
+      "theme": "light",
+      "file": "EyeOff-light.png",
+      "sha256": "5bdad27e5a2e40d6800c472ec7fcb7fe925ae382654a426b687f5d69d22f0f7d",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 774,
+        "top": 554,
+        "width": 226,
+        "height": 181
+      },
+      "cell": {
+        "left": 768,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Square",
+      "theme": "dark",
+      "file": "Square-dark.png",
+      "sha256": "155b6660ec6c85e3ea4c3099dc5562df6a869827b57e3f46897c82de44ca6b77",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 54,
+        "top": 813,
+        "width": 181,
+        "height": 176
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Circle",
+      "theme": "dark",
+      "file": "Circle-dark.png",
+      "sha256": "39eedd46a0b8702e6bd165bc9825b6d3b884c0cf37ee1b73f1a3c9a29e85558b",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 290,
+        "top": 799,
+        "width": 195,
+        "height": 198
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleDashed",
+      "theme": "dark",
+      "file": "CircleDashed-dark.png",
+      "sha256": "659248f70f9bf759875746f52b39afa50dc239680ec6aac72d74c2e209b6e358",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 537,
+        "top": 801,
+        "width": 199,
+        "height": 197
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleDotDashed",
+      "theme": "dark",
+      "file": "CircleDotDashed-dark.png",
+      "sha256": "cbe9e5f9ab9881e954013c97ce149e868b850229fee2f6e9c4281e0e4203d4bb",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 781,
+        "top": 803,
+        "width": 202,
+        "height": 192
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Triangle",
+      "theme": "dark",
+      "file": "Triangle-dark.png",
+      "sha256": "99e94c66e9c1d3298d44b42b0288ebd58603d70e13282ebdcf73e0dfeaeeb371",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 39,
+        "top": 1046,
+        "width": 213,
+        "height": 185
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Hexagon",
+      "theme": "dark",
+      "file": "Hexagon-dark.png",
+      "sha256": "0627dfba560d49537c75996e4a7e41dc8b96dff327e033c2754739a6f6b53690",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 296,
+        "top": 1039,
+        "width": 189,
+        "height": 208
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "TriangleAlert",
+      "theme": "dark",
+      "file": "TriangleAlert-dark.png",
+      "sha256": "6939d9ab41a2074853d313752b331126b894c7873448d2ce615a3059e82d29b5",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 538,
+        "top": 1056,
+        "width": 205,
+        "height": 177
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleAlert",
+      "theme": "dark",
+      "file": "CircleAlert-dark.png",
+      "sha256": "7389630d91b997444de871d6da07a7d48a1dcbe37335cf43a759c5c64e56d2db",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 791,
+        "top": 1047,
+        "width": 191,
+        "height": 191
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CircleHelp",
+      "theme": "dark",
+      "file": "CircleHelp-dark.png",
+      "sha256": "4b2c05450e5fde2dba71434b3a59ca0b0ef566bdf85f8a0ad5ff99661819b134",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 41,
+        "top": 1288,
+        "width": 194,
+        "height": 196
+      },
+      "cell": {
+        "left": 0,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "LoaderCircle",
+      "theme": "dark",
+      "file": "LoaderCircle-dark.png",
+      "sha256": "831d22f297f1f211a631aa6f08629edaa4f68ecc897e04a0767f52d07cd33d86",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 296,
+        "top": 1291,
+        "width": 188,
+        "height": 192
+      },
+      "cell": {
+        "left": 256,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Eye",
+      "theme": "dark",
+      "file": "Eye-dark.png",
+      "sha256": "8a44984a1a6dc32e841d9c26ad0d68e259b69aed48056d8197141a776f9ffb12",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 521,
+        "top": 1320,
+        "width": 230,
+        "height": 139
+      },
+      "cell": {
+        "left": 512,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "EyeOff",
+      "theme": "dark",
+      "file": "EyeOff-dark.png",
+      "sha256": "c652c7547042c9b7ec248ecdbafcf964c5051c1a59bdedf52654d609c6b9e834",
+      "source": "page-7-fb88e04893ec.png",
+      "origin": "page-7",
+      "sourceSha256": "fb88e04893ec629cdb69ff8269dae6700ee08d91b7358bd4a49fab08ef029261",
+      "crop": {
+        "left": 773,
+        "top": 1296,
+        "width": 225,
+        "height": 181
+      },
+      "cell": {
+        "left": 768,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "LockKeyhole",
+      "theme": "light",
+      "file": "LockKeyhole-light.png",
+      "sha256": "2cc16fdb0cbcde026208c21777b718f1b67e40163f82ee412e21bb7f95339bde",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 64,
+        "top": 75,
+        "width": 171,
+        "height": 223
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 299
+      }
+    },
+    {
+      "name": "LockKeyholeOpen",
+      "theme": "light",
+      "file": "LockKeyholeOpen-light.png",
+      "sha256": "03572c34da0b7a2464df4f018a2a50ef424af639927a8460d51c752fcd8944e2",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 313,
+        "top": 56,
+        "width": 163,
+        "height": 243
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 299
+      }
+    },
+    {
+      "name": "Link",
+      "theme": "light",
+      "file": "Link-light.png",
+      "sha256": "df70bad5b54a2311e0668fe082e38ba4ae596233569c2a613452437218850425",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 540,
+        "top": 96,
+        "width": 193,
+        "height": 192
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 299
+      }
+    },
+    {
+      "name": "Link2Off",
+      "theme": "light",
+      "file": "Link2Off-light.png",
+      "sha256": "a5715c04f118fa92fa3f563cbb6322bc2e2b588c31df17858242901a4bce070b",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 795,
+        "top": 96,
+        "width": 188,
+        "height": 191
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 299
+      }
+    },
+    {
+      "name": "Unlink2",
+      "theme": "light",
+      "file": "Unlink2-light.png",
+      "sha256": "d3d01080208763c4d1dd7bce057e42f738d4598719a2de577855965ac83a1ca7",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 46,
+        "top": 354,
+        "width": 209,
+        "height": 185
+      },
+      "cell": {
+        "left": 0,
+        "top": 299,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "Grid3X3",
+      "theme": "light",
+      "file": "Grid3X3-light.png",
+      "sha256": "7c1bb9408a7b616cf889ef87f2987d273722bfc9e1f380313a10f964fd220107",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 307,
+        "top": 343,
+        "width": 178,
+        "height": 190
+      },
+      "cell": {
+        "left": 256,
+        "top": 299,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "PanelTop",
+      "theme": "light",
+      "file": "PanelTop-light.png",
+      "sha256": "01c8ede6ce7637868b6a5d68c905df53a99b87a8ba7bc2f1c70107f929cff8c1",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 546,
+        "top": 345,
+        "width": 188,
+        "height": 184
+      },
+      "cell": {
+        "left": 512,
+        "top": 299,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "PanelsTopLeft",
+      "theme": "light",
+      "file": "PanelsTopLeft-light.png",
+      "sha256": "a4641a619f46bdc9362248a1dda861320509d9e0f439586947597c2b11882618",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 787,
+        "top": 342,
+        "width": 198,
+        "height": 188
+      },
+      "cell": {
+        "left": 768,
+        "top": 299,
+        "width": 256,
+        "height": 240
+      }
+    },
+    {
+      "name": "List",
+      "theme": "light",
+      "file": "List-light.png",
+      "sha256": "e1d4c3de165c4c9db12147b3dc38e3872fe5e67fc6a91992d31845b512a7a740",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 61,
+        "top": 591,
+        "width": 184,
+        "height": 176
+      },
+      "cell": {
+        "left": 0,
+        "top": 539,
+        "width": 256,
+        "height": 229
+      }
+    },
+    {
+      "name": "ListTree",
+      "theme": "light",
+      "file": "ListTree-light.png",
+      "sha256": "eed8c72cf164d3e70bc3cc75c3b1dddf8a999e9013273bf417d34e41427980b5",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 290,
+        "top": 589,
+        "width": 204,
+        "height": 177
+      },
+      "cell": {
+        "left": 256,
+        "top": 539,
+        "width": 256,
+        "height": 229
+      }
+    },
+    {
+      "name": "SlidersHorizontal",
+      "theme": "light",
+      "file": "SlidersHorizontal-light.png",
+      "sha256": "cd5dbd3e9a532a909c101cac98c360e10c2f3aa1cccd6675d714e74a00524af3",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 554,
+        "top": 587,
+        "width": 184,
+        "height": 172
+      },
+      "cell": {
+        "left": 512,
+        "top": 539,
+        "width": 256,
+        "height": 229
+      }
+    },
+    {
+      "name": "CornerDownRight",
+      "theme": "light",
+      "file": "CornerDownRight-light.png",
+      "sha256": "fb9efc7e6b25d3e6e1608ddcd125000bccbf58eac23390d585ac0b41b4a342dc",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 808,
+        "top": 592,
+        "width": 168,
+        "height": 170
+      },
+      "cell": {
+        "left": 768,
+        "top": 539,
+        "width": 256,
+        "height": 229
+      }
+    },
+    {
+      "name": "LockKeyhole",
+      "theme": "dark",
+      "file": "LockKeyhole-dark.png",
+      "sha256": "25d4c3e9404191021f311887b00a80792085fe4a7369336310766b6c559a6b7b",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 63,
+        "top": 808,
+        "width": 173,
+        "height": 225
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 266
+      }
+    },
+    {
+      "name": "LockKeyholeOpen",
+      "theme": "dark",
+      "file": "LockKeyholeOpen-dark.png",
+      "sha256": "426ddb15b3bdfe06323a0c7a4d6c091a08b40345e025cb405432b085f4b08fd7",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 313,
+        "top": 790,
+        "width": 164,
+        "height": 244
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 266
+      }
+    },
+    {
+      "name": "Link",
+      "theme": "dark",
+      "file": "Link-dark.png",
+      "sha256": "2dcf6413ea0e5437ab87c0c0a94a67687de4a5e5c5515be880bebeafee74371b",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 540,
+        "top": 828,
+        "width": 194,
+        "height": 193
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 266
+      }
+    },
+    {
+      "name": "Link2Off",
+      "theme": "dark",
+      "file": "Link2Off-dark.png",
+      "sha256": "66c2750aabe83c80cb428945a69ed1389747e5364cdebc6a79cdca680f23b85a",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 795,
+        "top": 828,
+        "width": 191,
+        "height": 193
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 266
+      }
+    },
+    {
+      "name": "Unlink2",
+      "theme": "dark",
+      "file": "Unlink2-dark.png",
+      "sha256": "fbb6eb3239a9066659dab509eadaf9d7933deb497b346f2a6bcd9cd35f6e9840",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 45,
+        "top": 1086,
+        "width": 211,
+        "height": 187
+      },
+      "cell": {
+        "left": 0,
+        "top": 1034,
+        "width": 256,
+        "height": 246
+      }
+    },
+    {
+      "name": "Grid3X3",
+      "theme": "dark",
+      "file": "Grid3X3-dark.png",
+      "sha256": "a4f0789830c5605242ece07e11406febec5570fc80c420bbd22628023e340db1",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 305,
+        "top": 1074,
+        "width": 181,
+        "height": 191
+      },
+      "cell": {
+        "left": 256,
+        "top": 1034,
+        "width": 256,
+        "height": 246
+      }
+    },
+    {
+      "name": "PanelTop",
+      "theme": "dark",
+      "file": "PanelTop-dark.png",
+      "sha256": "88dda205159ee4dc6c35f5d8bb312c0bfbcbb09e88e1bf19fac0b13d122c0f8e",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 544,
+        "top": 1077,
+        "width": 193,
+        "height": 187
+      },
+      "cell": {
+        "left": 512,
+        "top": 1034,
+        "width": 256,
+        "height": 246
+      }
+    },
+    {
+      "name": "PanelsTopLeft",
+      "theme": "dark",
+      "file": "PanelsTopLeft-dark.png",
+      "sha256": "ddeae281a75caa2e26365de217a2b5706006dbd134e8db34afeb0aea4d554885",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 787,
+        "top": 1074,
+        "width": 199,
+        "height": 190
+      },
+      "cell": {
+        "left": 768,
+        "top": 1034,
+        "width": 256,
+        "height": 246
+      }
+    },
+    {
+      "name": "List",
+      "theme": "dark",
+      "file": "List-dark.png",
+      "sha256": "f3a389b4672ec1c8bf1fc9a83439d99b5f4903fb22e3d9e41ec1f47c9bf662d1",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 60,
+        "top": 1310,
+        "width": 184,
+        "height": 177
+      },
+      "cell": {
+        "left": 0,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "ListTree",
+      "theme": "dark",
+      "file": "ListTree-dark.png",
+      "sha256": "7ea353165f0052cb1c5c7634a1caae54f9aba6e4d474f7a933431a9845b4db06",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 289,
+        "top": 1308,
+        "width": 206,
+        "height": 180
+      },
+      "cell": {
+        "left": 256,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "SlidersHorizontal",
+      "theme": "dark",
+      "file": "SlidersHorizontal-dark.png",
+      "sha256": "90d64e747d0c14dc97fb95579a2cba683a2e3cc01945522d325c814906c5bd1f",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 554,
+        "top": 1309,
+        "width": 185,
+        "height": 172
+      },
+      "cell": {
+        "left": 512,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "CornerDownRight",
+      "theme": "dark",
+      "file": "CornerDownRight-dark.png",
+      "sha256": "2880b765e9a0b3e6d624dfe84fc665e9e125d640c718c286d2c67e9bff827427",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 808,
+        "top": 1307,
+        "width": 171,
+        "height": 176
+      },
+      "cell": {
+        "left": 768,
+        "top": 1280,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "BetweenHorizontalStart",
+      "theme": "light",
+      "file": "BetweenHorizontalStart-light.png",
+      "sha256": "5b5245af9d584c3a45734cc58b17850921e4a32710dd2e0f867019f24b4d2b3b",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 42,
+        "top": 69,
+        "width": 174,
+        "height": 190
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Move3d",
+      "theme": "light",
+      "file": "Move3d-light.png",
+      "sha256": "fe8cb7c01eec0c164806e34652011dedc16b40fb11a1a033a2c76cc37da551b1",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 277,
+        "top": 50,
+        "width": 218,
+        "height": 189
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Rotate3d",
+      "theme": "light",
+      "file": "Rotate3d-light.png",
+      "sha256": "6166e8adb6c29d6156bccf93b9d4c1dab110ab919e3a0526a02dae9f7578e64b",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 536,
+        "top": 73,
+        "width": 219,
+        "height": 190
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "RefreshCw",
+      "theme": "light",
+      "file": "RefreshCw-light.png",
+      "sha256": "2c8731b24fc0b555e5536d18e8052b7d3053ff6be78bb6f767a946025f51cf3a",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 813,
+        "top": 80,
+        "width": 181,
+        "height": 180
+      },
+      "cell": {
+        "left": 768,
+        "top": 0,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Ruler",
+      "theme": "light",
+      "file": "Ruler-light.png",
+      "sha256": "93981fbe731543336c4eaf78fcb420d2ea73cb9cac98cfde4485cd31912898ce",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 34,
+        "top": 305,
+        "width": 208,
+        "height": 200
+      },
+      "cell": {
+        "left": 0,
+        "top": 263,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "RulerDimensionLine",
+      "theme": "light",
+      "file": "RulerDimensionLine-light.png",
+      "sha256": "d98647e535ec1d795a40a719416fdf3cff9ce8ecbd629818a43f2256bca990c8",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 283,
+        "top": 347,
+        "width": 204,
+        "height": 116
+      },
+      "cell": {
+        "left": 256,
+        "top": 263,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "Eraser",
+      "theme": "light",
+      "file": "Eraser-light.png",
+      "sha256": "963f5bcf2365542fc1ed25867d590d04f86527209682e1436d340a391c3c9fcd",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 550,
+        "top": 311,
+        "width": 208,
+        "height": 194
+      },
+      "cell": {
+        "left": 512,
+        "top": 263,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "MousePointer2",
+      "theme": "light",
+      "file": "MousePointer2-light.png",
+      "sha256": "b05f1f120c1048466aeb59c63f1afca6fd574c1eef5a0ca779fd026897527c62",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 844,
+        "top": 301,
+        "width": 135,
+        "height": 209
+      },
+      "cell": {
+        "left": 768,
+        "top": 263,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "Crosshair",
+      "theme": "light",
+      "file": "Crosshair-light.png",
+      "sha256": "aa07cd1282d384d9ea8e7c425ba69dc0bf28a84669c4643d812d3e1128925c33",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 25,
+        "top": 539,
+        "width": 201,
+        "height": 206
+      },
+      "cell": {
+        "left": 0,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "MapPin",
+      "theme": "light",
+      "file": "MapPin-light.png",
+      "sha256": "03637ea624f14c2086084df149752077c4d0de4f38b568124368a634b3fa6c41",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 312,
+        "top": 538,
+        "width": 143,
+        "height": 201
+      },
+      "cell": {
+        "left": 256,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Cable",
+      "theme": "light",
+      "file": "Cable-light.png",
+      "sha256": "e8948c70e933d59d7bce5b0c3a569633988c0547a885ff29dd55a58e5285341f",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 528,
+        "top": 565,
+        "width": 236,
+        "height": 179
+      },
+      "cell": {
+        "left": 512,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Plug",
+      "theme": "light",
+      "file": "Plug-light.png",
+      "sha256": "09f841848f7f921160fc5b9b0432906019ac0cbceeb486888535de1ea2be8892",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 823,
+        "top": 547,
+        "width": 178,
+        "height": 197
+      },
+      "cell": {
+        "left": 768,
+        "top": 512,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "BetweenHorizontalStart",
+      "theme": "dark",
+      "file": "BetweenHorizontalStart-dark.png",
+      "sha256": "7a151a7281cabbe360ee5e5140e223c9a5fac1c5dca463985b394860da59edf5",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 42,
+        "top": 805,
+        "width": 174,
+        "height": 190
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Move3d",
+      "theme": "dark",
+      "file": "Move3d-dark.png",
+      "sha256": "d0e661b671e445de0dbb867d13843f577590ae5ac33b07655897c0d34892f2cd",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 276,
+        "top": 786,
+        "width": 219,
+        "height": 189
+      },
+      "cell": {
+        "left": 256,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Rotate3d",
+      "theme": "dark",
+      "file": "Rotate3d-dark.png",
+      "sha256": "ba2914db36d6efe31e17725d07ec8fabc57dd65391296b18e5ad6b7af14fe081",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 536,
+        "top": 809,
+        "width": 219,
+        "height": 190
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "RefreshCw",
+      "theme": "dark",
+      "file": "RefreshCw-dark.png",
+      "sha256": "4cea302b2299c477783dcf540491f8406ce1e65857bc679ee33f28b4e94d828a",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 813,
+        "top": 816,
+        "width": 181,
+        "height": 180
+      },
+      "cell": {
+        "left": 768,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "name": "Ruler",
+      "theme": "dark",
+      "file": "Ruler-dark.png",
+      "sha256": "c4d8f5f7bcaed077bb9053cf2286e9817f421f0a6271ae9472d7813ae8006eca",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 34,
+        "top": 1041,
+        "width": 208,
+        "height": 200
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "RulerDimensionLine",
+      "theme": "dark",
+      "file": "RulerDimensionLine-dark.png",
+      "sha256": "19389eb9609279f88ad30a16a51099d40fcd85d67adb61792210474f857388a7",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 283,
+        "top": 1083,
+        "width": 204,
+        "height": 116
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "Eraser",
+      "theme": "dark",
+      "file": "Eraser-dark.png",
+      "sha256": "5459c9c9fb156341e651a663d724e69eb8dd5b898f860edf727fcf71668ec96c",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 550,
+        "top": 1047,
+        "width": 208,
+        "height": 194
+      },
+      "cell": {
+        "left": 512,
+        "top": 1024,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "MousePointer2",
+      "theme": "dark",
+      "file": "MousePointer2-dark.png",
+      "sha256": "cb603142e312ab396c9af0d6f37e7c597913d6fd84351b4e3ec762612047558a",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 845,
+        "top": 1036,
+        "width": 134,
+        "height": 211
+      },
+      "cell": {
+        "left": 768,
+        "top": 1024,
+        "width": 256,
+        "height": 249
+      }
+    },
+    {
+      "name": "Crosshair",
+      "theme": "dark",
+      "file": "Crosshair-dark.png",
+      "sha256": "a86a9528790e5d2079449243647862fdaa5f328b23e98a1d0c40e961bc95e228",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 25,
+        "top": 1275,
+        "width": 201,
+        "height": 206
+      },
+      "cell": {
+        "left": 0,
+        "top": 1273,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "MapPin",
+      "theme": "dark",
+      "file": "MapPin-dark.png",
+      "sha256": "e4cbfe88e56fde8969b1bd1e4e0a3b4027161649d6a1ee9e3ac9c7062c3a1389",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 312,
+        "top": 1274,
+        "width": 143,
+        "height": 201
+      },
+      "cell": {
+        "left": 256,
+        "top": 1273,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Cable",
+      "theme": "dark",
+      "file": "Cable-dark.png",
+      "sha256": "a0245e224a642d880102303f43fbe58b13f26befc3fd608480e9b71eef5908f1",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 528,
+        "top": 1300,
+        "width": 235,
+        "height": 180
+      },
+      "cell": {
+        "left": 512,
+        "top": 1273,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Plug",
+      "theme": "dark",
+      "file": "Plug-dark.png",
+      "sha256": "d4d927d9f3922e4f9c5bfc7d52ab0c2ccc4c3c5be3d1ead57a51faa561e84830",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 823,
+        "top": 1283,
+        "width": 178,
+        "height": 197
+      },
+      "cell": {
+        "left": 768,
+        "top": 1273,
+        "width": 256,
+        "height": 263
+      }
+    },
+    {
+      "name": "Home",
+      "theme": "light",
+      "file": "Home-light.png",
+      "sha256": "8f0f5baea89528eff1ed8c497e6018e29de2bbeb497fbced9e67c02848a616bb",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 291,
+        "top": 77,
+        "width": 206,
+        "height": 207
+      },
+      "cell": {
+        "left": 256,
+        "top": 0,
+        "width": 256,
+        "height": 295
+      },
+      "aliasOf": "Tool_home"
+    },
+    {
+      "name": "Home",
+      "theme": "dark",
+      "file": "Home-dark.png",
+      "sha256": "34edd118c71fc65f575983411cc594d09e3b85030eab87defb2149743d93fd79",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 291,
+        "top": 816,
+        "width": 205,
+        "height": 211
+      },
+      "cell": {
+        "left": 256,
+        "top": 780,
+        "width": 256,
+        "height": 258
+      },
+      "aliasOf": "Tool_home"
+    },
+    {
+      "name": "Copy",
+      "theme": "light",
+      "file": "Copy-light.png",
+      "sha256": "0df47ca95bc0f0e807eeb0102076159f3aa993804cde73c4afb97f7220ee0413",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 538,
+        "top": 70,
+        "width": 183,
+        "height": 225
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 295
+      },
+      "aliasOf": "Tool_copy"
+    },
+    {
+      "name": "Copy",
+      "theme": "dark",
+      "file": "Copy-dark.png",
+      "sha256": "2c5431660b9bae3612211a4579c7417e8a6cc81ecc249a3c0013ac00739fe504",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 538,
+        "top": 813,
+        "width": 184,
+        "height": 225
+      },
+      "cell": {
+        "left": 512,
+        "top": 780,
+        "width": 256,
+        "height": 258
+      },
+      "aliasOf": "Tool_copy"
+    },
+    {
+      "name": "History",
+      "theme": "light",
+      "file": "History-light.png",
+      "sha256": "3aaa5d98c663066b3fbfcb24d5b4599b9ed73c410d24ad0c390251eda0df5365",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 530,
+        "top": 340,
+        "width": 194,
+        "height": 180
+      },
+      "cell": {
+        "left": 512,
+        "top": 295,
+        "width": 256,
+        "height": 237
+      },
+      "aliasOf": "Tool_undo"
+    },
+    {
+      "name": "History",
+      "theme": "dark",
+      "file": "History-dark.png",
+      "sha256": "30a324a2574df4efc7d0934a916a7b93b0ab6978303507f934af0253c93f5118",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 529,
+        "top": 1073,
+        "width": 198,
+        "height": 179
+      },
+      "cell": {
+        "left": 512,
+        "top": 1038,
+        "width": 256,
+        "height": 240
+      },
+      "aliasOf": "Tool_undo"
+    },
+    {
+      "name": "RotateCcw",
+      "theme": "light",
+      "file": "RotateCcw-light.png",
+      "sha256": "3aaa5d98c663066b3fbfcb24d5b4599b9ed73c410d24ad0c390251eda0df5365",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 530,
+        "top": 340,
+        "width": 194,
+        "height": 180
+      },
+      "cell": {
+        "left": 512,
+        "top": 295,
+        "width": 256,
+        "height": 237
+      },
+      "aliasOf": "Tool_undo"
+    },
+    {
+      "name": "RotateCcw",
+      "theme": "dark",
+      "file": "RotateCcw-dark.png",
+      "sha256": "30a324a2574df4efc7d0934a916a7b93b0ab6978303507f934af0253c93f5118",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 529,
+        "top": 1073,
+        "width": 198,
+        "height": 179
+      },
+      "cell": {
+        "left": 512,
+        "top": 1038,
+        "width": 256,
+        "height": 240
+      },
+      "aliasOf": "Tool_undo"
+    },
+    {
+      "name": "RotateCw",
+      "theme": "light",
+      "file": "RotateCw-light.png",
+      "sha256": "d30751cf63e732b5cd6112dc80f35ac5fb4a6eb3cce22b1c4144784bce0478bf",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 790,
+        "top": 341,
+        "width": 188,
+        "height": 176
+      },
+      "cell": {
+        "left": 768,
+        "top": 295,
+        "width": 256,
+        "height": 237
+      },
+      "aliasOf": "Tool_redo"
+    },
+    {
+      "name": "RotateCw",
+      "theme": "dark",
+      "file": "RotateCw-dark.png",
+      "sha256": "34bdb6839cf563cef475a2b3d57ad1c1b5d8a12a2efd0f6ae449e21399b2935e",
+      "source": "page-1-dd89b57f5a8a.png",
+      "origin": "page-1",
+      "sourceSha256": "dd89b57f5a8aaf98e23a4e1378dc2d8c41e0e33832a27702f6956b705c143982",
+      "crop": {
+        "left": 787,
+        "top": 1075,
+        "width": 191,
+        "height": 169
+      },
+      "cell": {
+        "left": 768,
+        "top": 1038,
+        "width": 256,
+        "height": 240
+      },
+      "aliasOf": "Tool_redo"
+    },
+    {
+      "name": "ChevronDown",
+      "theme": "light",
+      "file": "ChevronDown-light.png",
+      "sha256": "3ff1856eda3a5f37d3b2420f65471caa330e1c2b70b1e810b99432e29c9bf2ab",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 29,
+        "top": 97,
+        "width": 194,
+        "height": 144
+      },
+      "cell": {
+        "left": 0,
+        "top": 0,
+        "width": 256,
+        "height": 256
+      },
+      "aliasOf": "Tool_caret"
+    },
+    {
+      "name": "ChevronDown",
+      "theme": "dark",
+      "file": "ChevronDown-dark.png",
+      "sha256": "af4ba8c0bb77428dcd63904fa5cc6a6028b77b40890eeecd60b4a6cc45c95e43",
+      "source": "page-3-a80f123105e9.png",
+      "origin": "page-3",
+      "sourceSha256": "a80f123105e94a7ccb88561ea428573ccebe3acc5f5d00b8f0818bddf3668f75",
+      "crop": {
+        "left": 29,
+        "top": 837,
+        "width": 194,
+        "height": 144
+      },
+      "cell": {
+        "left": 0,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      },
+      "aliasOf": "Tool_caret"
+    },
+    {
+      "name": "CheckCircle2",
+      "theme": "light",
+      "file": "CheckCircle2-light.png",
+      "sha256": "5ff3df364947e07a5429148cf34a00890edf83eff8afe738a7586a8548c26865",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 294,
+        "top": 333,
+        "width": 195,
+        "height": 200
+      },
+      "cell": {
+        "left": 261,
+        "top": 294,
+        "width": 251,
+        "height": 241
+      },
+      "aliasOf": "CircleCheck"
+    },
+    {
+      "name": "CheckCircle2",
+      "theme": "dark",
+      "file": "CheckCircle2-dark.png",
+      "sha256": "60e8832a4b92b42c6ff5c60b361d87340c064e21934025df9a95ec42c3ff883d",
+      "source": "page-6-8396522bbf9b.png",
+      "origin": "page-6",
+      "sourceSha256": "8396522bbf9bd9d6f317015fdd24228c2d2ffbe3e2819eabbc976ba73be16f37",
+      "crop": {
+        "left": 294,
+        "top": 1068,
+        "width": 195,
+        "height": 200
+      },
+      "cell": {
+        "left": 261,
+        "top": 1028,
+        "width": 251,
+        "height": 252
+      },
+      "aliasOf": "CircleCheck"
+    },
+    {
+      "name": "Link2",
+      "theme": "light",
+      "file": "Link2-light.png",
+      "sha256": "df70bad5b54a2311e0668fe082e38ba4ae596233569c2a613452437218850425",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 540,
+        "top": 96,
+        "width": 193,
+        "height": 192
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 299
+      },
+      "aliasOf": "Link"
+    },
+    {
+      "name": "Link2",
+      "theme": "dark",
+      "file": "Link2-dark.png",
+      "sha256": "2dcf6413ea0e5437ab87c0c0a94a67687de4a5e5c5515be880bebeafee74371b",
+      "source": "page-8-febb3b139234.png",
+      "origin": "page-8",
+      "sourceSha256": "febb3b13923479e599a5d1ee15cf61f8b31e92e0f73450243d9669fd0c7e1df7",
+      "crop": {
+        "left": 540,
+        "top": 828,
+        "width": 194,
+        "height": 193
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 266
+      },
+      "aliasOf": "Link"
+    },
+    {
+      "name": "Shape_box",
+      "theme": "light",
+      "file": "Shape_box-light.png",
+      "sha256": "2ecbbce74c701ecbc6359587c210bbaae0a885b7566d49018b7a796d84e5bfba",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 771,
+        "top": 58,
+        "width": 289,
+        "height": 321
+      },
+      "cell": {
+        "left": 724,
+        "top": 0,
+        "width": 362,
+        "height": 379
+      },
+      "aliasOf": "Box"
+    },
+    {
+      "name": "Shape_box",
+      "theme": "dark",
+      "file": "Shape_box-dark.png",
+      "sha256": "7da88a3fd33f7931d1b29f7ffc621c29c1e330798ace30ccb7c73aeef3a91110",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 770,
+        "top": 775,
+        "width": 290,
+        "height": 321
+      },
+      "cell": {
+        "left": 724,
+        "top": 734,
+        "width": 362,
+        "height": 362
+      },
+      "aliasOf": "Box"
+    },
+    {
+      "name": "Shape_text",
+      "theme": "light",
+      "file": "Shape_text-light.png",
+      "sha256": "b488649ba78ff70e14484580ee5e42707628d50f24d0c572c4ec0de025982897",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 547,
+        "top": 59,
+        "width": 184,
+        "height": 205
+      },
+      "cell": {
+        "left": 512,
+        "top": 0,
+        "width": 256,
+        "height": 264
+      },
+      "aliasOf": "Type"
+    },
+    {
+      "name": "Shape_text",
+      "theme": "dark",
+      "file": "Shape_text-dark.png",
+      "sha256": "0b334e20867a310fa217b6836411f5b8fb6d09d7916adaabff21f12cdd78c086",
+      "source": "page-10-94befa73c004.png",
+      "origin": "page-10",
+      "sourceSha256": "94befa73c004c51f3d2489cda80b7049f1b25fee1b9dc60f3e4f7eec52a07325",
+      "crop": {
+        "left": 547,
+        "top": 794,
+        "width": 185,
+        "height": 206
+      },
+      "cell": {
+        "left": 512,
+        "top": 768,
+        "width": 256,
+        "height": 256
+      },
+      "aliasOf": "Type"
+    },
+    {
+      "name": "Shape_thread",
+      "theme": "light",
+      "file": "Shape_thread-light.png",
+      "sha256": "b15db0fa13e6d22655960fed516b24dd057f2d984d7920d615da068fef679e24",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 288,
+        "top": 297,
+        "width": 198,
+        "height": 207
+      },
+      "cell": {
+        "left": 256,
+        "top": 259,
+        "width": 256,
+        "height": 253
+      },
+      "aliasOf": "ThreadRod"
+    },
+    {
+      "name": "Shape_thread",
+      "theme": "dark",
+      "file": "Shape_thread-dark.png",
+      "sha256": "2e63054ede6692442acc2f11e55914d95a34e49b0de579ab6d8c8f7d4cb0f549",
+      "source": "page-4-a066c036acd6.png",
+      "origin": "page-4",
+      "sourceSha256": "a066c036acd65c9210a0b7f5c8ffccb7423e1188bdfa51c4725b68cd7bb37ea3",
+      "crop": {
+        "left": 288,
+        "top": 1048,
+        "width": 198,
+        "height": 208
+      },
+      "cell": {
+        "left": 256,
+        "top": 1024,
+        "width": 256,
+        "height": 256
+      },
+      "aliasOf": "ThreadRod"
+    },
+    {
+      "name": "Shape_gear",
+      "theme": "light",
+      "file": "Shape_gear-light.png",
+      "sha256": "a690942c8ff9aadde10284fb0ada1b0bb67451020cd6c709d8cb1373f8d3e5c6",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 421,
+        "top": 418,
+        "width": 295,
+        "height": 299
+      },
+      "cell": {
+        "left": 362,
+        "top": 379,
+        "width": 362,
+        "height": 355
+      },
+      "aliasOf": "Tool_settings"
+    },
+    {
+      "name": "Shape_gear",
+      "theme": "dark",
+      "file": "Shape_gear-dark.png",
+      "sha256": "4200d3079c251a0fd46082b3118883dd8ae5c35d4ca2b841502a2dddfb5fc096",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 422,
+        "top": 1132,
+        "width": 296,
+        "height": 301
+      },
+      "cell": {
+        "left": 362,
+        "top": 1096,
+        "width": 362,
+        "height": 352
+      },
+      "aliasOf": "Tool_settings"
+    },
+    {
+      "name": "Shape_ruler",
+      "theme": "light",
+      "file": "Shape_ruler-light.png",
+      "sha256": "93981fbe731543336c4eaf78fcb420d2ea73cb9cac98cfde4485cd31912898ce",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 34,
+        "top": 305,
+        "width": 208,
+        "height": 200
+      },
+      "cell": {
+        "left": 0,
+        "top": 263,
+        "width": 256,
+        "height": 249
+      },
+      "aliasOf": "Ruler"
+    },
+    {
+      "name": "Shape_ruler",
+      "theme": "dark",
+      "file": "Shape_ruler-dark.png",
+      "sha256": "c4d8f5f7bcaed077bb9053cf2286e9817f421f0a6271ae9472d7813ae8006eca",
+      "source": "page-9-dd791e178198.png",
+      "origin": "page-9",
+      "sourceSha256": "dd791e1781987e0c5a27d4596ff40b4701e4cdc8b9e34a2f70ac4033010e7e64",
+      "crop": {
+        "left": 34,
+        "top": 1041,
+        "width": 208,
+        "height": 200
+      },
+      "cell": {
+        "left": 0,
+        "top": 1024,
+        "width": 256,
+        "height": 249
+      },
+      "aliasOf": "Ruler"
+    },
+    {
+      "name": "Shape_gear-spur",
+      "theme": "light",
+      "file": "Shape_gear-spur-light.png",
+      "sha256": "a690942c8ff9aadde10284fb0ada1b0bb67451020cd6c709d8cb1373f8d3e5c6",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 421,
+        "top": 418,
+        "width": 295,
+        "height": 299
+      },
+      "cell": {
+        "left": 362,
+        "top": 379,
+        "width": 362,
+        "height": 355
+      },
+      "aliasOf": "Tool_settings"
+    },
+    {
+      "name": "Shape_gear-spur",
+      "theme": "dark",
+      "file": "Shape_gear-spur-dark.png",
+      "sha256": "4200d3079c251a0fd46082b3118883dd8ae5c35d4ca2b841502a2dddfb5fc096",
+      "source": "core-d706cc135957.png",
+      "origin": "core",
+      "sourceSha256": "d706cc1359579b113ba10683820070b4171a1fe44b809fa5eafd60cf7f8d13bb",
+      "crop": {
+        "left": 422,
+        "top": 1132,
+        "width": 296,
+        "height": 301
+      },
+      "cell": {
+        "left": 362,
+        "top": 1096,
+        "width": 362,
+        "height": 352
+      },
+      "aliasOf": "Tool_settings"
+    }
+  ]
+}
