@@ -1,14 +1,14 @@
 # Canvas Studio
 
-**Free 3D design software for Windows that works offline.**
+**Free 3D design software for Windows and Linux that works offline.**
 
-Canvas Studio is a Windows workspace for makers, 3D printing enthusiasts, and anyone designing a part that needs to fit. Start with the familiar ease of Tinkercad and use more precise tools as your design takes shape.
+Canvas Studio gives makers and 3D printing enthusiasts a workspace for designing parts that need to fit. Start with the familiar ease of Tinkercad and use more precise tools as your design takes shape.
 
 1. **Build with simple shapes.** Drop boxes, cylinders, and other shapes onto the workplane. Combine them into one body, or turn a shape into a hole to subtract it from another. For example, start a mounting bracket with two boxes and use cylinders to cut the screw holes.
 2. **Get the dimensions and placement right.** Enter exact sizes, snap parts to the grid, align or mirror them, and use linear or circular repeats for evenly spaced features. Use a 2D sketch and extrude it when you need a custom profile. Measure between points, edges, or faces and use a live section to check clearances inside the model.
 3. **Finish the part.** Chamfer edges for a beveled finish or round them with fillets. Add surface text, paint, or a relief texture where it suits the design. Save the editable project, then export STL or 3MF for slicing, or STEP for further CAD work when the geometry supports it.
 
-**[Windows downloads and release notes](https://github.com/AlphaStudioDE/CanvasStudio/releases)** · [Po polsku](#canvas-studio-po-polsku)
+**[Windows and Linux downloads and release notes](https://github.com/AlphaStudioDE/CanvasStudio/releases)** · [Po polsku](#canvas-studio-po-polsku)
 
 ## Canvas Studio in action
 
@@ -59,7 +59,7 @@ The desktop app keeps your project library on your machine. Optional AI integrat
 
 ## Canvas Studio po polsku
 
-**Canvas Studio to całkowicie darmowy program do projektowania 3D na Windows, który działa offline.** Zacznij tak prosto jak w Tinkercadzie, a po dokładniejsze narzędzia sięgaj w miarę rozwoju projektu.
+**Canvas Studio to całkowicie darmowy program do projektowania 3D na Windows i Linuksa, który działa offline.** Zacznij tak prosto jak w Tinkercadzie, a po dokładniejsze narzędzia sięgaj w miarę rozwoju projektu.
 
 1. **Zbuduj model z prostych brył.** Umieść prostopadłościany, walce i inne kształty na płaszczyźnie roboczej. Łącz je w jedną bryłę albo oznacz kształt jako otwór, żeby odjąć go od innego. Na przykład wspornik możesz złożyć z dwóch prostopadłościanów, a walcami wyciąć otwory na śruby.
 2. **Dopasuj wymiary i położenie.** Wpisuj dokładne wymiary, korzystaj z przyciągania do siatki, wyrównuj i odbijaj elementy. Powtórzenia liniowe i kołowe pomagają zachować równe odstępy. Własny obrys narysuj w szkicu 2D i wyciągnij go do bryły. Sprawdź odległości między punktami, krawędziami lub powierzchniami, a wnętrze modelu obejrzyj w podglądzie przekroju.
@@ -69,7 +69,7 @@ The desktop app keeps your project library on your machine. Optional AI integrat
 - **Od rysunku technicznego do modelu.** OCR odczytuje oznaczenia wymiarów. Możesz sprawdzić odczyt i zatwierdzić przypisanie obsługiwanych wymiarów do geometrii.
 - **Prezentacja i nagrywanie.** Wyznacz punkty kamery, wygnij trasę i zmień tempo na poszczególnych odcinkach. Do wyboru jest 20 tras, m.in. pełne orbity, spirale i wiry. Własne trasy możesz zapisać jako szablony.
 
-**[Wydania Windows](https://github.com/AlphaStudioDE/CanvasStudio/releases)**
+**[Wydania na Windows i Linuksa](https://github.com/AlphaStudioDE/CanvasStudio/releases)**
 
 ---
 
