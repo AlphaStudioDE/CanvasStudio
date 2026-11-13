@@ -6,6 +6,42 @@ Canvas Studio is a Windows workspace for makers, 3D printing enthusiasts, and an
 
 **[Windows downloads and release notes](https://github.com/AlphaStudioDE/CanvasStudio/releases)** · [Po polsku](#canvas-studio-po-polsku)
 
+## Canvas Studio in action
+
+### 3D modeling workspace
+
+A complete miniature workshop with a 3D printer, filament racks, tools, and textured walls, open in the Canvas Studio editor.
+
+![Canvas Studio editor showing a complete 3D printing workshop](screenshots/02-workshop.png)
+
+### Build a hinge with Canvas Agent
+
+Start with an empty project and describe the part in English. The agent builds two contrasting hinge leaves with four mounting holes, alternating knuckles, and a separate pin.
+
+| Prompt in an empty project | Modeling in progress |
+| --- | --- |
+| ![English hinge prompt in an empty Canvas Studio project](screenshots/04a-ai-agent-start.png) | ![Canvas Agent building the hinge and applying CAD operations](screenshots/04b-ai-agent-building.png) |
+
+![Completed hinge with the agent's English modeling report](screenshots/04c-ai-agent-result.png)
+
+### Inspect, measure, and sketch
+
+| Section preview | Point-to-point measurement | 2D sketch workspace |
+| --- | --- | --- |
+| ![Live cross-section through the workshop](screenshots/03-section.png) | ![Measurement between two points on a hinge leaf](screenshots/03b-measure.png) | ![Top-down hinge outline and sketch tools](screenshots/06-sketch-view.png) |
+
+### Create a video presentation
+
+The presentation editor shows the workshop alongside an editable camera route, with numbered viewpoints and controls for individual segments.
+
+![Presentation creator with an orbit path around the workshop](screenshots/05-presentation-creator.png)
+
+### Browse projects
+
+Group related designs and find recent projects through their thumbnails.
+
+![Canvas Studio project browser with groups and project thumbnails](screenshots/01-projects.png)
+
 ### What you can do
 
 | Workflow | In Canvas Studio |
