@@ -8,7 +8,7 @@ Canvas Studio gives makers and 3D printing enthusiasts a workspace for designing
 2. **Get the dimensions and placement right.** Enter exact sizes, snap parts to the grid, align or mirror them, and use linear or circular repeats for evenly spaced features. Use a 2D sketch and extrude it when you need a custom profile. Measure between points, edges, or faces and use a live section to check clearances inside the model.
 3. **Finish the part.** Chamfer edges for a beveled finish or round them with fillets. Add surface text, paint, or a relief texture where it suits the design. Save the editable project, then export STL or 3MF for slicing, or STEP for further CAD work when the geometry supports it.
 
-**[Windows and Linux downloads and release notes](https://github.com/AlphaStudioDE/CanvasStudio/releases)** · [Po polsku](#canvas-studio-po-polsku)
+**[Try Canvas Studio in your browser](https://alphastudiode.github.io/CanvasStudio/)** · **[Windows and Linux downloads and release notes](https://github.com/AlphaStudioDE/CanvasStudio/releases)** · [Po polsku](#canvas-studio-po-polsku)
 
 ## Canvas Studio in action
 
@@ -69,7 +69,7 @@ The desktop app keeps your project library on your machine. Optional AI integrat
 - **Od rysunku technicznego do modelu.** OCR odczytuje oznaczenia wymiarów. Możesz sprawdzić odczyt i zatwierdzić przypisanie obsługiwanych wymiarów do geometrii.
 - **Prezentacja i nagrywanie.** Wyznacz punkty kamery, wygnij trasę i zmień tempo na poszczególnych odcinkach. Do wyboru jest 20 tras, m.in. pełne orbity, spirale i wiry. Własne trasy możesz zapisać jako szablony.
 
-**[Wydania na Windows i Linuksa](https://github.com/AlphaStudioDE/CanvasStudio/releases)**
+**[Otwórz Canvas Studio w przeglądarce](https://alphastudiode.github.io/CanvasStudio/)** · **[Wydania na Windows i Linuksa](https://github.com/AlphaStudioDE/CanvasStudio/releases)**
 
 ---
 
