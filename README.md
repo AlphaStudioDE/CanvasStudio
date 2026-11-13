@@ -10,6 +10,10 @@ Canvas Studio gives makers and 3D printing enthusiasts a workspace for designing
 
 **[Try Canvas Studio in your browser](https://alphastudiode.github.io/CanvasStudio/)** · **[Windows and Linux downloads and release notes](https://github.com/AlphaStudioDE/CanvasStudio/releases)** · [Po polsku](#canvas-studio-po-polsku)
 
+### Install Canvas Studio on Android
+
+Open Canvas Studio in Chrome. Tap **⋮ → Install app**, or **⋮ → Install and create shortcut → Install**. Then open Canvas Studio from its home screen icon to use it without the browser address bar. [Open Canvas Studio](https://alphastudiode.github.io/CanvasStudio/)
+
 ## Canvas Studio in action
 
 ### 3D modeling workspace
@@ -70,6 +74,10 @@ The desktop app keeps your project library on your machine. Optional AI integrat
 - **Prezentacja i nagrywanie.** Wyznacz punkty kamery, wygnij trasę i zmień tempo na poszczególnych odcinkach. Do wyboru jest 20 tras, m.in. pełne orbity, spirale i wiry. Własne trasy możesz zapisać jako szablony.
 
 **[Otwórz Canvas Studio w przeglądarce](https://alphastudiode.github.io/CanvasStudio/)** · **[Wydania na Windows i Linuksa](https://github.com/AlphaStudioDE/CanvasStudio/releases)**
+
+### Zainstaluj Canvas Studio na Androidzie
+
+Otwórz Canvas Studio w Chrome. Wybierz **⋮ → Zainstaluj aplikację** lub **⋮ → Zainstaluj i utwórz skrót → Zainstaluj**. Potem uruchom Canvas Studio z ikony na ekranie głównym, aby korzystać z edytora bez paska adresu przeglądarki. [Otwórz Canvas Studio](https://alphastudiode.github.io/CanvasStudio/)
 
 ---
 
