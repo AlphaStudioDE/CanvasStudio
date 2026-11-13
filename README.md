@@ -14,7 +14,13 @@ Canvas Studio gives makers and 3D printing enthusiasts a workspace for designing
 
 Open Canvas Studio in Chrome. Tap **⋮ → Install app**, or **⋮ → Install and create shortcut → Install**. Then open Canvas Studio from its home screen icon to use it without the browser address bar. [Open Canvas Studio](https://alphastudiode.github.io/CanvasStudio/)
 
+**Portrait**
+
 <img src="screenshots/07-android-editor.jpg" width="300" alt="Canvas Studio web editor on an Android phone">
+
+**Landscape**
+
+<img src="screenshots/08-android-editor-landscape.jpg" width="720" alt="Landscape · Canvas Studio">
 
 ## Canvas Studio in action
 
@@ -81,7 +87,13 @@ The desktop app keeps your project library on your machine. Optional AI integrat
 
 Otwórz Canvas Studio w Chrome. Wybierz **⋮ → Zainstaluj aplikację** lub **⋮ → Zainstaluj i utwórz skrót → Zainstaluj**. Potem uruchom Canvas Studio z ikony na ekranie głównym, aby korzystać z edytora bez paska adresu przeglądarki. [Otwórz Canvas Studio](https://alphastudiode.github.io/CanvasStudio/)
 
+**Widok pionowy**
+
 <img src="screenshots/07-android-editor.jpg" width="300" alt="Edytor przeglądarkowy Canvas Studio na telefonie z Androidem">
+
+**Widok poziomy**
+
+<img src="screenshots/08-android-editor-landscape.jpg" width="720" alt="Widok poziomy · Canvas Studio">
 
 ---
 
